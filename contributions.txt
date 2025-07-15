@@ -1999,3 +1999,4 @@
 [2026-07-13T07:22:44.000Z] - feat: add multi-language localization support
 [2026-07-13T08:25:48.000Z] - docs: correct typos and outdated command references in README
 [2025-07-15T02:04:34.000Z] - docs: update installation guides and api endpoints documentation
+[2025-07-15T02:51:11.000Z] - refactor: clean up deprecated helper functions
