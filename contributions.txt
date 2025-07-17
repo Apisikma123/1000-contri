@@ -8,3 +8,4 @@
 [2025-07-16T13:48:59.000Z] - docs: update installation guides and api endpoints documentation
 [2025-07-17T04:35:54.000Z] - feat: add automatic retry mechanism for api requests
 [2025-07-17T07:19:57.000Z] - chore: configure webpack config for code splitting
+[2025-07-17T09:41:58.000Z] - feat: add multi-language localization support
