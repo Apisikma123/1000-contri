@@ -14955,3 +14955,4 @@
 [2025-07-18T05:05:47.000Z] - chore: bump dependencies and library versions
 [2025-07-18T05:55:58.000Z] - refactor: optimize database query performance
 [2025-07-18T10:37:39.000Z] - perf: improve bundle size optimization and asset loading
+[2025-07-18T12:39:26.000Z] - docs: update installation guides and api endpoints documentation
