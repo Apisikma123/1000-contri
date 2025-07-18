@@ -2043,3 +2043,4 @@
 [2025-07-18T08:31:11.000Z] - feat: add automatic retry mechanism for api requests
 [2025-07-18T09:03:58.000Z] - docs: update installation guides and api endpoints documentation
 [2025-07-18T09:28:35.000Z] - feat: add multi-language localization support
+[2025-07-18T09:32:27.000Z] - docs: correct typos and outdated command references in README
