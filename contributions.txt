@@ -17174,3 +17174,4 @@
 [2025-07-22T03:07:47.000Z] - docs: update installation guides and api endpoints documentation
 [2025-07-22T03:32:39.000Z] - chore: bump dependencies and library versions
 [2025-07-22T06:33:00.000Z] - refactor: clean up deprecated helper functions
+[2025-07-22T08:43:26.000Z] - fix: resolve race condition in authentication middleware
