@@ -7815,3 +7815,4 @@
 [2025-07-22T16:18:52.000Z] - docs: update installation guides and api endpoints documentation
 [2025-07-23T02:03:57.000Z] - refactor: clean up deprecated helper functions
 [2025-07-23T02:15:53.000Z] - feat: add multi-language localization support
+[2025-07-23T02:31:22.000Z] - refactor: clean up deprecated helper functions
