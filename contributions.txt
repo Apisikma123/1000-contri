@@ -7837,3 +7837,4 @@
 [2025-07-23T11:45:58.000Z] - fix: handle unexpected null pointer exception in parser
 [2025-07-23T12:14:21.000Z] - refactor: optimize database query performance
 [2025-07-23T14:04:29.000Z] - docs: correct typos and outdated command references in README
+[2025-07-23T14:25:46.000Z] - docs: update installation guides and api endpoints documentation
