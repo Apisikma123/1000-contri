@@ -1026,3 +1026,4 @@
 [2025-07-23T08:24:05.000Z] - fix: improve responsive layout on mobile viewport
 [2025-07-23T10:05:17.000Z] - style: format codebase using new prettier rules
 [2025-07-23T13:36:44.000Z] - chore: bump dependencies and library versions
+[2025-07-24T02:03:17.000Z] - docs: correct typos and outdated command references in README
