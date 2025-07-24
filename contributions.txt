@@ -2097,3 +2097,4 @@
 [2025-07-24T09:14:44.000Z] - chore: bump dependencies and library versions
 [2025-07-24T09:26:22.000Z] - chore: configure webpack config for code splitting
 [2025-07-24T09:46:47.000Z] - chore: configure webpack config for code splitting
+[2025-07-24T10:05:02.000Z] - docs: update installation guides and api endpoints documentation
