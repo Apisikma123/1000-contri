@@ -5497,3 +5497,4 @@
 [2025-07-24T10:09:01.000Z] - docs: update installation guides and api endpoints documentation
 [2025-07-24T10:34:03.000Z] - fix: improve responsive layout on mobile viewport
 [2025-07-24T11:04:49.000Z] - docs: update installation guides and api endpoints documentation
+[2025-07-25T05:51:05.000Z] - fix: handle unexpected null pointer exception in parser
