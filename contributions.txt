@@ -15983,3 +15983,4 @@
 [2025-07-25T03:06:20.000Z] - docs: update installation guides and api endpoints documentation
 [2025-07-25T03:17:19.000Z] - fix: improve responsive layout on mobile viewport
 [2025-07-25T03:19:35.000Z] - feat: add automatic retry mechanism for api requests
+[2025-07-25T04:01:32.000Z] - docs: update installation guides and api endpoints documentation
