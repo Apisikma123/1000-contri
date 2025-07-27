@@ -15985,3 +15985,4 @@
 [2025-07-25T03:19:35.000Z] - feat: add automatic retry mechanism for api requests
 [2025-07-25T04:01:32.000Z] - docs: update installation guides and api endpoints documentation
 [2025-07-25T08:05:25.000Z] - feat: add multi-language localization support
+[2025-07-27T02:17:27.000Z] - docs: update installation guides and api endpoints documentation
