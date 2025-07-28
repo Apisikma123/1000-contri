@@ -39,3 +39,4 @@
 [2025-07-25T16:07:17.000Z] - feat: add automatic retry mechanism for api requests
 [2025-07-28T05:25:11.000Z] - chore: configure webpack config for code splitting
 [2025-07-28T07:21:04.000Z] - fix: handle unexpected null pointer exception in parser
+[2025-07-28T09:56:10.000Z] - feat: add multi-language localization support
