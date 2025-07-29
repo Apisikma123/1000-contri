@@ -17211,3 +17211,4 @@
 [2025-07-28T15:55:06.000Z] - chore: bump dependencies and library versions
 [2025-07-29T01:02:47.000Z] - perf: improve bundle size optimization and asset loading
 [2025-07-29T03:07:16.000Z] - fix: handle unexpected null pointer exception in parser
+[2025-07-29T03:25:39.000Z] - docs: update installation guides and api endpoints documentation
