@@ -7941,3 +7941,4 @@
 [2025-07-29T06:57:52.000Z] - fix: improve responsive layout on mobile viewport
 [2025-07-29T07:04:28.000Z] - feat: implement custom user dashboard analytics widget
 [2025-07-29T07:32:50.000Z] - feat: implement custom user dashboard analytics widget
+[2025-07-29T07:36:15.000Z] - docs: update installation guides and api endpoints documentation
