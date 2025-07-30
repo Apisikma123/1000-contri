@@ -14987,3 +14987,4 @@
 [2025-07-30T03:45:07.000Z] - docs: update installation guides and api endpoints documentation
 [2025-07-30T07:59:51.000Z] - feat: add automatic retry mechanism for api requests
 [2025-07-30T08:56:51.000Z] - feat: add multi-language localization support
+[2025-07-30T09:38:42.000Z] - fix: handle unexpected null pointer exception in parser
