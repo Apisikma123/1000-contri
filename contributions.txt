@@ -5529,3 +5529,4 @@
 [2025-07-30T05:14:47.000Z] - chore: bump dependencies and library versions
 [2025-07-30T08:33:38.000Z] - feat: add multi-language localization support
 [2025-07-30T09:37:04.000Z] - feat: add multi-language localization support
+[2025-07-30T10:01:05.000Z] - fix: improve responsive layout on mobile viewport
