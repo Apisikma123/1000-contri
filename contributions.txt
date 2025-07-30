@@ -2153,3 +2153,4 @@
 [2025-07-30T08:23:15.000Z] - chore: configure webpack config for code splitting
 [2025-07-30T09:00:17.000Z] - fix: handle unexpected null pointer exception in parser
 [2025-07-30T12:32:17.000Z] - fix: improve responsive layout on mobile viewport
+[2025-07-30T14:24:44.000Z] - docs: update installation guides and api endpoints documentation
