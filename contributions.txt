@@ -7975,3 +7975,4 @@
 [2025-07-30T11:31:17.000Z] - refactor: optimize database query performance
 [2025-07-30T13:13:41.000Z] - feat: add automatic retry mechanism for api requests
 [2025-07-30T13:13:54.000Z] - docs: correct typos and outdated command references in README
+[2025-07-30T13:37:55.000Z] - docs: update installation guides and api endpoints documentation
