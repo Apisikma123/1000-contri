@@ -2155,3 +2155,4 @@
 [2025-07-30T12:32:17.000Z] - fix: improve responsive layout on mobile viewport
 [2025-07-30T14:24:44.000Z] - docs: update installation guides and api endpoints documentation
 [2025-07-31T01:27:14.000Z] - refactor: clean up deprecated helper functions
+[2025-07-31T02:27:16.000Z] - refactor: clean up deprecated helper functions
