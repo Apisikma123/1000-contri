@@ -17226,3 +17226,4 @@
 [2025-07-31T02:24:35.000Z] - docs: update installation guides and api endpoints documentation
 [2025-07-31T02:26:17.000Z] - chore: configure webpack config for code splitting
 [2025-07-31T03:59:31.000Z] - feat: add multi-language localization support
+[2025-07-31T04:53:52.000Z] - fix: handle unexpected null pointer exception in parser
