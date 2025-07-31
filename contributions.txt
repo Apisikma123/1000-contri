@@ -7989,3 +7989,4 @@
 [2025-07-31T04:17:01.000Z] - chore: bump dependencies and library versions
 [2025-07-31T04:19:20.000Z] - refactor: clean up deprecated helper functions
 [2025-07-31T06:02:36.000Z] - test: implement integration tests for checkout flow
+[2025-07-31T07:05:10.000Z] - docs: update installation guides and api endpoints documentation
