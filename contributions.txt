@@ -8030,3 +8030,4 @@
 [2025-08-01T11:54:27.000Z] - chore: configure webpack config for code splitting
 [2025-08-01T12:57:27.000Z] - chore: configure webpack config for code splitting
 [2025-08-01T13:18:05.000Z] - docs: correct typos and outdated command references in README
+[2025-08-01T14:15:39.000Z] - docs: update installation guides and api endpoints documentation
