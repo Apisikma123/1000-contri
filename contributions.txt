@@ -55,3 +55,4 @@
 [2025-08-01T06:20:32.000Z] - feat: add automatic retry mechanism for api requests
 [2025-08-01T08:52:43.000Z] - feat: add automatic retry mechanism for api requests
 [2025-08-01T10:35:01.000Z] - chore: configure webpack config for code splitting
+[2025-08-02T14:07:36.000Z] - docs: update installation guides and api endpoints documentation
