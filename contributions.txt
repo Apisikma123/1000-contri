@@ -8035,3 +8035,4 @@
 [2025-08-01T16:46:04.000Z] - test: implement integration tests for checkout flow
 [2025-08-02T04:42:48.000Z] - fix: handle unexpected null pointer exception in parser
 [2025-08-02T07:25:25.000Z] - docs: update installation guides and api endpoints documentation
+[2025-08-02T07:46:51.000Z] - docs: correct typos and outdated command references in README
