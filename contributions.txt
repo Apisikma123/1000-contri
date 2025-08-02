@@ -2178,3 +2178,4 @@
 [2025-08-01T13:58:18.000Z] - perf: improve bundle size optimization and asset loading
 [2025-08-01T14:56:43.000Z] - perf: improve bundle size optimization and asset loading
 [2025-08-01T16:50:36.000Z] - perf: improve bundle size optimization and asset loading
+[2025-08-02T04:15:30.000Z] - docs: update installation guides and api endpoints documentation
