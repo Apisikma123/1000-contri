@@ -8066,3 +8066,4 @@
 [2025-08-04T12:16:19.000Z] - fix: handle unexpected null pointer exception in parser
 [2025-08-04T12:44:19.000Z] - style: format codebase using new prettier rules
 [2025-08-04T12:56:45.000Z] - fix: handle unexpected null pointer exception in parser
+[2025-08-04T18:00:11.000Z] - docs: update installation guides and api endpoints documentation
