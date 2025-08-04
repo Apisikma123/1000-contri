@@ -2184,3 +2184,4 @@
 [2025-08-03T03:57:08.000Z] - docs: correct typos and outdated command references in README
 [2025-08-03T08:45:19.000Z] - refactor: clean up deprecated helper functions
 [2025-08-03T09:48:34.000Z] - refactor: clean up deprecated helper functions
+[2025-08-04T02:46:58.000Z] - docs: correct typos and outdated command references in README
