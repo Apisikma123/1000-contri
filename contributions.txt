@@ -2206,3 +2206,4 @@
 [2025-08-05T09:53:09.000Z] - fix: improve responsive layout on mobile viewport
 [2025-08-05T10:21:37.000Z] - fix: handle unexpected null pointer exception in parser
 [2025-08-05T10:40:11.000Z] - fix: improve responsive layout on mobile viewport
+[2025-08-05T14:48:42.000Z] - docs: correct typos and outdated command references in README
