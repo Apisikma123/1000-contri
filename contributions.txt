@@ -1058,3 +1058,4 @@
 [2025-08-01T14:28:58.000Z] - chore: bump dependencies and library versions
 [2025-08-02T05:27:17.000Z] - feat: implement custom user dashboard analytics widget
 [2025-08-04T02:50:13.000Z] - feat: implement custom user dashboard analytics widget
+[2025-08-05T03:15:28.000Z] - docs: update installation guides and api endpoints documentation
