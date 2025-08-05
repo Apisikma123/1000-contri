@@ -5564,3 +5564,4 @@
 [2025-08-05T09:26:10.000Z] - fix: improve responsive layout on mobile viewport
 [2025-08-05T10:47:15.000Z] - perf: improve bundle size optimization and asset loading
 [2025-08-05T10:58:26.000Z] - feat: add multi-language localization support
+[2025-08-05T13:02:07.000Z] - docs: correct typos and outdated command references in README
