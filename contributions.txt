@@ -8106,3 +8106,4 @@
 [2025-08-06T05:01:34.000Z] - style: format codebase using new prettier rules
 [2025-08-06T06:10:58.000Z] - style: format codebase using new prettier rules
 [2025-08-06T07:43:32.000Z] - refactor: clean up deprecated helper functions
+[2025-08-06T07:54:29.000Z] - fix: improve responsive layout on mobile viewport
