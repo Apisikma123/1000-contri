@@ -8115,3 +8115,4 @@
 [2025-08-06T11:00:31.000Z] - perf: improve bundle size optimization and asset loading
 [2025-08-06T14:02:56.000Z] - feat: add multi-language localization support
 [2025-08-06T14:30:32.000Z] - chore: bump dependencies and library versions
+[2025-08-06T14:42:21.000Z] - docs: update installation guides and api endpoints documentation
