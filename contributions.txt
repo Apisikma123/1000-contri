@@ -1065,3 +1065,4 @@
 [2025-08-06T06:47:18.000Z] - refactor: clean up deprecated helper functions
 [2025-08-06T08:19:23.000Z] - docs: correct typos and outdated command references in README
 [2025-08-06T08:42:11.000Z] - chore: configure webpack config for code splitting
+[2025-08-06T11:39:49.000Z] - feat: add multi-language localization support
