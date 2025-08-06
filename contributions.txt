@@ -16022,3 +16022,4 @@
 [2025-08-06T00:12:10.000Z] - docs: update installation guides and api endpoints documentation
 [2025-08-06T02:35:59.000Z] - refactor: clean up deprecated helper functions
 [2025-08-06T07:21:34.000Z] - fix: handle unexpected null pointer exception in parser
+[2025-08-06T08:07:00.000Z] - fix: handle unexpected null pointer exception in parser
