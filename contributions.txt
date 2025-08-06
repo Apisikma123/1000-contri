@@ -17258,3 +17258,4 @@
 [2025-08-05T13:41:35.000Z] - feat: add automatic retry mechanism for api requests
 [2025-08-05T14:09:11.000Z] - refactor: optimize database query performance
 [2025-08-05T19:23:44.000Z] - fix: handle unexpected null pointer exception in parser
+[2025-08-06T05:16:58.000Z] - docs: update installation guides and api endpoints documentation
