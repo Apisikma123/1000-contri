@@ -8143,3 +8143,4 @@
 [2025-08-07T11:07:23.000Z] - docs: correct typos and outdated command references in README
 [2025-08-07T11:42:01.000Z] - feat: add automatic retry mechanism for api requests
 [2025-08-07T14:57:25.000Z] - fix: handle unexpected null pointer exception in parser
+[2025-08-07T19:08:44.000Z] - feat: add multi-language localization support
