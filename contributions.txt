@@ -2242,3 +2242,4 @@
 [2025-08-08T09:14:19.000Z] - docs: update installation guides and api endpoints documentation
 [2025-08-08T09:44:40.000Z] - refactor: clean up deprecated helper functions
 [2025-08-08T11:52:32.000Z] - feat: add multi-language localization support
+[2025-08-08T14:19:00.000Z] - feat: add multi-language localization support
