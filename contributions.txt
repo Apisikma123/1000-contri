@@ -8180,3 +8180,4 @@
 [2025-08-11T02:07:39.000Z] - fix: handle unexpected null pointer exception in parser
 [2025-08-11T02:20:12.000Z] - chore: bump dependencies and library versions
 [2025-08-11T02:49:13.000Z] - perf: improve bundle size optimization and asset loading
+[2025-08-11T03:01:13.000Z] - refactor: clean up deprecated helper functions
