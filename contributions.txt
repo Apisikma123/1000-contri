@@ -8203,3 +8203,4 @@
 [2025-08-11T14:25:21.000Z] - chore: bump dependencies and library versions
 [2025-08-11T14:36:23.000Z] - style: format codebase using new prettier rules
 [2025-08-11T14:36:34.000Z] - test: implement integration tests for checkout flow
+[2025-08-12T00:03:09.000Z] - docs: correct typos and outdated command references in README
