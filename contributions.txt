@@ -17292,3 +17292,4 @@
 [2025-08-11T13:43:58.000Z] - refactor: clean up deprecated helper functions
 [2025-08-11T14:26:39.000Z] - style: format codebase using new prettier rules
 [2025-08-12T04:59:35.000Z] - test: implement integration tests for checkout flow
+[2025-08-12T05:49:11.000Z] - docs: correct typos and outdated command references in README
