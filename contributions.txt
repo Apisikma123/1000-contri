@@ -78,3 +78,4 @@
 [2025-08-12T02:48:59.000Z] - perf: improve bundle size optimization and asset loading
 [2025-08-12T08:33:26.000Z] - fix: improve responsive layout on mobile viewport
 [2025-08-12T08:35:45.000Z] - chore: configure webpack config for code splitting
+[2025-08-12T09:24:31.000Z] - refactor: clean up deprecated helper functions
