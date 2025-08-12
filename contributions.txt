@@ -8221,3 +8221,4 @@
 [2025-08-12T10:16:42.000Z] - chore: bump dependencies and library versions
 [2025-08-12T10:40:15.000Z] - refactor: optimize database query performance
 [2025-08-12T11:53:32.000Z] - fix: improve responsive layout on mobile viewport
+[2025-08-12T12:56:58.000Z] - docs: correct typos and outdated command references in README
