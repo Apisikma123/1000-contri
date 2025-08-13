@@ -17298,3 +17298,4 @@
 [2025-08-12T09:05:49.000Z] - docs: update installation guides and api endpoints documentation
 [2025-08-12T09:45:39.000Z] - fix: handle unexpected null pointer exception in parser
 [2025-08-12T10:06:37.000Z] - feat: add automatic retry mechanism for api requests
+[2025-08-13T03:24:24.000Z] - docs: correct typos and outdated command references in README
