@@ -2301,3 +2301,4 @@
 [2025-08-15T01:45:47.000Z] - fix: handle unexpected null pointer exception in parser
 [2025-08-15T04:04:07.000Z] - fix: handle unexpected null pointer exception in parser
 [2025-08-15T04:12:22.000Z] - refactor: clean up deprecated helper functions
+[2025-08-15T04:32:16.000Z] - feat: add multi-language localization support
