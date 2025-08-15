@@ -2300,3 +2300,4 @@
 [2025-08-14T11:18:17.000Z] - docs: correct typos and outdated command references in README
 [2025-08-15T01:45:47.000Z] - fix: handle unexpected null pointer exception in parser
 [2025-08-15T04:04:07.000Z] - fix: handle unexpected null pointer exception in parser
+[2025-08-15T04:12:22.000Z] - refactor: clean up deprecated helper functions
