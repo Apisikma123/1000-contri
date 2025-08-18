@@ -8338,3 +8338,4 @@
 [2025-08-18T08:48:47.000Z] - docs: update installation guides and api endpoints documentation
 [2025-08-18T08:54:37.000Z] - feat: add automatic retry mechanism for api requests
 [2025-08-18T09:16:50.000Z] - feat: add multi-language localization support
+[2025-08-18T10:31:35.000Z] - feat: add multi-language localization support
