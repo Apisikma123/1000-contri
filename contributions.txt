@@ -16056,3 +16056,4 @@
 [2025-08-18T09:40:45.000Z] - fix: resolve race condition in authentication middleware
 [2025-08-18T11:48:13.000Z] - feat: add automatic retry mechanism for api requests
 [2025-08-18T14:12:42.000Z] - docs: update installation guides and api endpoints documentation
+[2025-08-18T14:51:21.000Z] - fix: handle unexpected null pointer exception in parser
