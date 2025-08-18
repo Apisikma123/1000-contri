@@ -8337,3 +8337,4 @@
 [2025-08-18T08:39:41.000Z] - docs: correct typos and outdated command references in README
 [2025-08-18T08:48:47.000Z] - docs: update installation guides and api endpoints documentation
 [2025-08-18T08:54:37.000Z] - feat: add automatic retry mechanism for api requests
+[2025-08-18T09:16:50.000Z] - feat: add multi-language localization support
