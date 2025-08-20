@@ -5651,3 +5651,4 @@
 [2025-08-20T02:53:55.000Z] - fix: improve responsive layout on mobile viewport
 [2025-08-20T03:56:46.000Z] - feat: add automatic retry mechanism for api requests
 [2025-08-20T04:28:11.000Z] - docs: update installation guides and api endpoints documentation
+[2025-08-20T05:51:31.000Z] - docs: correct typos and outdated command references in README
