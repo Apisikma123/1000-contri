@@ -8380,3 +8380,4 @@
 [2025-08-20T04:41:09.000Z] - fix: handle unexpected null pointer exception in parser
 [2025-08-20T05:39:41.000Z] - fix: handle unexpected null pointer exception in parser
 [2025-08-20T05:40:20.000Z] - docs: correct typos and outdated command references in README
+[2025-08-20T05:47:37.000Z] - feat: add multi-language localization support
