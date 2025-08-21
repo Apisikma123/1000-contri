@@ -8395,3 +8395,4 @@
 [2025-08-20T17:29:42.000Z] - docs: correct typos and outdated command references in README
 [2025-08-20T19:50:18.000Z] - chore: bump dependencies and library versions
 [2025-08-21T01:48:54.000Z] - style: format codebase using new prettier rules
+[2025-08-21T02:52:14.000Z] - docs: correct typos and outdated command references in README
