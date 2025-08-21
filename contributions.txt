@@ -5660,3 +5660,4 @@
 [2025-08-21T06:43:56.000Z] - docs: correct typos and outdated command references in README
 [2025-08-21T07:10:23.000Z] - perf: improve bundle size optimization and asset loading
 [2025-08-21T07:31:36.000Z] - feat: add multi-language localization support
+[2025-08-21T08:51:26.000Z] - docs: update installation guides and api endpoints documentation
