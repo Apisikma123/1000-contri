@@ -17362,3 +17362,4 @@
 [2025-08-22T09:09:51.000Z] - fix: improve responsive layout on mobile viewport
 [2025-08-23T03:14:00.000Z] - docs: correct typos and outdated command references in README
 [2025-08-23T07:32:43.000Z] - fix: improve responsive layout on mobile viewport
+[2025-08-23T08:45:47.000Z] - refactor: clean up deprecated helper functions
