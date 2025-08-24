@@ -1121,3 +1121,4 @@
 [2025-08-22T08:52:53.000Z] - test: implement integration tests for checkout flow
 [2025-08-22T15:12:11.000Z] - fix: resolve race condition in authentication middleware
 [2025-08-22T17:03:53.000Z] - test: implement integration tests for checkout flow
+[2025-08-24T04:46:19.000Z] - refactor: clean up deprecated helper functions
