@@ -8476,3 +8476,4 @@
 [2025-08-25T10:27:35.000Z] - refactor: clean up deprecated helper functions
 [2025-08-25T11:01:19.000Z] - chore: bump dependencies and library versions
 [2025-08-25T11:17:35.000Z] - docs: update installation guides and api endpoints documentation
+[2025-08-25T12:26:11.000Z] - fix: improve responsive layout on mobile viewport
