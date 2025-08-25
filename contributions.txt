@@ -8473,3 +8473,4 @@
 [2025-08-25T08:54:49.000Z] - test: implement integration tests for checkout flow
 [2025-08-25T10:22:04.000Z] - feat: add multi-language localization support
 [2025-08-25T10:22:20.000Z] - style: format codebase using new prettier rules
+[2025-08-25T10:27:35.000Z] - refactor: clean up deprecated helper functions
