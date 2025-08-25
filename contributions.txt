@@ -2384,3 +2384,4 @@
 [2025-08-24T08:57:43.000Z] - docs: correct typos and outdated command references in README
 [2025-08-24T17:30:19.000Z] - feat: add automatic retry mechanism for api requests
 [2025-08-25T02:15:54.000Z] - chore: configure webpack config for code splitting
+[2025-08-25T02:17:57.000Z] - fix: improve responsive layout on mobile viewport
