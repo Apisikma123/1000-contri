@@ -117,3 +117,4 @@
 [2025-08-25T02:04:44.000Z] - feat: add automatic retry mechanism for api requests
 [2025-08-25T03:49:13.000Z] - refactor: clean up deprecated helper functions
 [2025-08-25T07:54:45.000Z] - fix: handle unexpected null pointer exception in parser
+[2025-08-25T08:31:46.000Z] - refactor: clean up deprecated helper functions
