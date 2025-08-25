@@ -8475,3 +8475,4 @@
 [2025-08-25T10:22:20.000Z] - style: format codebase using new prettier rules
 [2025-08-25T10:27:35.000Z] - refactor: clean up deprecated helper functions
 [2025-08-25T11:01:19.000Z] - chore: bump dependencies and library versions
+[2025-08-25T11:17:35.000Z] - docs: update installation guides and api endpoints documentation
