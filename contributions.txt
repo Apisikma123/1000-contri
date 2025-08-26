@@ -120,3 +120,4 @@
 [2025-08-25T08:31:46.000Z] - refactor: clean up deprecated helper functions
 [2025-08-25T14:57:53.000Z] - feat: add automatic retry mechanism for api requests
 [2025-08-26T02:41:09.000Z] - docs: correct typos and outdated command references in README
+[2025-08-26T02:55:48.000Z] - style: format codebase using new prettier rules
