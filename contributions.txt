@@ -17375,3 +17375,4 @@
 [2025-08-25T14:45:08.000Z] - feat: add automatic retry mechanism for api requests
 [2025-08-25T19:22:06.000Z] - refactor: clean up deprecated helper functions
 [2025-08-26T03:17:09.000Z] - feat: add multi-language localization support
+[2025-08-26T03:27:33.000Z] - docs: update installation guides and api endpoints documentation
