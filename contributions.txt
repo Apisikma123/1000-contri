@@ -2403,3 +2403,4 @@
 [2025-08-26T04:54:52.000Z] - chore: bump dependencies and library versions
 [2025-08-26T07:55:23.000Z] - perf: improve bundle size optimization and asset loading
 [2025-08-26T08:17:27.000Z] - docs: correct typos and outdated command references in README
+[2025-08-26T08:34:25.000Z] - fix: improve responsive layout on mobile viewport
