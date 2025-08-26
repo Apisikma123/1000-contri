@@ -8502,3 +8502,4 @@
 [2025-08-26T10:14:06.000Z] - perf: improve bundle size optimization and asset loading
 [2025-08-26T10:17:48.000Z] - chore: bump dependencies and library versions
 [2025-08-26T10:20:19.000Z] - chore: bump dependencies and library versions
+[2025-08-26T10:39:42.000Z] - docs: correct typos and outdated command references in README
