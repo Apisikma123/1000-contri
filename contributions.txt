@@ -2408,3 +2408,4 @@
 [2025-08-26T14:22:21.000Z] - docs: correct typos and outdated command references in README
 [2025-08-27T03:17:43.000Z] - chore: configure webpack config for code splitting
 [2025-08-27T04:10:06.000Z] - chore: configure webpack config for code splitting
+[2025-08-27T04:10:17.000Z] - feat: add multi-language localization support
