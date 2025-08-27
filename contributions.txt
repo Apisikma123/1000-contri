@@ -8530,3 +8530,4 @@
 [2025-08-27T09:30:38.000Z] - style: format codebase using new prettier rules
 [2025-08-27T10:18:41.000Z] - perf: improve bundle size optimization and asset loading
 [2025-08-27T10:46:36.000Z] - chore: bump dependencies and library versions
+[2025-08-27T10:48:58.000Z] - fix: improve responsive layout on mobile viewport
