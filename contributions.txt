@@ -125,3 +125,4 @@
 [2025-08-27T04:14:02.000Z] - feat: add automatic retry mechanism for api requests
 [2025-08-27T09:10:27.000Z] - feat: implement custom user dashboard analytics widget
 [2025-08-27T11:34:43.000Z] - feat: implement custom user dashboard analytics widget
+[2025-08-27T13:58:00.000Z] - docs: update installation guides and api endpoints documentation
