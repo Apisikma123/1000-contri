@@ -2425,3 +2425,4 @@
 [2025-08-28T03:43:44.000Z] - refactor: clean up deprecated helper functions
 [2025-08-28T05:37:12.000Z] - docs: update installation guides and api endpoints documentation
 [2025-08-28T06:23:47.000Z] - test: implement integration tests for checkout flow
+[2025-08-28T07:07:44.000Z] - docs: update installation guides and api endpoints documentation
