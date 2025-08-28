@@ -8558,3 +8558,4 @@
 [2025-08-28T12:44:55.000Z] - docs: update installation guides and api endpoints documentation
 [2025-08-28T12:58:47.000Z] - fix: handle unexpected null pointer exception in parser
 [2025-08-28T14:09:50.000Z] - fix: improve responsive layout on mobile viewport
+[2025-08-28T14:34:45.000Z] - refactor: clean up deprecated helper functions
