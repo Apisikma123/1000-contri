@@ -8557,3 +8557,4 @@
 [2025-08-28T12:43:07.000Z] - chore: bump dependencies and library versions
 [2025-08-28T12:44:55.000Z] - docs: update installation guides and api endpoints documentation
 [2025-08-28T12:58:47.000Z] - fix: handle unexpected null pointer exception in parser
+[2025-08-28T14:09:50.000Z] - fix: improve responsive layout on mobile viewport
