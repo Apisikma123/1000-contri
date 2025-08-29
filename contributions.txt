@@ -15066,3 +15066,4 @@
 [2025-08-28T03:51:58.000Z] - feat: add multi-language localization support
 [2025-08-28T07:09:42.000Z] - docs: correct typos and outdated command references in README
 [2025-08-28T07:31:10.000Z] - chore: configure webpack config for code splitting
+[2025-08-29T04:44:39.000Z] - fix: handle unexpected null pointer exception in parser
