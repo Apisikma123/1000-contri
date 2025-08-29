@@ -17397,3 +17397,4 @@
 [2025-08-29T02:06:11.000Z] - feat: add automatic retry mechanism for api requests
 [2025-08-29T03:12:12.000Z] - feat: add multi-language localization support
 [2025-08-29T03:39:07.000Z] - fix: improve responsive layout on mobile viewport
+[2025-08-29T03:42:04.000Z] - refactor: clean up deprecated helper functions
