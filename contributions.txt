@@ -8599,3 +8599,4 @@
 [2025-09-01T04:16:04.000Z] - docs: update installation guides and api endpoints documentation
 [2025-09-01T04:57:30.000Z] - fix: handle unexpected null pointer exception in parser
 [2025-09-01T05:34:54.000Z] - style: format codebase using new prettier rules
+[2025-09-01T05:59:22.000Z] - fix: handle unexpected null pointer exception in parser
