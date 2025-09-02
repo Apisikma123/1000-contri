@@ -8623,3 +8623,4 @@
 [2025-09-02T01:26:06.000Z] - fix: resolve race condition in authentication middleware
 [2025-09-02T03:00:23.000Z] - fix: resolve race condition in authentication middleware
 [2025-09-02T03:23:23.000Z] - test: implement integration tests for checkout flow
+[2025-09-02T03:35:07.000Z] - refactor: clean up deprecated helper functions
