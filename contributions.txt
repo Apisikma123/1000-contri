@@ -16111,3 +16111,4 @@
 [2025-09-02T04:39:10.000Z] - fix: handle unexpected null pointer exception in parser
 [2025-09-02T07:44:47.000Z] - perf: improve bundle size optimization and asset loading
 [2025-09-02T11:31:13.000Z] - chore: bump dependencies and library versions
+[2025-09-02T13:43:52.000Z] - refactor: clean up deprecated helper functions
