@@ -2470,3 +2470,4 @@
 [2025-09-02T06:36:18.000Z] - docs: correct typos and outdated command references in README
 [2025-09-02T07:24:16.000Z] - perf: improve bundle size optimization and asset loading
 [2025-09-02T11:00:15.000Z] - style: format codebase using new prettier rules
+[2025-09-02T12:20:29.000Z] - fix: handle unexpected null pointer exception in parser
