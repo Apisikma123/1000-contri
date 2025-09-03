@@ -2479,3 +2479,4 @@
 [2025-09-03T07:41:56.000Z] - docs: update installation guides and api endpoints documentation
 [2025-09-03T08:17:05.000Z] - chore: bump dependencies and library versions
 [2025-09-03T08:17:38.000Z] - feat: add multi-language localization support
+[2025-09-03T08:18:36.000Z] - refactor: clean up deprecated helper functions
