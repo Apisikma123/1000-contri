@@ -148,3 +148,4 @@
 [2025-09-03T12:01:34.000Z] - feat: add automatic retry mechanism for api requests
 [2025-09-03T19:17:57.000Z] - fix: resolve race condition in authentication middleware
 [2025-09-04T04:49:11.000Z] - fix: resolve race condition in authentication middleware
+[2025-09-04T10:14:49.000Z] - docs: correct typos and outdated command references in README
