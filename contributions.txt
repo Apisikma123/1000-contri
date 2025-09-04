@@ -15089,3 +15089,4 @@
 [2025-09-04T02:54:21.000Z] - perf: improve bundle size optimization and asset loading
 [2025-09-04T05:56:02.000Z] - style: format codebase using new prettier rules
 [2025-09-04T11:41:59.000Z] - refactor: clean up deprecated helper functions
+[2025-09-04T17:57:42.000Z] - refactor: clean up deprecated helper functions
