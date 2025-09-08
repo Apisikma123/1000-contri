@@ -8748,3 +8748,4 @@
 [2025-09-08T03:50:58.000Z] - style: format codebase using new prettier rules
 [2025-09-08T03:51:56.000Z] - test: implement integration tests for checkout flow
 [2025-09-08T04:23:04.000Z] - refactor: clean up deprecated helper functions
+[2025-09-08T04:37:17.000Z] - docs: correct typos and outdated command references in README
