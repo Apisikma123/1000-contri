@@ -15103,3 +15103,4 @@
 [2025-09-09T02:42:10.000Z] - feat: add automatic retry mechanism for api requests
 [2025-09-09T03:12:39.000Z] - perf: improve bundle size optimization and asset loading
 [2025-09-09T06:30:10.000Z] - test: implement integration tests for checkout flow
+[2025-09-09T11:26:22.000Z] - docs: update installation guides and api endpoints documentation
