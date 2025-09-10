@@ -1172,3 +1172,4 @@
 [2025-09-09T12:49:28.000Z] - refactor: clean up deprecated helper functions
 [2025-09-10T04:47:44.000Z] - feat: add automatic retry mechanism for api requests
 [2025-09-10T08:28:58.000Z] - docs: correct typos and outdated command references in README
+[2025-09-10T11:15:07.000Z] - docs: update installation guides and api endpoints documentation
