@@ -16142,3 +16142,4 @@
 [2025-09-10T13:36:08.000Z] - test: implement integration tests for checkout flow
 [2025-09-11T02:20:59.000Z] - perf: improve bundle size optimization and asset loading
 [2025-09-11T02:26:17.000Z] - test: implement integration tests for checkout flow
+[2025-09-11T02:45:51.000Z] - refactor: clean up deprecated helper functions
