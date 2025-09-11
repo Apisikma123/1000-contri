@@ -1176,3 +1176,4 @@
 [2025-09-11T04:20:06.000Z] - fix: resolve race condition in authentication middleware
 [2025-09-11T04:31:56.000Z] - fix: improve responsive layout on mobile viewport
 [2025-09-11T05:03:26.000Z] - fix: improve responsive layout on mobile viewport
+[2025-09-11T08:47:32.000Z] - docs: update installation guides and api endpoints documentation
