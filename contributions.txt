@@ -5786,3 +5786,4 @@
 [2025-09-11T14:22:41.000Z] - chore: bump dependencies and library versions
 [2025-09-12T02:00:34.000Z] - fix: improve responsive layout on mobile viewport
 [2025-09-12T02:24:43.000Z] - docs: correct typos and outdated command references in README
+[2025-09-12T06:53:05.000Z] - refactor: clean up deprecated helper functions
