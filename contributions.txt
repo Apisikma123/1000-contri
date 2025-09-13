@@ -2576,3 +2576,4 @@
 [2025-09-12T11:03:27.000Z] - docs: update installation guides and api endpoints documentation
 [2025-09-13T04:51:34.000Z] - style: format codebase using new prettier rules
 [2025-09-13T05:03:40.000Z] - feat: add automatic retry mechanism for api requests
+[2025-09-13T05:18:28.000Z] - fix: resolve race condition in authentication middleware
