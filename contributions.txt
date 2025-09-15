@@ -2582,3 +2582,4 @@
 [2025-09-14T11:13:37.000Z] - fix: resolve race condition in authentication middleware
 [2025-09-15T02:09:28.000Z] - docs: correct typos and outdated command references in README
 [2025-09-15T02:45:41.000Z] - style: format codebase using new prettier rules
+[2025-09-15T03:07:03.000Z] - docs: update installation guides and api endpoints documentation
