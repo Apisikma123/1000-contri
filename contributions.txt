@@ -8934,3 +8934,4 @@
 [2025-09-16T19:55:38.000Z] - test: implement integration tests for checkout flow
 [2025-09-17T02:31:38.000Z] - style: format codebase using new prettier rules
 [2025-09-17T02:44:18.000Z] - refactor: clean up deprecated helper functions
+[2025-09-17T03:02:09.000Z] - refactor: clean up deprecated helper functions
