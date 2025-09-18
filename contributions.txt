@@ -2622,3 +2622,4 @@
 [2025-09-18T04:01:00.000Z] - style: format codebase using new prettier rules
 [2025-09-18T04:19:01.000Z] - refactor: clean up deprecated helper functions
 [2025-09-18T06:30:02.000Z] - fix: improve responsive layout on mobile viewport
+[2025-09-18T07:22:34.000Z] - docs: correct typos and outdated command references in README
