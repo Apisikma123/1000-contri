@@ -16171,3 +16171,4 @@
 [2025-09-18T15:23:45.000Z] - fix: improve responsive layout on mobile viewport
 [2025-09-20T10:40:11.000Z] - perf: improve bundle size optimization and asset loading
 [2025-09-20T14:54:27.000Z] - test: implement integration tests for checkout flow
+[2025-09-21T05:25:29.000Z] - docs: update installation guides and api endpoints documentation
