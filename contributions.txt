@@ -9034,3 +9034,4 @@
 [2025-09-22T08:52:55.000Z] - style: format codebase using new prettier rules
 [2025-09-22T08:59:53.000Z] - feat: add multi-language localization support
 [2025-09-22T09:43:28.000Z] - feat: add automatic retry mechanism for api requests
+[2025-09-22T10:27:21.000Z] - docs: update installation guides and api endpoints documentation
