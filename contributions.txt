@@ -9030,3 +9030,4 @@
 [2025-09-22T05:28:11.000Z] - fix: improve responsive layout on mobile viewport
 [2025-09-22T05:58:21.000Z] - style: format codebase using new prettier rules
 [2025-09-22T07:13:31.000Z] - feat: add automatic retry mechanism for api requests
+[2025-09-22T08:01:58.000Z] - docs: update installation guides and api endpoints documentation
