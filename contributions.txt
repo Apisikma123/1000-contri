@@ -9047,3 +9047,4 @@
 [2025-09-23T02:41:22.000Z] - feat: add multi-language localization support
 [2025-09-23T02:44:19.000Z] - feat: add multi-language localization support
 [2025-09-23T02:57:14.000Z] - feat: add multi-language localization support
+[2025-09-23T03:47:30.000Z] - docs: update installation guides and api endpoints documentation
