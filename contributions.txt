@@ -5851,3 +5851,4 @@
 [2025-09-23T09:20:21.000Z] - docs: correct typos and outdated command references in README
 [2025-09-23T09:22:01.000Z] - style: format codebase using new prettier rules
 [2025-09-23T09:52:32.000Z] - fix: handle unexpected null pointer exception in parser
+[2025-09-23T12:27:16.000Z] - fix: improve responsive layout on mobile viewport
