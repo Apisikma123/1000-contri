@@ -9055,3 +9055,4 @@
 [2025-09-23T06:02:52.000Z] - style: format codebase using new prettier rules
 [2025-09-23T06:42:21.000Z] - refactor: clean up deprecated helper functions
 [2025-09-23T07:31:24.000Z] - docs: update installation guides and api endpoints documentation
+[2025-09-23T07:56:03.000Z] - fix: handle unexpected null pointer exception in parser
