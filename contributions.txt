@@ -9089,3 +9089,4 @@
 [2025-09-24T10:01:20.000Z] - chore: bump dependencies and library versions
 [2025-09-24T10:21:05.000Z] - feat: add multi-language localization support
 [2025-09-24T10:28:30.000Z] - docs: update installation guides and api endpoints documentation
+[2025-09-24T10:29:04.000Z] - docs: correct typos and outdated command references in README
