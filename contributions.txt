@@ -5859,3 +5859,4 @@
 [2025-09-24T05:03:23.000Z] - style: format codebase using new prettier rules
 [2025-09-24T06:23:18.000Z] - chore: configure webpack config for code splitting
 [2025-09-24T12:06:36.000Z] - chore: configure webpack config for code splitting
+[2025-09-25T02:17:35.000Z] - fix: handle unexpected null pointer exception in parser
