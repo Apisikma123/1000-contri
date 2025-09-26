@@ -2695,3 +2695,4 @@
 [2025-09-25T07:17:54.000Z] - feat: add multi-language localization support
 [2025-09-25T14:31:57.000Z] - feat: add multi-language localization support
 [2025-09-26T02:06:04.000Z] - chore: bump dependencies and library versions
+[2025-09-26T03:04:09.000Z] - docs: update installation guides and api endpoints documentation
