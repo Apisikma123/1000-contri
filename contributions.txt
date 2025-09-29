@@ -2722,3 +2722,4 @@
 [2025-09-29T07:48:10.000Z] - docs: update installation guides and api endpoints documentation
 [2025-09-29T11:36:34.000Z] - docs: update installation guides and api endpoints documentation
 [2025-09-29T12:33:10.000Z] - chore: configure webpack config for code splitting
+[2025-09-29T14:16:26.000Z] - style: format codebase using new prettier rules
