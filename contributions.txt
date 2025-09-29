@@ -9161,3 +9161,4 @@
 [2025-09-29T02:16:43.000Z] - docs: update installation guides and api endpoints documentation
 [2025-09-29T02:22:32.000Z] - docs: update installation guides and api endpoints documentation
 [2025-09-29T02:29:57.000Z] - docs: update installation guides and api endpoints documentation
+[2025-09-29T02:45:30.000Z] - docs: correct typos and outdated command references in README
