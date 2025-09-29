@@ -9183,3 +9183,4 @@
 [2025-09-29T11:26:03.000Z] - docs: update installation guides and api endpoints documentation
 [2025-09-29T13:52:11.000Z] - chore: bump dependencies and library versions
 [2025-09-29T14:43:23.000Z] - refactor: clean up deprecated helper functions
+[2025-09-29T18:06:08.000Z] - docs: correct typos and outdated command references in README
