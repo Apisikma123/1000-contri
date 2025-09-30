@@ -9185,3 +9185,4 @@
 [2025-09-29T14:43:23.000Z] - refactor: clean up deprecated helper functions
 [2025-09-29T18:06:08.000Z] - docs: correct typos and outdated command references in README
 [2025-09-30T02:11:19.000Z] - refactor: clean up deprecated helper functions
+[2025-09-30T02:52:44.000Z] - fix: improve responsive layout on mobile viewport
