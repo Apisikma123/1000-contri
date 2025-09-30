@@ -2729,3 +2729,4 @@
 [2025-09-30T05:44:36.000Z] - fix: improve responsive layout on mobile viewport
 [2025-09-30T06:50:47.000Z] - test: implement integration tests for checkout flow
 [2025-09-30T07:23:32.000Z] - feat: add multi-language localization support
+[2025-09-30T07:35:19.000Z] - refactor: clean up deprecated helper functions
