@@ -9219,3 +9219,4 @@
 [2025-10-01T04:12:37.000Z] - chore: bump dependencies and library versions
 [2025-10-01T04:39:51.000Z] - feat: add automatic retry mechanism for api requests
 [2025-10-01T04:42:53.000Z] - docs: update installation guides and api endpoints documentation
+[2025-10-01T04:45:48.000Z] - docs: correct typos and outdated command references in README
