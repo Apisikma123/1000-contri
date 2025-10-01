@@ -5896,3 +5896,4 @@
 [2025-10-01T02:41:22.000Z] - fix: improve responsive layout on mobile viewport
 [2025-10-01T03:16:34.000Z] - docs: correct typos and outdated command references in README
 [2025-10-01T04:29:00.000Z] - chore: configure webpack config for code splitting
+[2025-10-01T07:01:27.000Z] - refactor: clean up deprecated helper functions
