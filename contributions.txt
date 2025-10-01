@@ -9213,3 +9213,4 @@
 [2025-10-01T02:18:07.000Z] - fix: improve responsive layout on mobile viewport
 [2025-10-01T02:20:07.000Z] - docs: update installation guides and api endpoints documentation
 [2025-10-01T02:25:23.000Z] - chore: bump dependencies and library versions
+[2025-10-01T02:57:40.000Z] - refactor: clean up deprecated helper functions
