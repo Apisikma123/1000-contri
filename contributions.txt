@@ -9253,3 +9253,4 @@
 [2025-10-02T06:56:04.000Z] - fix: improve responsive layout on mobile viewport
 [2025-10-02T07:15:57.000Z] - docs: update installation guides and api endpoints documentation
 [2025-10-02T07:22:38.000Z] - feat: add automatic retry mechanism for api requests
+[2025-10-02T07:46:16.000Z] - chore: configure webpack config for code splitting
