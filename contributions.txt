@@ -1,1 +1,1 @@
-[2025-10-02T10:22:59.000Z] - refactor: clean up deprecated helper functions
+[2025-10-02T10:26:30.000Z] - refactor: optimize database query performance
