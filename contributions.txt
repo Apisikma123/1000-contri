@@ -9251,3 +9251,4 @@
 [2025-10-02T04:25:00.000Z] - chore: bump dependencies and library versions
 [2025-10-02T05:39:50.000Z] - refactor: optimize database query performance
 [2025-10-02T06:56:04.000Z] - fix: improve responsive layout on mobile viewport
+[2025-10-02T07:15:57.000Z] - docs: update installation guides and api endpoints documentation
