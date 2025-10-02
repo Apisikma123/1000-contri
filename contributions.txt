@@ -1,1 +1,1 @@
-[2025-10-02T09:50:14.000Z] - fix: handle unexpected null pointer exception in parser
+[2025-10-02T10:13:43.000Z] - docs: correct typos and outdated command references in README
