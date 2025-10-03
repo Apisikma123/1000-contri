@@ -9265,3 +9265,4 @@
 [2025-10-02T12:05:02.000Z] - fix: improve responsive layout on mobile viewport
 [2025-10-02T13:11:01.000Z] - test: implement integration tests for checkout flow
 [2025-10-03T02:58:05.000Z] - style: format codebase using new prettier rules
+[2025-10-03T03:09:08.000Z] - docs: correct typos and outdated command references in README
