@@ -1,1 +1,1 @@
-[2025-10-03T05:17:28.000Z] - refactor: clean up deprecated helper functions
+[2025-10-03T05:30:38.000Z] - feat: add multi-language localization support
