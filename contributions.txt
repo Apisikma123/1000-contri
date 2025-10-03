@@ -9272,3 +9272,4 @@
 [2025-10-03T03:59:53.000Z] - feat: add automatic retry mechanism for api requests
 [2025-10-03T04:23:05.000Z] - refactor: optimize database query performance
 [2025-10-03T04:23:31.000Z] - perf: improve bundle size optimization and asset loading
+[2025-10-03T04:41:43.000Z] - docs: update installation guides and api endpoints documentation
