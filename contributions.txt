@@ -16211,3 +16211,4 @@
 [2025-10-03T10:15:35.000Z] - feat: implement custom user dashboard analytics widget
 [2025-10-03T10:46:29.000Z] - chore: configure webpack config for code splitting
 [2025-10-04T04:48:05.000Z] - chore: configure webpack config for code splitting
+[2025-10-05T05:40:43.000Z] - docs: update installation guides and api endpoints documentation
