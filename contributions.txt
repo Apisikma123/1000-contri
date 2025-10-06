@@ -9305,3 +9305,4 @@
 [2025-10-06T02:45:48.000Z] - docs: correct typos and outdated command references in README
 [2025-10-06T02:48:43.000Z] - chore: bump dependencies and library versions
 [2025-10-06T03:22:31.000Z] - chore: bump dependencies and library versions
+[2025-10-06T03:55:43.000Z] - fix: handle unexpected null pointer exception in parser
