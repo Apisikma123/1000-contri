@@ -1,1 +1,1 @@
-[2025-10-07T14:30:55.000Z] - chore: configure webpack config for code splitting
+[2025-10-07T14:38:35.000Z] - fix: improve responsive layout on mobile viewport
