@@ -2791,3 +2791,4 @@
 [2025-10-06T12:22:44.000Z] - docs: update installation guides and api endpoints documentation
 [2025-10-06T16:45:16.000Z] - docs: correct typos and outdated command references in README
 [2025-10-06T19:49:06.000Z] - docs: update installation guides and api endpoints documentation
+[2025-10-07T04:01:19.000Z] - fix: handle unexpected null pointer exception in parser
