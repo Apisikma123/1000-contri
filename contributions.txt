@@ -9376,3 +9376,4 @@
 [2025-10-08T13:20:59.000Z] - feat: add multi-language localization support
 [2025-10-08T13:22:19.000Z] - docs: update installation guides and api endpoints documentation
 [2025-10-08T13:43:21.000Z] - refactor: clean up deprecated helper functions
+[2025-10-08T15:01:05.000Z] - docs: correct typos and outdated command references in README
