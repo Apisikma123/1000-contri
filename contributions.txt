@@ -2804,3 +2804,4 @@
 [2025-10-07T14:51:55.000Z] - fix: handle unexpected null pointer exception in parser
 [2025-10-08T02:25:41.000Z] - chore: bump dependencies and library versions
 [2025-10-08T02:44:38.000Z] - refactor: clean up deprecated helper functions
+[2025-10-08T03:08:00.000Z] - docs: correct typos and outdated command references in README
