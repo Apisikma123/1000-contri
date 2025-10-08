@@ -15180,3 +15180,4 @@
 [2025-10-07T10:23:11.000Z] - fix: handle unexpected null pointer exception in parser
 [2025-10-07T14:33:37.000Z] - docs: update installation guides and api endpoints documentation
 [2025-10-08T02:03:10.000Z] - refactor: clean up deprecated helper functions
+[2025-10-08T06:18:43.000Z] - fix: improve responsive layout on mobile viewport
