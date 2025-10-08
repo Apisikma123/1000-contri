@@ -9375,3 +9375,4 @@
 [2025-10-08T12:06:23.000Z] - test: implement integration tests for checkout flow
 [2025-10-08T13:20:59.000Z] - feat: add multi-language localization support
 [2025-10-08T13:22:19.000Z] - docs: update installation guides and api endpoints documentation
+[2025-10-08T13:43:21.000Z] - refactor: clean up deprecated helper functions
