@@ -17634,3 +17634,4 @@
 [2025-10-08T09:47:43.000Z] - chore: bump dependencies and library versions
 [2025-10-08T13:56:35.000Z] - docs: update installation guides and api endpoints documentation
 [2025-10-09T03:22:33.000Z] - fix: resolve race condition in authentication middleware
+[2025-10-09T03:28:58.000Z] - docs: update installation guides and api endpoints documentation
