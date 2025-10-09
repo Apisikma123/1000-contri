@@ -2825,3 +2825,4 @@
 [2025-10-09T09:21:45.000Z] - style: format codebase using new prettier rules
 [2025-10-09T09:46:25.000Z] - chore: bump dependencies and library versions
 [2025-10-09T12:26:29.000Z] - feat: implement custom user dashboard analytics widget
+[2025-10-09T13:38:03.000Z] - docs: update installation guides and api endpoints documentation
