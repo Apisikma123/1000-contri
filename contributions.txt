@@ -270,3 +270,4 @@
 [2025-10-09T10:08:24.000Z] - feat: add automatic retry mechanism for api requests
 [2025-10-10T02:04:07.000Z] - chore: configure webpack config for code splitting
 [2025-10-10T07:58:20.000Z] - fix: resolve race condition in authentication middleware
+[2025-10-10T09:28:07.000Z] - docs: update installation guides and api endpoints documentation
