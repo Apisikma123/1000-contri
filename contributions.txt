@@ -17648,3 +17648,4 @@
 [2025-10-10T09:54:10.000Z] - chore: configure webpack config for code splitting
 [2025-10-10T10:54:16.000Z] - chore: configure webpack config for code splitting
 [2025-10-11T03:20:42.000Z] - docs: correct typos and outdated command references in README
+[2025-10-11T08:50:19.000Z] - refactor: clean up deprecated helper functions
