@@ -5967,3 +5967,4 @@
 [2025-10-13T11:01:56.000Z] - feat: add multi-language localization support
 [2025-10-13T12:49:33.000Z] - test: implement integration tests for checkout flow
 [2025-10-13T14:46:47.000Z] - perf: improve bundle size optimization and asset loading
+[2025-10-13T15:30:31.000Z] - refactor: clean up deprecated helper functions
