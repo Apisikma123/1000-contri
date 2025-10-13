@@ -1,1 +1,1 @@
-[2025-10-13T02:01:09.000Z] - chore: bump dependencies and library versions
+[2025-10-13T02:05:45.000Z] - fix: resolve race condition in authentication middleware
