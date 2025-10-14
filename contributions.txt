@@ -1,1 +1,1 @@
-[2025-10-14T10:58:06.000Z] - fix: resolve race condition in authentication middleware
+[2025-10-14T11:13:28.000Z] - fix: improve responsive layout on mobile viewport
