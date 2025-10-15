@@ -1,1 +1,1 @@
-[2025-10-15T09:36:26.000Z] - perf: improve bundle size optimization and asset loading
+[2025-10-15T09:42:18.000Z] - fix: improve responsive layout on mobile viewport
