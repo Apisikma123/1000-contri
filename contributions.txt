@@ -2876,3 +2876,4 @@
 [2025-10-15T08:42:24.000Z] - docs: correct typos and outdated command references in README
 [2025-10-15T09:27:07.000Z] - style: format codebase using new prettier rules
 [2025-10-15T10:15:57.000Z] - refactor: clean up deprecated helper functions
+[2025-10-15T10:50:40.000Z] - feat: add multi-language localization support
