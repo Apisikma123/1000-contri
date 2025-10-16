@@ -2882,3 +2882,4 @@
 [2025-10-15T14:05:57.000Z] - feat: add automatic retry mechanism for api requests
 [2025-10-16T02:21:01.000Z] - feat: add automatic retry mechanism for api requests
 [2025-10-16T02:25:37.000Z] - fix: handle unexpected null pointer exception in parser
+[2025-10-16T03:32:48.000Z] - docs: correct typos and outdated command references in README
