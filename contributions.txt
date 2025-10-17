@@ -291,3 +291,4 @@
 [2025-10-16T05:48:19.000Z] - perf: improve bundle size optimization and asset loading
 [2025-10-16T07:25:26.000Z] - feat: add automatic retry mechanism for api requests
 [2025-10-16T07:58:41.000Z] - docs: update installation guides and api endpoints documentation
+[2025-10-17T02:16:32.000Z] - docs: correct typos and outdated command references in README
