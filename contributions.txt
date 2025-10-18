@@ -17689,3 +17689,4 @@
 [2025-10-17T11:16:50.000Z] - chore: configure webpack config for code splitting
 [2025-10-17T16:10:50.000Z] - chore: bump dependencies and library versions
 [2025-10-18T02:11:39.000Z] - chore: configure webpack config for code splitting
+[2025-10-18T03:37:07.000Z] - fix: handle unexpected null pointer exception in parser
