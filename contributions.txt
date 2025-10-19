@@ -2908,3 +2908,4 @@
 [2025-10-18T10:08:03.000Z] - style: format codebase using new prettier rules
 [2025-10-18T13:54:59.000Z] - feat: add multi-language localization support
 [2025-10-19T03:47:14.000Z] - chore: bump dependencies and library versions
+[2025-10-19T07:59:25.000Z] - docs: correct typos and outdated command references in README
