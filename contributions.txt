@@ -9602,3 +9602,4 @@
 [2025-10-20T12:17:35.000Z] - feat: add multi-language localization support
 [2025-10-20T12:47:43.000Z] - docs: correct typos and outdated command references in README
 [2025-10-20T14:34:45.000Z] - chore: configure webpack config for code splitting
+[2025-10-20T15:01:45.000Z] - refactor: clean up deprecated helper functions
