@@ -300,3 +300,4 @@
 [2025-10-20T18:46:55.000Z] - style: format codebase using new prettier rules
 [2025-10-21T06:20:46.000Z] - refactor: clean up deprecated helper functions
 [2025-10-21T10:50:02.000Z] - perf: improve bundle size optimization and asset loading
+[2025-10-21T11:51:37.000Z] - fix: handle unexpected null pointer exception in parser
