@@ -2927,3 +2927,4 @@
 [2025-10-21T02:35:00.000Z] - docs: correct typos and outdated command references in README
 [2025-10-21T03:18:46.000Z] - chore: bump dependencies and library versions
 [2025-10-21T04:15:48.000Z] - refactor: clean up deprecated helper functions
+[2025-10-21T04:20:16.000Z] - docs: correct typos and outdated command references in README
