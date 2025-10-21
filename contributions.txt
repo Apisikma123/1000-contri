@@ -17707,3 +17707,4 @@
 [2025-10-21T07:38:45.000Z] - perf: improve bundle size optimization and asset loading
 [2025-10-21T07:39:57.000Z] - style: format codebase using new prettier rules
 [2025-10-21T08:11:24.000Z] - refactor: clean up deprecated helper functions
+[2025-10-21T10:43:21.000Z] - docs: correct typos and outdated command references in README
