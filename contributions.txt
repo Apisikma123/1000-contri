@@ -1295,3 +1295,4 @@
 [2025-10-21T04:52:12.000Z] - test: implement integration tests for checkout flow
 [2025-10-21T07:29:36.000Z] - style: format codebase using new prettier rules
 [2025-10-21T08:16:40.000Z] - refactor: optimize database query performance
+[2025-10-22T02:59:28.000Z] - docs: update installation guides and api endpoints documentation
