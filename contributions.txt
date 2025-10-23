@@ -6027,3 +6027,4 @@
 [2025-10-23T02:21:56.000Z] - docs: correct typos and outdated command references in README
 [2025-10-23T02:56:00.000Z] - perf: improve bundle size optimization and asset loading
 [2025-10-23T02:57:44.000Z] - fix: handle unexpected null pointer exception in parser
+[2025-10-23T04:24:41.000Z] - fix: improve responsive layout on mobile viewport
