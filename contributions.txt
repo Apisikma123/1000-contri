@@ -1,1 +1,1 @@
-[2025-10-27T07:25:50.000Z] - docs: update installation guides and api endpoints documentation
+[2025-10-27T07:29:08.000Z] - style: format codebase using new prettier rules
