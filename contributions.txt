@@ -1,1 +1,1 @@
-[2025-10-28T09:42:21.000Z] - fix: handle unexpected null pointer exception in parser
+[2025-10-28T09:55:23.000Z] - perf: improve bundle size optimization and asset loading
