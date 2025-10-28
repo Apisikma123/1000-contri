@@ -1,1 +1,1 @@
-[2025-10-28T08:42:07.000Z] - feat: add multi-language localization support
+[2025-10-28T08:58:39.000Z] - feat: add multi-language localization support
