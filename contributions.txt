@@ -1,1 +1,1 @@
-[2025-10-28T02:23:54.000Z] - fix: resolve race condition in authentication middleware
+[2025-10-28T02:42:01.000Z] - fix: handle unexpected null pointer exception in parser
