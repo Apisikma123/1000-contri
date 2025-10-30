@@ -3013,3 +3013,4 @@
 [2025-10-29T10:30:41.000Z] - perf: improve bundle size optimization and asset loading
 [2025-10-29T12:21:38.000Z] - refactor: optimize database query performance
 [2025-10-30T02:40:58.000Z] - feat: add automatic retry mechanism for api requests
+[2025-10-30T02:43:35.000Z] - refactor: clean up deprecated helper functions
