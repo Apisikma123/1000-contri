@@ -9844,3 +9844,4 @@
 [2025-10-31T08:02:39.000Z] - style: format codebase using new prettier rules
 [2025-10-31T08:17:18.000Z] - style: format codebase using new prettier rules
 [2025-10-31T08:40:51.000Z] - docs: update installation guides and api endpoints documentation
+[2025-10-31T09:27:29.000Z] - docs: update installation guides and api endpoints documentation
