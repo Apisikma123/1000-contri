@@ -1326,3 +1326,4 @@
 [2025-10-30T09:38:41.000Z] - feat: add multi-language localization support
 [2025-10-30T09:53:44.000Z] - feat: add multi-language localization support
 [2025-10-31T02:24:22.000Z] - fix: improve responsive layout on mobile viewport
+[2025-10-31T02:33:39.000Z] - docs: update installation guides and api endpoints documentation
