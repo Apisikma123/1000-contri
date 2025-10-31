@@ -9849,3 +9849,4 @@
 [2025-10-31T10:54:35.000Z] - docs: correct typos and outdated command references in README
 [2025-10-31T11:12:46.000Z] - docs: update installation guides and api endpoints documentation
 [2025-10-31T12:49:40.000Z] - test: implement integration tests for checkout flow
+[2025-10-31T13:21:13.000Z] - refactor: clean up deprecated helper functions
