@@ -9847,3 +9847,4 @@
 [2025-10-31T09:27:29.000Z] - docs: update installation guides and api endpoints documentation
 [2025-10-31T09:55:10.000Z] - feat: add automatic retry mechanism for api requests
 [2025-10-31T10:54:35.000Z] - docs: correct typos and outdated command references in README
+[2025-10-31T11:12:46.000Z] - docs: update installation guides and api endpoints documentation
