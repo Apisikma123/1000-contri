@@ -6079,3 +6079,4 @@
 [2025-10-31T11:56:43.000Z] - test: implement integration tests for checkout flow
 [2025-10-31T12:16:39.000Z] - fix: resolve race condition in authentication middleware
 [2025-11-01T08:43:41.000Z] - refactor: clean up deprecated helper functions
+[2025-11-01T09:48:32.000Z] - docs: update installation guides and api endpoints documentation
