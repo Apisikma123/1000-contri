@@ -16299,3 +16299,4 @@
 [2025-11-02T13:03:18.000Z] - style: format codebase using new prettier rules
 [2025-11-03T03:00:19.000Z] - style: format codebase using new prettier rules
 [2025-11-03T04:16:46.000Z] - style: format codebase using new prettier rules
+[2025-11-03T04:23:58.000Z] - fix: improve responsive layout on mobile viewport
