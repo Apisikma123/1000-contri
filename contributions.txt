@@ -1,1 +1,1 @@
-[2025-11-04T10:54:07.000Z] - style: format codebase using new prettier rules
+[2025-11-04T11:28:48.000Z] - fix: resolve race condition in authentication middleware
