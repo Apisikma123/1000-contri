@@ -6099,3 +6099,4 @@
 [2025-11-04T10:20:05.000Z] - feat: add automatic retry mechanism for api requests
 [2025-11-04T14:49:19.000Z] - docs: correct typos and outdated command references in README
 [2025-11-05T00:18:03.000Z] - chore: bump dependencies and library versions
+[2025-11-05T02:12:37.000Z] - refactor: clean up deprecated helper functions
