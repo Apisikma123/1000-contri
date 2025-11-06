@@ -3086,3 +3086,4 @@
 [2025-11-06T04:32:15.000Z] - perf: improve bundle size optimization and asset loading
 [2025-11-06T05:34:40.000Z] - refactor: clean up deprecated helper functions
 [2025-11-06T07:36:32.000Z] - perf: improve bundle size optimization and asset loading
+[2025-11-06T10:05:30.000Z] - docs: update installation guides and api endpoints documentation
