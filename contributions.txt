@@ -17801,3 +17801,4 @@
 [2025-11-06T02:25:56.000Z] - fix: improve responsive layout on mobile viewport
 [2025-11-06T03:17:29.000Z] - docs: update installation guides and api endpoints documentation
 [2025-11-06T03:26:40.000Z] - test: implement integration tests for checkout flow
+[2025-11-06T06:51:59.000Z] - docs: update installation guides and api endpoints documentation
