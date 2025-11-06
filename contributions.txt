@@ -9946,3 +9946,4 @@
 [2025-11-06T02:22:18.000Z] - docs: correct typos and outdated command references in README
 [2025-11-06T02:36:04.000Z] - docs: correct typos and outdated command references in README
 [2025-11-06T02:47:49.000Z] - docs: correct typos and outdated command references in README
+[2025-11-06T03:31:12.000Z] - fix: handle unexpected null pointer exception in parser
