@@ -1,1 +1,1 @@
-[2025-11-07T02:01:50.000Z] - fix: handle unexpected null pointer exception in parser
+[2025-11-07T02:04:29.000Z] - style: format codebase using new prettier rules
