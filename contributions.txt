@@ -9985,3 +9985,4 @@
 [2025-11-07T08:52:46.000Z] - chore: configure webpack config for code splitting
 [2025-11-07T09:04:01.000Z] - docs: update installation guides and api endpoints documentation
 [2025-11-07T09:09:12.000Z] - feat: add multi-language localization support
+[2025-11-07T09:29:02.000Z] - docs: update installation guides and api endpoints documentation
