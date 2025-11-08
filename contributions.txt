@@ -16318,3 +16318,4 @@
 [2025-11-07T08:40:28.000Z] - fix: handle unexpected null pointer exception in parser
 [2025-11-07T10:19:52.000Z] - chore: configure webpack config for code splitting
 [2025-11-08T03:07:45.000Z] - docs: update installation guides and api endpoints documentation
+[2025-11-08T04:46:29.000Z] - refactor: clean up deprecated helper functions
