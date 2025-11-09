@@ -1,1 +1,1 @@
-[2025-11-09T03:54:31.000Z] - feat: add automatic retry mechanism for api requests
+[2025-11-09T08:09:25.000Z] - feat: add multi-language localization support
