@@ -16324,3 +16324,4 @@
 [2025-11-10T04:57:11.000Z] - docs: update installation guides and api endpoints documentation
 [2025-11-10T06:48:56.000Z] - style: format codebase using new prettier rules
 [2025-11-10T07:14:20.000Z] - style: format codebase using new prettier rules
+[2025-11-10T07:55:40.000Z] - chore: bump dependencies and library versions
