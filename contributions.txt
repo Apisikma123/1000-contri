@@ -10035,3 +10035,4 @@
 [2025-11-11T03:06:52.000Z] - feat: add multi-language localization support
 [2025-11-11T03:20:26.000Z] - refactor: clean up deprecated helper functions
 [2025-11-11T03:34:14.000Z] - feat: add multi-language localization support
+[2025-11-11T04:05:23.000Z] - docs: correct typos and outdated command references in README
