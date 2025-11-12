@@ -17831,3 +17831,4 @@
 [2025-11-11T08:49:30.000Z] - feat: add automatic retry mechanism for api requests
 [2025-11-11T12:04:17.000Z] - docs: update installation guides and api endpoints documentation
 [2025-11-11T12:15:21.000Z] - test: implement integration tests for checkout flow
+[2025-11-12T03:19:14.000Z] - docs: correct typos and outdated command references in README
