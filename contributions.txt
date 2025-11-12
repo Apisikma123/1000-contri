@@ -1,1 +1,1 @@
-[2025-11-12T08:49:26.000Z] - fix: resolve race condition in authentication middleware
+[2025-11-12T09:05:07.000Z] - docs: correct typos and outdated command references in README
