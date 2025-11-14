@@ -10121,3 +10121,4 @@
 [2025-11-14T10:14:17.000Z] - docs: update installation guides and api endpoints documentation
 [2025-11-14T10:20:17.000Z] - feat: add automatic retry mechanism for api requests
 [2025-11-14T10:31:24.000Z] - feat: add automatic retry mechanism for api requests
+[2025-11-14T11:24:25.000Z] - chore: configure webpack config for code splitting
