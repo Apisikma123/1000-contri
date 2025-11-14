@@ -1,1 +1,1 @@
-[2025-11-14T08:31:28.000Z] - docs: update installation guides and api endpoints documentation
+[2025-11-14T08:32:27.000Z] - perf: improve bundle size optimization and asset loading
