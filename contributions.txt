@@ -1,1 +1,1 @@
-[2025-11-14T10:31:54.000Z] - docs: update installation guides and api endpoints documentation
+[2025-11-14T10:45:50.000Z] - refactor: clean up deprecated helper functions
