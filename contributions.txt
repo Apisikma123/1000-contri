@@ -3156,3 +3156,4 @@
 [2025-11-13T10:00:23.000Z] - chore: bump dependencies and library versions
 [2025-11-13T10:39:33.000Z] - fix: improve responsive layout on mobile viewport
 [2025-11-13T14:43:02.000Z] - fix: improve responsive layout on mobile viewport
+[2025-11-14T02:08:51.000Z] - docs: correct typos and outdated command references in README
