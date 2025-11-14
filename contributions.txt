@@ -1,1 +1,1 @@
-[2025-11-14T04:38:37.000Z] - refactor: clean up deprecated helper functions
+[2025-11-14T04:56:07.000Z] - chore: bump dependencies and library versions
