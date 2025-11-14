@@ -10098,3 +10098,4 @@
 [2025-11-13T15:06:41.000Z] - docs: correct typos and outdated command references in README
 [2025-11-13T19:33:14.000Z] - feat: add multi-language localization support
 [2025-11-14T02:23:35.000Z] - style: format codebase using new prettier rules
+[2025-11-14T02:32:49.000Z] - docs: correct typos and outdated command references in README
