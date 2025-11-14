@@ -3157,3 +3157,4 @@
 [2025-11-13T10:39:33.000Z] - fix: improve responsive layout on mobile viewport
 [2025-11-13T14:43:02.000Z] - fix: improve responsive layout on mobile viewport
 [2025-11-14T02:08:51.000Z] - docs: correct typos and outdated command references in README
+[2025-11-14T02:25:20.000Z] - docs: update installation guides and api endpoints documentation
