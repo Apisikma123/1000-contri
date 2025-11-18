@@ -17870,3 +17870,4 @@
 [2025-11-18T04:36:08.000Z] - style: format codebase using new prettier rules
 [2025-11-18T09:38:09.000Z] - feat: add multi-language localization support
 [2025-11-18T09:39:25.000Z] - docs: correct typos and outdated command references in README
+[2025-11-18T10:16:42.000Z] - fix: improve responsive layout on mobile viewport
