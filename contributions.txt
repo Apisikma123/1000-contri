@@ -10174,3 +10174,4 @@
 [2025-11-18T08:03:42.000Z] - docs: correct typos and outdated command references in README
 [2025-11-18T08:08:53.000Z] - docs: update installation guides and api endpoints documentation
 [2025-11-18T08:17:49.000Z] - test: implement integration tests for checkout flow
+[2025-11-18T09:00:53.000Z] - docs: update installation guides and api endpoints documentation
