@@ -17866,3 +17866,4 @@
 [2025-11-17T10:35:25.000Z] - feat: add automatic retry mechanism for api requests
 [2025-11-17T14:06:14.000Z] - chore: bump dependencies and library versions
 [2025-11-18T02:27:02.000Z] - feat: add automatic retry mechanism for api requests
+[2025-11-18T03:59:57.000Z] - docs: update installation guides and api endpoints documentation
