@@ -1361,3 +1361,4 @@
 [2025-11-17T07:55:44.000Z] - feat: add multi-language localization support
 [2025-11-18T03:32:15.000Z] - docs: correct typos and outdated command references in README
 [2025-11-18T03:38:27.000Z] - chore: bump dependencies and library versions
+[2025-11-18T07:34:18.000Z] - docs: update installation guides and api endpoints documentation
