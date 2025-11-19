@@ -10201,3 +10201,4 @@
 [2025-11-19T08:52:39.000Z] - style: format codebase using new prettier rules
 [2025-11-19T08:54:56.000Z] - docs: update installation guides and api endpoints documentation
 [2025-11-19T09:38:58.000Z] - test: implement integration tests for checkout flow
+[2025-11-19T10:06:11.000Z] - docs: correct typos and outdated command references in README
