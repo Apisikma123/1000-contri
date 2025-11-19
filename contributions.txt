@@ -10187,3 +10187,4 @@
 [2025-11-19T02:04:29.000Z] - refactor: clean up deprecated helper functions
 [2025-11-19T02:39:05.000Z] - perf: improve bundle size optimization and asset loading
 [2025-11-19T02:40:43.000Z] - fix: improve responsive layout on mobile viewport
+[2025-11-19T03:02:09.000Z] - docs: correct typos and outdated command references in README
