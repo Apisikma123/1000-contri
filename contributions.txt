@@ -10195,3 +10195,4 @@
 [2025-11-19T07:00:40.000Z] - fix: improve responsive layout on mobile viewport
 [2025-11-19T07:26:27.000Z] - feat: add automatic retry mechanism for api requests
 [2025-11-19T07:35:50.000Z] - fix: resolve race condition in authentication middleware
+[2025-11-19T07:38:51.000Z] - docs: update installation guides and api endpoints documentation
