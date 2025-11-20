@@ -10216,3 +10216,4 @@
 [2025-11-20T03:17:48.000Z] - docs: update installation guides and api endpoints documentation
 [2025-11-20T03:18:33.000Z] - docs: correct typos and outdated command references in README
 [2025-11-20T03:32:42.000Z] - fix: resolve race condition in authentication middleware
+[2025-11-20T03:47:13.000Z] - docs: update installation guides and api endpoints documentation
