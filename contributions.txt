@@ -1,1 +1,1 @@
-[2025-11-20T09:42:07.000Z] - feat: add automatic retry mechanism for api requests
+[2025-11-20T10:17:07.000Z] - fix: handle unexpected null pointer exception in parser
