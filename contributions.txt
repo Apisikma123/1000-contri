@@ -379,3 +379,4 @@
 [2025-11-14T09:04:47.000Z] - docs: update installation guides and api endpoints documentation
 [2025-11-16T08:11:49.000Z] - docs: correct typos and outdated command references in README
 [2025-11-20T03:46:49.000Z] - refactor: clean up deprecated helper functions
+[2025-11-20T08:16:19.000Z] - feat: add multi-language localization support
