@@ -1,1 +1,1 @@
-[2025-11-20T06:09:55.000Z] - refactor: clean up deprecated helper functions
+[2025-11-20T06:23:03.000Z] - perf: improve bundle size optimization and asset loading
