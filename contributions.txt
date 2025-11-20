@@ -17879,3 +17879,4 @@
 [2025-11-19T07:26:59.000Z] - feat: add multi-language localization support
 [2025-11-19T10:03:28.000Z] - docs: update installation guides and api endpoints documentation
 [2025-11-19T10:20:03.000Z] - perf: improve bundle size optimization and asset loading
+[2025-11-20T02:25:14.000Z] - refactor: clean up deprecated helper functions
