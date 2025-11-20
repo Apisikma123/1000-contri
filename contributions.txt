@@ -1,1 +1,1 @@
-[2025-11-20T09:28:30.000Z] - chore: bump dependencies and library versions
+[2025-11-20T09:35:41.000Z] - docs: update installation guides and api endpoints documentation
