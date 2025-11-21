@@ -15298,3 +15298,4 @@
 [2025-11-20T12:17:14.000Z] - fix: resolve race condition in authentication middleware
 [2025-11-21T02:40:47.000Z] - feat: add automatic retry mechanism for api requests
 [2025-11-21T05:18:41.000Z] - test: implement integration tests for checkout flow
+[2025-11-21T08:12:29.000Z] - docs: update installation guides and api endpoints documentation
