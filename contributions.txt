@@ -3251,3 +3251,4 @@
 [2025-11-24T09:54:10.000Z] - docs: correct typos and outdated command references in README
 [2025-11-24T10:33:37.000Z] - fix: resolve race condition in authentication middleware
 [2025-11-24T10:48:36.000Z] - fix: improve responsive layout on mobile viewport
+[2025-11-24T11:13:42.000Z] - docs: update installation guides and api endpoints documentation
