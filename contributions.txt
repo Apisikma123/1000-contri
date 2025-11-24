@@ -389,3 +389,4 @@
 [2025-11-21T06:27:32.000Z] - feat: add multi-language localization support
 [2025-11-21T07:27:32.000Z] - fix: improve responsive layout on mobile viewport
 [2025-11-24T00:01:13.000Z] - chore: bump dependencies and library versions
+[2025-11-24T02:37:14.000Z] - refactor: clean up deprecated helper functions
