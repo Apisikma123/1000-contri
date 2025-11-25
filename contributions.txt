@@ -10302,3 +10302,4 @@
 [2025-11-25T03:56:51.000Z] - fix: improve responsive layout on mobile viewport
 [2025-11-25T03:58:50.000Z] - chore: bump dependencies and library versions
 [2025-11-25T04:49:23.000Z] - docs: correct typos and outdated command references in README
+[2025-11-25T04:59:25.000Z] - fix: handle unexpected null pointer exception in parser
