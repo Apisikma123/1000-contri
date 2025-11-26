@@ -1,1 +1,1 @@
-[2025-11-26T10:07:39.000Z] - fix: improve responsive layout on mobile viewport
+[2025-11-26T10:18:00.000Z] - fix: handle unexpected null pointer exception in parser
