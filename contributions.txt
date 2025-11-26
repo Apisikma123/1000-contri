@@ -15312,3 +15312,4 @@
 [2025-11-25T10:55:47.000Z] - chore: configure webpack config for code splitting
 [2025-11-25T14:41:19.000Z] - style: format codebase using new prettier rules
 [2025-11-26T02:20:15.000Z] - style: format codebase using new prettier rules
+[2025-11-26T04:30:43.000Z] - docs: update installation guides and api endpoints documentation
