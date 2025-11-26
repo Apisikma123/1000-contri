@@ -3273,3 +3273,4 @@
 [2025-11-26T09:52:55.000Z] - refactor: clean up deprecated helper functions
 [2025-11-26T10:38:44.000Z] - feat: add automatic retry mechanism for api requests
 [2025-11-26T10:59:08.000Z] - refactor: clean up deprecated helper functions
+[2025-11-26T11:33:04.000Z] - docs: correct typos and outdated command references in README
