@@ -1,1 +1,1 @@
-[2025-11-26T04:30:53.000Z] - fix: handle unexpected null pointer exception in parser
+[2025-11-26T04:38:09.000Z] - chore: bump dependencies and library versions
