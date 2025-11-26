@@ -10345,3 +10345,4 @@
 [2025-11-26T09:51:32.000Z] - test: implement integration tests for checkout flow
 [2025-11-26T10:17:41.000Z] - docs: correct typos and outdated command references in README
 [2025-11-26T11:28:31.000Z] - docs: correct typos and outdated command references in README
+[2025-11-26T12:04:49.000Z] - refactor: clean up deprecated helper functions
