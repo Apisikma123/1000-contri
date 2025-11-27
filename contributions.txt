@@ -1382,3 +1382,4 @@
 [2025-11-26T03:24:19.000Z] - docs: update installation guides and api endpoints documentation
 [2025-11-26T05:23:04.000Z] - test: implement integration tests for checkout flow
 [2025-11-26T12:29:58.000Z] - test: implement integration tests for checkout flow
+[2025-11-27T07:29:40.000Z] - refactor: clean up deprecated helper functions
