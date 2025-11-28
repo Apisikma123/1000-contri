@@ -10395,3 +10395,4 @@
 [2025-11-28T07:47:20.000Z] - docs: update installation guides and api endpoints documentation
 [2025-11-28T08:41:26.000Z] - docs: update installation guides and api endpoints documentation
 [2025-11-28T08:49:39.000Z] - fix: handle unexpected null pointer exception in parser
+[2025-11-28T08:53:02.000Z] - fix: handle unexpected null pointer exception in parser
