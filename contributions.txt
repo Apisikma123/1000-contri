@@ -1,1 +1,1 @@
-[2025-11-27T18:15:44.000Z] - docs: correct typos and outdated command references in README
+[2025-11-28T01:33:11.000Z] - test: implement integration tests for checkout flow
