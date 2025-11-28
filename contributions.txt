@@ -1391,3 +1391,4 @@
 [2025-11-28T03:58:17.000Z] - chore: configure webpack config for code splitting
 [2025-11-28T05:48:37.000Z] - perf: improve bundle size optimization and asset loading
 [2025-11-28T06:17:51.000Z] - chore: bump dependencies and library versions
+[2025-11-28T11:12:53.000Z] - refactor: clean up deprecated helper functions
