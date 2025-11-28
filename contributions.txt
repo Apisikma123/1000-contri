@@ -10392,3 +10392,4 @@
 [2025-11-28T06:45:40.000Z] - fix: improve responsive layout on mobile viewport
 [2025-11-28T07:01:49.000Z] - docs: correct typos and outdated command references in README
 [2025-11-28T07:29:18.000Z] - feat: add multi-language localization support
+[2025-11-28T07:47:20.000Z] - docs: update installation guides and api endpoints documentation
