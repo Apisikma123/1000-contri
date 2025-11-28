@@ -16383,3 +16383,4 @@
 [2025-11-28T02:43:33.000Z] - chore: bump dependencies and library versions
 [2025-11-28T02:52:58.000Z] - feat: add automatic retry mechanism for api requests
 [2025-11-28T03:00:18.000Z] - perf: improve bundle size optimization and asset loading
+[2025-11-28T10:34:52.000Z] - docs: update installation guides and api endpoints documentation
