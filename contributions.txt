@@ -1,1 +1,1 @@
-[2025-11-28T12:50:41.000Z] - fix: improve responsive layout on mobile viewport
+[2025-11-28T13:24:32.000Z] - fix: improve responsive layout on mobile viewport
