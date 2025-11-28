@@ -1,1 +1,1 @@
-[2025-11-28T12:10:59.000Z] - test: implement integration tests for checkout flow
+[2025-11-28T12:27:59.000Z] - refactor: clean up deprecated helper functions
