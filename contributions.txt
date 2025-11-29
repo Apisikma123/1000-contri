@@ -17936,3 +17936,4 @@
 [2025-11-28T13:39:26.000Z] - refactor: clean up deprecated helper functions
 [2025-11-29T03:08:28.000Z] - style: format codebase using new prettier rules
 [2025-11-29T03:40:16.000Z] - refactor: clean up deprecated helper functions
+[2025-11-29T12:08:10.000Z] - docs: update installation guides and api endpoints documentation
