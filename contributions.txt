@@ -17941,3 +17941,4 @@
 [2025-11-30T10:10:59.000Z] - style: format codebase using new prettier rules
 [2025-11-30T10:36:32.000Z] - docs: update installation guides and api endpoints documentation
 [2025-12-01T02:15:12.000Z] - docs: update installation guides and api endpoints documentation
+[2025-12-01T02:56:23.000Z] - fix: resolve race condition in authentication middleware
