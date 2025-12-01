@@ -10432,3 +10432,4 @@
 [2025-12-01T10:18:29.000Z] - test: implement integration tests for checkout flow
 [2025-12-01T11:28:36.000Z] - fix: resolve race condition in authentication middleware
 [2025-12-01T11:45:26.000Z] - fix: resolve race condition in authentication middleware
+[2025-12-01T12:11:36.000Z] - docs: update installation guides and api endpoints documentation
