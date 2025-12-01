@@ -17942,3 +17942,4 @@
 [2025-11-30T10:36:32.000Z] - docs: update installation guides and api endpoints documentation
 [2025-12-01T02:15:12.000Z] - docs: update installation guides and api endpoints documentation
 [2025-12-01T02:56:23.000Z] - fix: resolve race condition in authentication middleware
+[2025-12-01T03:52:31.000Z] - fix: handle unexpected null pointer exception in parser
