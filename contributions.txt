@@ -10490,3 +10490,4 @@
 [2025-12-04T02:13:13.000Z] - feat: add multi-language localization support
 [2025-12-04T02:25:52.000Z] - perf: improve bundle size optimization and asset loading
 [2025-12-04T02:44:40.000Z] - fix: improve responsive layout on mobile viewport
+[2025-12-04T02:44:41.000Z] - docs: correct typos and outdated command references in README
