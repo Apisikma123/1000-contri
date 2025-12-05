@@ -10532,3 +10532,4 @@
 [2025-12-05T07:37:51.000Z] - docs: correct typos and outdated command references in README
 [2025-12-05T07:50:00.000Z] - fix: resolve race condition in authentication middleware
 [2025-12-05T09:15:35.000Z] - test: implement integration tests for checkout flow
+[2025-12-05T09:58:00.000Z] - docs: update installation guides and api endpoints documentation
