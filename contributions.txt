@@ -17978,3 +17978,4 @@
 [2025-12-05T17:26:11.000Z] - docs: update installation guides and api endpoints documentation
 [2025-12-06T10:46:55.000Z] - refactor: optimize database query performance
 [2025-12-06T14:59:51.000Z] - refactor: optimize database query performance
+[2025-12-06T17:57:15.000Z] - fix: handle unexpected null pointer exception in parser
