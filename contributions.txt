@@ -1,1 +1,1 @@
-[2025-12-09T08:18:33.000Z] - refactor: optimize database query performance
+[2025-12-09T08:31:29.000Z] - docs: update installation guides and api endpoints documentation
