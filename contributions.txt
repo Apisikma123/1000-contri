@@ -10577,3 +10577,4 @@
 [2025-12-09T02:41:19.000Z] - feat: add multi-language localization support
 [2025-12-09T02:56:11.000Z] - docs: correct typos and outdated command references in README
 [2025-12-09T03:53:02.000Z] - docs: correct typos and outdated command references in README
+[2025-12-09T04:18:17.000Z] - fix: handle unexpected null pointer exception in parser
