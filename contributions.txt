@@ -1,1 +1,1 @@
-[2025-12-09T10:43:22.000Z] - feat: add automatic retry mechanism for api requests
+[2025-12-09T11:15:14.000Z] - refactor: clean up deprecated helper functions
