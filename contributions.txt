@@ -16424,3 +16424,4 @@
 [2025-12-09T18:15:03.000Z] - style: format codebase using new prettier rules
 [2025-12-10T05:43:01.000Z] - feat: add multi-language localization support
 [2025-12-10T07:41:10.000Z] - chore: bump dependencies and library versions
+[2025-12-10T10:01:15.000Z] - docs: correct typos and outdated command references in README
