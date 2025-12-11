@@ -10628,3 +10628,4 @@
 [2025-12-10T15:54:47.000Z] - fix: resolve race condition in authentication middleware
 [2025-12-11T02:44:06.000Z] - chore: bump dependencies and library versions
 [2025-12-11T03:39:09.000Z] - fix: improve responsive layout on mobile viewport
+[2025-12-11T04:14:58.000Z] - refactor: clean up deprecated helper functions
