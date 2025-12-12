@@ -3424,3 +3424,4 @@
 [2025-12-12T03:29:48.000Z] - chore: bump dependencies and library versions
 [2025-12-12T04:00:38.000Z] - fix: resolve race condition in authentication middleware
 [2025-12-12T06:59:10.000Z] - style: format codebase using new prettier rules
+[2025-12-12T07:17:00.000Z] - docs: update installation guides and api endpoints documentation
