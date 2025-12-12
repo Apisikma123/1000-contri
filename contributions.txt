@@ -1,1 +1,1 @@
-[2025-12-12T04:07:15.000Z] - refactor: optimize database query performance
+[2025-12-12T04:12:04.000Z] - fix: handle unexpected null pointer exception in parser
