@@ -1,1 +1,1 @@
-[2025-12-12T07:53:45.000Z] - chore: bump dependencies and library versions
+[2025-12-12T08:10:51.000Z] - perf: improve bundle size optimization and asset loading
