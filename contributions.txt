@@ -16435,3 +16435,4 @@
 [2025-12-12T03:04:38.000Z] - docs: correct typos and outdated command references in README
 [2025-12-12T06:38:55.000Z] - perf: improve bundle size optimization and asset loading
 [2025-12-12T07:50:46.000Z] - fix: resolve race condition in authentication middleware
+[2025-12-12T10:11:44.000Z] - docs: update installation guides and api endpoints documentation
