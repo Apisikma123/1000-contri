@@ -10678,3 +10678,4 @@
 [2025-12-12T10:44:59.000Z] - chore: bump dependencies and library versions
 [2025-12-12T11:56:26.000Z] - test: implement integration tests for checkout flow
 [2025-12-12T13:49:20.000Z] - docs: update installation guides and api endpoints documentation
+[2025-12-12T13:50:39.000Z] - fix: handle unexpected null pointer exception in parser
