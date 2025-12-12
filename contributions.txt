@@ -6323,3 +6323,4 @@
 [2025-12-12T05:43:46.000Z] - docs: correct typos and outdated command references in README
 [2025-12-12T10:16:12.000Z] - fix: resolve race condition in authentication middleware
 [2025-12-12T11:56:32.000Z] - feat: add multi-language localization support
+[2025-12-12T13:19:08.000Z] - refactor: clean up deprecated helper functions
