@@ -10705,3 +10705,4 @@
 [2025-12-15T09:59:20.000Z] - style: format codebase using new prettier rules
 [2025-12-15T10:47:08.000Z] - feat: add automatic retry mechanism for api requests
 [2025-12-15T11:52:26.000Z] - fix: resolve race condition in authentication middleware
+[2025-12-15T12:26:36.000Z] - fix: improve responsive layout on mobile viewport
