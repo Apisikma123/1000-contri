@@ -1,1 +1,1 @@
-[2025-12-15T03:22:39.000Z] - style: format codebase using new prettier rules
+[2025-12-15T03:43:17.000Z] - feat: add multi-language localization support
