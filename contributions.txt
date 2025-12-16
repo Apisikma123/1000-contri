@@ -1,1 +1,1 @@
-[2025-12-16T00:27:27.000Z] - test: implement integration tests for checkout flow
+[2025-12-16T01:35:37.000Z] - docs: update installation guides and api endpoints documentation
