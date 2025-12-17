@@ -10743,3 +10743,4 @@
 [2025-12-17T01:34:11.000Z] - chore: bump dependencies and library versions
 [2025-12-17T02:33:00.000Z] - docs: correct typos and outdated command references in README
 [2025-12-17T02:37:40.000Z] - docs: update installation guides and api endpoints documentation
+[2025-12-17T03:20:31.000Z] - fix: improve responsive layout on mobile viewport
