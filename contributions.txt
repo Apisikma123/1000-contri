@@ -1,1 +1,1 @@
-[2025-12-17T04:15:03.000Z] - fix: handle unexpected null pointer exception in parser
+[2025-12-17T04:25:43.000Z] - docs: update installation guides and api endpoints documentation
