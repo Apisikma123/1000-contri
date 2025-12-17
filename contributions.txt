@@ -3471,3 +3471,4 @@
 [2025-12-17T07:27:13.000Z] - chore: bump dependencies and library versions
 [2025-12-17T07:34:46.000Z] - test: implement integration tests for checkout flow
 [2025-12-17T08:54:22.000Z] - chore: configure webpack config for code splitting
+[2025-12-17T09:23:29.000Z] - refactor: clean up deprecated helper functions
