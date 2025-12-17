@@ -10742,3 +10742,4 @@
 [2025-12-16T15:49:10.000Z] - fix: resolve race condition in authentication middleware
 [2025-12-17T01:34:11.000Z] - chore: bump dependencies and library versions
 [2025-12-17T02:33:00.000Z] - docs: correct typos and outdated command references in README
+[2025-12-17T02:37:40.000Z] - docs: update installation guides and api endpoints documentation
