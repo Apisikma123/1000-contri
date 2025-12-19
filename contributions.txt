@@ -10813,3 +10813,4 @@
 [2025-12-19T09:24:14.000Z] - docs: correct typos and outdated command references in README
 [2025-12-19T10:12:51.000Z] - test: implement integration tests for checkout flow
 [2025-12-19T10:24:15.000Z] - refactor: optimize database query performance
+[2025-12-19T10:37:00.000Z] - docs: update installation guides and api endpoints documentation
