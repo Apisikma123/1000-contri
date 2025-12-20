@@ -3500,3 +3500,4 @@
 [2025-12-19T15:09:39.000Z] - chore: bump dependencies and library versions
 [2025-12-20T04:20:58.000Z] - chore: configure webpack config for code splitting
 [2025-12-20T09:51:46.000Z] - test: implement integration tests for checkout flow
+[2025-12-20T11:26:30.000Z] - docs: update installation guides and api endpoints documentation
