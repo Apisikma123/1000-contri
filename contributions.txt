@@ -10846,3 +10846,4 @@
 [2025-12-22T11:15:45.000Z] - docs: correct typos and outdated command references in README
 [2025-12-22T11:32:22.000Z] - style: format codebase using new prettier rules
 [2025-12-22T11:57:58.000Z] - test: implement integration tests for checkout flow
+[2025-12-22T13:07:00.000Z] - refactor: clean up deprecated helper functions
