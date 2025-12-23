@@ -10864,3 +10864,4 @@
 [2025-12-23T05:05:54.000Z] - docs: correct typos and outdated command references in README
 [2025-12-23T05:32:58.000Z] - docs: update installation guides and api endpoints documentation
 [2025-12-23T05:36:29.000Z] - style: format codebase using new prettier rules
+[2025-12-23T06:08:41.000Z] - refactor: clean up deprecated helper functions
