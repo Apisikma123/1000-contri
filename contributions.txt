@@ -6390,3 +6390,4 @@
 [2025-12-24T04:11:43.000Z] - docs: update installation guides and api endpoints documentation
 [2025-12-24T04:53:38.000Z] - perf: improve bundle size optimization and asset loading
 [2025-12-24T05:20:08.000Z] - docs: correct typos and outdated command references in README
+[2025-12-24T09:47:27.000Z] - docs: update installation guides and api endpoints documentation
