@@ -16457,3 +16457,4 @@
 [2025-12-20T02:15:16.000Z] - fix: resolve race condition in authentication middleware
 [2025-12-20T14:25:17.000Z] - chore: configure webpack config for code splitting
 [2025-12-21T07:22:39.000Z] - fix: improve responsive layout on mobile viewport
+[2025-12-24T03:04:26.000Z] - docs: update installation guides and api endpoints documentation
