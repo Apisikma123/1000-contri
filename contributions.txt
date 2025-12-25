@@ -10933,3 +10933,4 @@
 [2025-12-25T12:57:13.000Z] - docs: update installation guides and api endpoints documentation
 [2025-12-25T14:05:12.000Z] - refactor: clean up deprecated helper functions
 [2025-12-25T17:41:48.000Z] - feat: add automatic retry mechanism for api requests
+[2025-12-25T19:19:04.000Z] - feat: add automatic retry mechanism for api requests
