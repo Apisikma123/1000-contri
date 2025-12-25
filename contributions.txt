@@ -1,1 +1,1 @@
-[2025-12-24T19:38:11.000Z] - test: implement integration tests for checkout flow
+[2025-12-25T00:00:27.000Z] - fix: resolve race condition in authentication middleware
