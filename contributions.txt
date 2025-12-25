@@ -10909,3 +10909,4 @@
 [2025-12-25T01:40:28.000Z] - feat: add automatic retry mechanism for api requests
 [2025-12-25T02:03:38.000Z] - fix: handle unexpected null pointer exception in parser
 [2025-12-25T02:11:35.000Z] - docs: update installation guides and api endpoints documentation
+[2025-12-25T02:22:14.000Z] - fix: improve responsive layout on mobile viewport
