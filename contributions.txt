@@ -18104,3 +18104,4 @@
 [2025-12-28T00:24:06.000Z] - chore: configure webpack config for code splitting
 [2025-12-28T08:28:35.000Z] - docs: update installation guides and api endpoints documentation
 [2025-12-28T10:42:29.000Z] - refactor: clean up deprecated helper functions
+[2025-12-29T03:53:56.000Z] - fix: improve responsive layout on mobile viewport
