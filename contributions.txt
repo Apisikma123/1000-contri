@@ -1,1 +1,1 @@
-[2025-12-29T09:01:03.000Z] - feat: add automatic retry mechanism for api requests
+[2025-12-29T09:09:50.000Z] - perf: improve bundle size optimization and asset loading
