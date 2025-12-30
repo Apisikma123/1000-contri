@@ -1,1 +1,1 @@
-[2025-12-30T03:48:04.000Z] - chore: configure webpack config for code splitting
+[2025-12-30T03:50:19.000Z] - fix: handle unexpected null pointer exception in parser
