@@ -11034,3 +11034,4 @@
 [2025-12-31T06:56:14.000Z] - chore: bump dependencies and library versions
 [2025-12-31T06:59:33.000Z] - docs: update installation guides and api endpoints documentation
 [2025-12-31T07:09:40.000Z] - feat: add automatic retry mechanism for api requests
+[2025-12-31T08:38:01.000Z] - docs: update installation guides and api endpoints documentation
