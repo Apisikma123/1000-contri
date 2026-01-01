@@ -3607,3 +3607,4 @@
 [2025-12-31T10:44:44.000Z] - docs: update installation guides and api endpoints documentation
 [2025-12-31T16:05:07.000Z] - perf: improve bundle size optimization and asset loading
 [2026-01-01T02:44:48.000Z] - style: format codebase using new prettier rules
+[2026-01-01T03:41:30.000Z] - docs: update installation guides and api endpoints documentation
