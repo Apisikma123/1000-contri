@@ -18131,3 +18131,4 @@
 [2026-01-01T07:48:11.000Z] - docs: correct typos and outdated command references in README
 [2026-01-01T07:50:24.000Z] - feat: add automatic retry mechanism for api requests
 [2026-01-01T10:36:38.000Z] - docs: update installation guides and api endpoints documentation
+[2026-01-01T11:47:14.000Z] - style: format codebase using new prettier rules
