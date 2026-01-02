@@ -1,1 +1,1 @@
-[2026-01-02T04:06:31.000Z] - fix: improve responsive layout on mobile viewport
+[2026-01-02T04:07:04.000Z] - docs: update installation guides and api endpoints documentation
