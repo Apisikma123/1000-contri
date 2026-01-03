@@ -1,1 +1,1 @@
-[2026-01-03T03:32:38.000Z] - style: format codebase using new prettier rules
+[2026-01-03T08:25:05.000Z] - style: format codebase using new prettier rules
