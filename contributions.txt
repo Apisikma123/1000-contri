@@ -3640,3 +3640,4 @@
 [2026-01-05T03:15:00.000Z] - fix: improve responsive layout on mobile viewport
 [2026-01-05T03:15:07.000Z] - test: implement integration tests for checkout flow
 [2026-01-05T04:13:19.000Z] - chore: bump dependencies and library versions
+[2026-01-05T04:39:01.000Z] - docs: update installation guides and api endpoints documentation
