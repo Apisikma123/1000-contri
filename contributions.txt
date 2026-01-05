@@ -3642,3 +3642,4 @@
 [2026-01-05T04:13:19.000Z] - chore: bump dependencies and library versions
 [2026-01-05T04:39:01.000Z] - docs: update installation guides and api endpoints documentation
 [2026-01-05T07:21:01.000Z] - chore: bump dependencies and library versions
+[2026-01-05T07:36:58.000Z] - fix: handle unexpected null pointer exception in parser
