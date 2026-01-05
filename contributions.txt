@@ -11129,3 +11129,4 @@
 [2026-01-05T10:08:44.000Z] - chore: bump dependencies and library versions
 [2026-01-05T10:20:46.000Z] - fix: handle unexpected null pointer exception in parser
 [2026-01-05T10:32:54.000Z] - docs: correct typos and outdated command references in README
+[2026-01-05T10:40:45.000Z] - fix: handle unexpected null pointer exception in parser
