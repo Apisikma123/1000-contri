@@ -11127,3 +11127,4 @@
 [2026-01-05T09:28:29.000Z] - docs: update installation guides and api endpoints documentation
 [2026-01-05T09:38:53.000Z] - feat: add multi-language localization support
 [2026-01-05T10:08:44.000Z] - chore: bump dependencies and library versions
+[2026-01-05T10:20:46.000Z] - fix: handle unexpected null pointer exception in parser
