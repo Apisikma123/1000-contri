@@ -11157,3 +11157,4 @@
 [2026-01-06T09:50:11.000Z] - refactor: clean up deprecated helper functions
 [2026-01-06T11:15:52.000Z] - style: format codebase using new prettier rules
 [2026-01-06T11:27:05.000Z] - fix: resolve race condition in authentication middleware
+[2026-01-06T11:49:54.000Z] - docs: update installation guides and api endpoints documentation
