@@ -1,1 +1,1 @@
-[2026-01-06T08:54:20.000Z] - refactor: clean up deprecated helper functions
+[2026-01-06T09:02:25.000Z] - docs: update installation guides and api endpoints documentation
