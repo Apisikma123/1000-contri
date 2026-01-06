@@ -1499,3 +1499,4 @@
 [2026-01-06T04:14:49.000Z] - style: format codebase using new prettier rules
 [2026-01-06T06:50:52.000Z] - perf: improve bundle size optimization and asset loading
 [2026-01-06T08:17:38.000Z] - fix: improve responsive layout on mobile viewport
+[2026-01-06T09:01:50.000Z] - docs: update installation guides and api endpoints documentation
