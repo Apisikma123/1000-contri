@@ -3655,3 +3655,4 @@
 [2026-01-06T05:54:28.000Z] - chore: bump dependencies and library versions
 [2026-01-06T06:35:01.000Z] - docs: update installation guides and api endpoints documentation
 [2026-01-06T07:49:07.000Z] - docs: correct typos and outdated command references in README
+[2026-01-06T08:12:42.000Z] - refactor: clean up deprecated helper functions
