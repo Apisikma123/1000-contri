@@ -1,1 +1,1 @@
-[2026-01-07T02:23:46.000Z] - style: format codebase using new prettier rules
+[2026-01-07T02:49:52.000Z] - fix: improve responsive layout on mobile viewport
