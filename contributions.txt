@@ -16519,3 +16519,4 @@
 [2026-01-08T10:13:36.000Z] - fix: handle unexpected null pointer exception in parser
 [2026-01-08T12:30:00.000Z] - refactor: clean up deprecated helper functions
 [2026-01-08T12:43:30.000Z] - fix: handle unexpected null pointer exception in parser
+[2026-01-09T02:10:27.000Z] - docs: correct typos and outdated command references in README
