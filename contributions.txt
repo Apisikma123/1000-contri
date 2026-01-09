@@ -18179,3 +18179,4 @@
 [2026-01-09T09:19:44.000Z] - docs: correct typos and outdated command references in README
 [2026-01-09T10:18:39.000Z] - feat: add automatic retry mechanism for api requests
 [2026-01-09T10:19:33.000Z] - test: implement integration tests for checkout flow
+[2026-01-09T12:58:38.000Z] - refactor: clean up deprecated helper functions
