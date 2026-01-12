@@ -3702,3 +3702,4 @@
 [2026-01-11T02:45:53.000Z] - docs: update installation guides and api endpoints documentation
 [2026-01-11T04:03:12.000Z] - perf: improve bundle size optimization and asset loading
 [2026-01-11T11:12:30.000Z] - chore: configure webpack config for code splitting
+[2026-01-12T02:17:10.000Z] - refactor: clean up deprecated helper functions
