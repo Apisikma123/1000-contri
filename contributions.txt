@@ -1,1 +1,1 @@
-[2026-01-12T13:52:21.000Z] - perf: improve bundle size optimization and asset loading
+[2026-01-12T13:58:05.000Z] - docs: correct typos and outdated command references in README
