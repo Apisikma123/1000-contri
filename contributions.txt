@@ -11275,3 +11275,4 @@
 [2026-01-12T12:51:31.000Z] - style: format codebase using new prettier rules
 [2026-01-12T14:43:35.000Z] - refactor: optimize database query performance
 [2026-01-13T02:18:11.000Z] - docs: update installation guides and api endpoints documentation
+[2026-01-13T02:33:27.000Z] - refactor: clean up deprecated helper functions
