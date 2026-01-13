@@ -11288,3 +11288,4 @@
 [2026-01-13T08:25:09.000Z] - docs: update installation guides and api endpoints documentation
 [2026-01-13T08:27:09.000Z] - chore: configure webpack config for code splitting
 [2026-01-13T08:30:19.000Z] - feat: add automatic retry mechanism for api requests
+[2026-01-13T08:36:50.000Z] - feat: add multi-language localization support
