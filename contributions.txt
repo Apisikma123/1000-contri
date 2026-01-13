@@ -1,1 +1,1 @@
-[2026-01-13T04:21:02.000Z] - feat: add multi-language localization support
+[2026-01-13T04:33:04.000Z] - perf: improve bundle size optimization and asset loading
