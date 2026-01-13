@@ -3722,3 +3722,4 @@
 [2026-01-13T08:11:29.000Z] - feat: add automatic retry mechanism for api requests
 [2026-01-13T09:17:33.000Z] - chore: bump dependencies and library versions
 [2026-01-13T09:24:36.000Z] - chore: bump dependencies and library versions
+[2026-01-13T09:38:27.000Z] - docs: correct typos and outdated command references in README
