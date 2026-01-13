@@ -11293,3 +11293,4 @@
 [2026-01-13T09:17:28.000Z] - style: format codebase using new prettier rules
 [2026-01-13T09:33:04.000Z] - docs: update installation guides and api endpoints documentation
 [2026-01-13T10:03:32.000Z] - feat: add multi-language localization support
+[2026-01-13T10:13:03.000Z] - chore: bump dependencies and library versions
