@@ -1,1 +1,1 @@
-[2026-01-12T14:10:08.000Z] - feat: add multi-language localization support
+[2026-01-13T01:57:52.000Z] - fix: resolve race condition in authentication middleware
