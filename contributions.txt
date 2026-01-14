@@ -16536,3 +16536,4 @@
 [2026-01-13T11:04:03.000Z] - docs: correct typos and outdated command references in README
 [2026-01-13T12:31:42.000Z] - style: format codebase using new prettier rules
 [2026-01-14T02:10:02.000Z] - chore: bump dependencies and library versions
+[2026-01-14T03:24:55.000Z] - fix: handle unexpected null pointer exception in parser
