@@ -11317,3 +11317,4 @@
 [2026-01-14T06:28:54.000Z] - fix: resolve race condition in authentication middleware
 [2026-01-14T06:54:45.000Z] - feat: add multi-language localization support
 [2026-01-14T07:07:20.000Z] - feat: add multi-language localization support
+[2026-01-14T07:17:31.000Z] - docs: update installation guides and api endpoints documentation
