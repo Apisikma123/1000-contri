@@ -3748,3 +3748,4 @@
 [2026-01-15T05:38:44.000Z] - docs: update installation guides and api endpoints documentation
 [2026-01-15T08:37:20.000Z] - docs: update installation guides and api endpoints documentation
 [2026-01-15T10:06:00.000Z] - style: format codebase using new prettier rules
+[2026-01-15T10:28:20.000Z] - fix: improve responsive layout on mobile viewport
