@@ -11354,3 +11354,4 @@
 [2026-01-15T13:28:23.000Z] - fix: handle unexpected null pointer exception in parser
 [2026-01-15T13:48:45.000Z] - fix: resolve race condition in authentication middleware
 [2026-01-15T14:33:49.000Z] - fix: resolve race condition in authentication middleware
+[2026-01-15T14:45:35.000Z] - refactor: clean up deprecated helper functions
