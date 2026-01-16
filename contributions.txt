@@ -1,1 +1,1 @@
-[2026-01-16T02:22:16.000Z] - test: implement integration tests for checkout flow
+[2026-01-16T02:29:38.000Z] - feat: add multi-language localization support
