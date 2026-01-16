@@ -1,1 +1,1 @@
-[2026-01-16T03:41:34.000Z] - fix: resolve race condition in authentication middleware
+[2026-01-16T03:50:35.000Z] - refactor: clean up deprecated helper functions
