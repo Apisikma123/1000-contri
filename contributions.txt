@@ -11366,3 +11366,4 @@
 [2026-01-16T03:57:43.000Z] - docs: correct typos and outdated command references in README
 [2026-01-16T04:09:44.000Z] - fix: handle unexpected null pointer exception in parser
 [2026-01-16T04:10:37.000Z] - feat: add multi-language localization support
+[2026-01-16T04:14:38.000Z] - docs: update installation guides and api endpoints documentation
