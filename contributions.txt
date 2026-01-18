@@ -3765,3 +3765,4 @@
 [2026-01-17T02:48:20.000Z] - feat: add automatic retry mechanism for api requests
 [2026-01-17T06:25:22.000Z] - chore: bump dependencies and library versions
 [2026-01-17T08:55:23.000Z] - feat: add multi-language localization support
+[2026-01-18T03:52:58.000Z] - docs: correct typos and outdated command references in README
