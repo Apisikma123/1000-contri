@@ -3784,3 +3784,4 @@
 [2026-01-20T02:14:47.000Z] - fix: improve responsive layout on mobile viewport
 [2026-01-20T02:40:37.000Z] - fix: handle unexpected null pointer exception in parser
 [2026-01-20T03:01:51.000Z] - style: format codebase using new prettier rules
+[2026-01-20T03:51:08.000Z] - docs: update installation guides and api endpoints documentation
