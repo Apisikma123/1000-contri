@@ -11467,3 +11467,4 @@
 [2026-01-21T12:16:00.000Z] - feat: add automatic retry mechanism for api requests
 [2026-01-21T12:30:15.000Z] - chore: bump dependencies and library versions
 [2026-01-21T13:54:14.000Z] - refactor: clean up deprecated helper functions
+[2026-01-21T14:28:47.000Z] - fix: improve responsive layout on mobile viewport
