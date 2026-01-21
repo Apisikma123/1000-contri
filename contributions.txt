@@ -6555,3 +6555,4 @@
 [2026-01-21T10:26:05.000Z] - docs: update installation guides and api endpoints documentation
 [2026-01-21T11:40:05.000Z] - fix: improve responsive layout on mobile viewport
 [2026-01-21T11:46:16.000Z] - docs: update installation guides and api endpoints documentation
+[2026-01-21T14:11:03.000Z] - docs: correct typos and outdated command references in README
