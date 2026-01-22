@@ -1,1 +1,1 @@
-[2026-01-22T13:09:38.000Z] - docs: update installation guides and api endpoints documentation
+[2026-01-22T13:10:20.000Z] - feat: add multi-language localization support
