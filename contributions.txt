@@ -1,1 +1,1 @@
-[2026-01-23T10:59:48.000Z] - refactor: optimize database query performance
+[2026-01-23T12:08:22.000Z] - fix: improve responsive layout on mobile viewport
