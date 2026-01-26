@@ -11537,3 +11537,4 @@
 [2026-01-26T03:39:40.000Z] - chore: configure webpack config for code splitting
 [2026-01-26T04:00:50.000Z] - feat: add automatic retry mechanism for api requests
 [2026-01-26T04:06:05.000Z] - docs: update installation guides and api endpoints documentation
+[2026-01-26T04:39:06.000Z] - refactor: clean up deprecated helper functions
