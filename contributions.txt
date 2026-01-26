@@ -11539,3 +11539,4 @@
 [2026-01-26T04:06:05.000Z] - docs: update installation guides and api endpoints documentation
 [2026-01-26T04:39:06.000Z] - refactor: clean up deprecated helper functions
 [2026-01-26T04:55:16.000Z] - refactor: clean up deprecated helper functions
+[2026-01-26T05:08:24.000Z] - feat: add multi-language localization support
