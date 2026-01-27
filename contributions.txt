@@ -1,1 +1,1 @@
-[2026-01-27T10:04:08.000Z] - feat: add automatic retry mechanism for api requests
+[2026-01-27T10:05:44.000Z] - docs: correct typos and outdated command references in README
