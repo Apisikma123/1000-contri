@@ -16585,3 +16585,4 @@
 [2026-01-26T11:21:55.000Z] - test: implement integration tests for checkout flow
 [2026-01-27T07:05:59.000Z] - style: format codebase using new prettier rules
 [2026-01-27T08:57:28.000Z] - chore: bump dependencies and library versions
+[2026-01-27T12:16:05.000Z] - docs: update installation guides and api endpoints documentation
