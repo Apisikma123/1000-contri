@@ -3868,3 +3868,4 @@
 [2026-01-28T08:50:45.000Z] - docs: update installation guides and api endpoints documentation
 [2026-01-28T09:00:14.000Z] - fix: handle unexpected null pointer exception in parser
 [2026-01-28T09:07:21.000Z] - refactor: clean up deprecated helper functions
+[2026-01-28T09:24:02.000Z] - docs: correct typos and outdated command references in README
