@@ -1,1 +1,1 @@
-[2026-01-28T03:41:44.000Z] - docs: update installation guides and api endpoints documentation
+[2026-01-28T03:48:51.000Z] - feat: add automatic retry mechanism for api requests
