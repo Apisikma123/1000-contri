@@ -1,1 +1,1 @@
-[2026-01-29T02:35:01.000Z] - feat: add multi-language localization support
+[2026-01-29T02:40:12.000Z] - refactor: clean up deprecated helper functions
