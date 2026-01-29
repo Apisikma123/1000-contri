@@ -3879,3 +3879,4 @@
 [2026-01-29T05:58:05.000Z] - style: format codebase using new prettier rules
 [2026-01-29T06:00:46.000Z] - docs: update installation guides and api endpoints documentation
 [2026-01-29T07:20:38.000Z] - docs: update installation guides and api endpoints documentation
+[2026-01-29T07:59:25.000Z] - docs: correct typos and outdated command references in README
