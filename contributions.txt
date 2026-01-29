@@ -18291,3 +18291,4 @@
 [2026-01-28T11:56:31.000Z] - style: format codebase using new prettier rules
 [2026-01-29T02:59:50.000Z] - docs: update installation guides and api endpoints documentation
 [2026-01-29T04:19:05.000Z] - chore: bump dependencies and library versions
+[2026-01-29T07:57:28.000Z] - feat: add automatic retry mechanism for api requests
