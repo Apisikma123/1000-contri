@@ -1,1 +1,1 @@
-[2026-01-29T05:41:23.000Z] - docs: update installation guides and api endpoints documentation
+[2026-01-29T06:05:45.000Z] - chore: configure webpack config for code splitting
