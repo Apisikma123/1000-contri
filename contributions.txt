@@ -1,1 +1,1 @@
-[2026-01-30T07:33:01.000Z] - chore: bump dependencies and library versions
+[2026-01-30T07:35:52.000Z] - fix: improve responsive layout on mobile viewport
