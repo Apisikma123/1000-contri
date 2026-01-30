@@ -1,1 +1,1 @@
-[2026-01-30T11:30:19.000Z] - chore: bump dependencies and library versions
+[2026-01-30T11:49:40.000Z] - feat: add multi-language localization support
