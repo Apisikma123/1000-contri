@@ -1563,3 +1563,4 @@
 [2026-01-29T09:22:32.000Z] - test: implement integration tests for checkout flow
 [2026-01-30T03:16:23.000Z] - fix: improve responsive layout on mobile viewport
 [2026-01-30T05:39:45.000Z] - chore: bump dependencies and library versions
+[2026-01-30T08:46:44.000Z] - refactor: clean up deprecated helper functions
