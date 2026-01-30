@@ -16602,3 +16602,4 @@
 [2026-01-30T02:30:45.000Z] - perf: improve bundle size optimization and asset loading
 [2026-01-30T03:14:16.000Z] - fix: handle unexpected null pointer exception in parser
 [2026-01-30T03:42:30.000Z] - perf: improve bundle size optimization and asset loading
+[2026-01-30T04:47:53.000Z] - refactor: clean up deprecated helper functions
