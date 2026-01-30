@@ -15487,3 +15487,4 @@
 [2026-01-29T14:00:39.000Z] - test: implement integration tests for checkout flow
 [2026-01-30T07:44:46.000Z] - test: implement integration tests for checkout flow
 [2026-01-30T08:33:42.000Z] - test: implement integration tests for checkout flow
+[2026-01-30T10:44:44.000Z] - fix: improve responsive layout on mobile viewport
