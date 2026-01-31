@@ -3896,3 +3896,4 @@
 [2026-01-30T11:14:36.000Z] - perf: improve bundle size optimization and asset loading
 [2026-01-31T02:54:09.000Z] - perf: improve bundle size optimization and asset loading
 [2026-01-31T07:30:05.000Z] - chore: bump dependencies and library versions
+[2026-01-31T10:18:49.000Z] - fix: handle unexpected null pointer exception in parser
