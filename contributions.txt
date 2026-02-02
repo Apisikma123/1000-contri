@@ -1,1 +1,1 @@
-[2026-02-02T07:04:45.000Z] - fix: improve responsive layout on mobile viewport
+[2026-02-02T07:27:46.000Z] - refactor: clean up deprecated helper functions
