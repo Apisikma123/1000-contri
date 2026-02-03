@@ -6624,3 +6624,4 @@
 [2026-02-02T05:54:52.000Z] - docs: update installation guides and api endpoints documentation
 [2026-02-02T10:50:09.000Z] - chore: bump dependencies and library versions
 [2026-02-02T12:35:34.000Z] - docs: correct typos and outdated command references in README
+[2026-02-03T03:44:13.000Z] - docs: update installation guides and api endpoints documentation
