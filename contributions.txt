@@ -1,1 +1,1 @@
-[2026-02-03T03:31:54.000Z] - feat: implement custom user dashboard analytics widget
+[2026-02-03T03:44:09.000Z] - feat: add multi-language localization support
