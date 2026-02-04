@@ -11728,3 +11728,4 @@
 [2026-02-04T02:16:51.000Z] - style: format codebase using new prettier rules
 [2026-02-04T02:20:03.000Z] - fix: improve responsive layout on mobile viewport
 [2026-02-04T02:40:48.000Z] - chore: bump dependencies and library versions
+[2026-02-04T02:55:04.000Z] - docs: update installation guides and api endpoints documentation
