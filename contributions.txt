@@ -1580,3 +1580,4 @@
 [2026-02-04T04:09:42.000Z] - docs: update installation guides and api endpoints documentation
 [2026-02-04T06:28:13.000Z] - chore: bump dependencies and library versions
 [2026-02-04T09:42:56.000Z] - chore: configure webpack config for code splitting
+[2026-02-04T10:26:14.000Z] - docs: update installation guides and api endpoints documentation
