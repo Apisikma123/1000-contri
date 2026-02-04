@@ -1,1 +1,1 @@
-[2026-02-04T03:55:56.000Z] - test: implement integration tests for checkout flow
+[2026-02-04T04:02:56.000Z] - docs: correct typos and outdated command references in README
