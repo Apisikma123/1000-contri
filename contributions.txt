@@ -3938,3 +3938,4 @@
 [2026-02-04T13:24:59.000Z] - chore: bump dependencies and library versions
 [2026-02-05T01:13:29.000Z] - feat: add multi-language localization support
 [2026-02-05T02:40:13.000Z] - docs: update installation guides and api endpoints documentation
+[2026-02-05T02:46:11.000Z] - fix: improve responsive layout on mobile viewport
