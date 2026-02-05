@@ -11751,3 +11751,4 @@
 [2026-02-04T13:37:56.000Z] - feat: implement custom user dashboard analytics widget
 [2026-02-04T13:38:53.000Z] - docs: correct typos and outdated command references in README
 [2026-02-04T14:14:49.000Z] - refactor: clean up deprecated helper functions
+[2026-02-05T02:44:27.000Z] - docs: update installation guides and api endpoints documentation
