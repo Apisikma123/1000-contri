@@ -6659,3 +6659,4 @@
 [2026-02-08T03:42:31.000Z] - feat: add automatic retry mechanism for api requests
 [2026-02-08T12:00:19.000Z] - docs: correct typos and outdated command references in README
 [2026-02-09T02:43:56.000Z] - docs: update installation guides and api endpoints documentation
+[2026-02-09T03:50:49.000Z] - docs: update installation guides and api endpoints documentation
