@@ -3972,3 +3972,4 @@
 [2026-02-09T03:41:41.000Z] - docs: correct typos and outdated command references in README
 [2026-02-09T03:49:27.000Z] - chore: configure webpack config for code splitting
 [2026-02-09T05:05:45.000Z] - feat: add automatic retry mechanism for api requests
+[2026-02-09T07:06:34.000Z] - refactor: clean up deprecated helper functions
