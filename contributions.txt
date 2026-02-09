@@ -11823,3 +11823,4 @@
 [2026-02-09T05:05:04.000Z] - fix: resolve race condition in authentication middleware
 [2026-02-09T05:59:26.000Z] - chore: bump dependencies and library versions
 [2026-02-09T06:13:13.000Z] - test: implement integration tests for checkout flow
+[2026-02-09T07:19:59.000Z] - docs: update installation guides and api endpoints documentation
