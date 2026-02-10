@@ -1,1 +1,1 @@
-[2026-02-10T03:10:07.000Z] - refactor: optimize database query performance
+[2026-02-10T03:24:44.000Z] - feat: add multi-language localization support
