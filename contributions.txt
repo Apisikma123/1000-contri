@@ -1,1 +1,1 @@
-[2026-02-10T10:21:39.000Z] - feat: add multi-language localization support
+[2026-02-10T10:47:10.000Z] - fix: handle unexpected null pointer exception in parser
