@@ -572,3 +572,4 @@
 [2026-02-11T09:21:52.000Z] - chore: bump dependencies and library versions
 [2026-02-11T10:20:34.000Z] - perf: improve bundle size optimization and asset loading
 [2026-02-12T03:23:55.000Z] - style: format codebase using new prettier rules
+[2026-02-13T03:33:38.000Z] - docs: update installation guides and api endpoints documentation
