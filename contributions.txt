@@ -11926,3 +11926,4 @@
 [2026-02-13T09:47:43.000Z] - docs: update installation guides and api endpoints documentation
 [2026-02-13T10:13:50.000Z] - style: format codebase using new prettier rules
 [2026-02-13T10:17:50.000Z] - fix: resolve race condition in authentication middleware
+[2026-02-13T10:24:03.000Z] - fix: improve responsive layout on mobile viewport
