@@ -4033,3 +4033,4 @@
 [2026-02-15T10:35:15.000Z] - feat: add automatic retry mechanism for api requests
 [2026-02-15T10:52:18.000Z] - refactor: clean up deprecated helper functions
 [2026-02-16T02:58:46.000Z] - style: format codebase using new prettier rules
+[2026-02-16T03:48:05.000Z] - docs: update installation guides and api endpoints documentation
