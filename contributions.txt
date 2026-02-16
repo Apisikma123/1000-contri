@@ -1,1 +1,1 @@
-[2026-02-16T08:52:18.000Z] - docs: correct typos and outdated command references in README
+[2026-02-16T09:12:56.000Z] - docs: update installation guides and api endpoints documentation
