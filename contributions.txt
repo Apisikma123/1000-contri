@@ -11970,3 +11970,4 @@
 [2026-02-16T18:17:08.000Z] - refactor: clean up deprecated helper functions
 [2026-02-17T02:01:08.000Z] - refactor: clean up deprecated helper functions
 [2026-02-17T02:25:58.000Z] - fix: handle unexpected null pointer exception in parser
+[2026-02-17T02:56:19.000Z] - docs: correct typos and outdated command references in README
