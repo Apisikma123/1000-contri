@@ -16660,3 +16660,4 @@
 [2026-02-16T07:51:07.000Z] - refactor: clean up deprecated helper functions
 [2026-02-16T09:39:59.000Z] - feat: add multi-language localization support
 [2026-02-16T11:54:11.000Z] - chore: configure webpack config for code splitting
+[2026-02-17T01:32:14.000Z] - docs: update installation guides and api endpoints documentation
