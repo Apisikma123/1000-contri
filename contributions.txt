@@ -11969,3 +11969,4 @@
 [2026-02-16T17:49:03.000Z] - feat: add automatic retry mechanism for api requests
 [2026-02-16T18:17:08.000Z] - refactor: clean up deprecated helper functions
 [2026-02-17T02:01:08.000Z] - refactor: clean up deprecated helper functions
+[2026-02-17T02:25:58.000Z] - fix: handle unexpected null pointer exception in parser
