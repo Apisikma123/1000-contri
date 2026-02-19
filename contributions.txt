@@ -15544,3 +15544,4 @@
 [2026-02-19T04:37:09.000Z] - chore: configure webpack config for code splitting
 [2026-02-19T09:54:32.000Z] - chore: bump dependencies and library versions
 [2026-02-19T10:40:55.000Z] - style: format codebase using new prettier rules
+[2026-02-19T10:40:57.000Z] - refactor: clean up deprecated helper functions
