@@ -1,1 +1,1 @@
-[2026-02-20T02:53:34.000Z] - feat: add multi-language localization support
+[2026-02-20T02:57:40.000Z] - chore: configure webpack config for code splitting
