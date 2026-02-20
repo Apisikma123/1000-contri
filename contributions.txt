@@ -12050,3 +12050,4 @@
 [2026-02-19T17:07:08.000Z] - chore: configure webpack config for code splitting
 [2026-02-20T02:29:41.000Z] - perf: improve bundle size optimization and asset loading
 [2026-02-20T02:42:15.000Z] - fix: improve responsive layout on mobile viewport
+[2026-02-20T03:17:17.000Z] - docs: update installation guides and api endpoints documentation
