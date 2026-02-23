@@ -12106,3 +12106,4 @@
 [2026-02-23T09:22:39.000Z] - style: format codebase using new prettier rules
 [2026-02-23T10:07:31.000Z] - refactor: clean up deprecated helper functions
 [2026-02-23T10:11:45.000Z] - docs: update installation guides and api endpoints documentation
+[2026-02-23T12:12:50.000Z] - docs: update installation guides and api endpoints documentation
