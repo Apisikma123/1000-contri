@@ -597,3 +597,4 @@
 [2026-02-22T10:38:28.000Z] - docs: update installation guides and api endpoints documentation
 [2026-02-23T04:13:33.000Z] - style: format codebase using new prettier rules
 [2026-02-23T06:06:58.000Z] - feat: add multi-language localization support
+[2026-02-23T07:24:44.000Z] - fix: improve responsive layout on mobile viewport
