@@ -12119,3 +12119,4 @@
 [2026-02-24T07:14:35.000Z] - test: implement integration tests for checkout flow
 [2026-02-24T07:22:11.000Z] - test: implement integration tests for checkout flow
 [2026-02-24T07:30:38.000Z] - feat: add automatic retry mechanism for api requests
+[2026-02-24T08:07:36.000Z] - docs: update installation guides and api endpoints documentation
