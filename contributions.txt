@@ -4121,3 +4121,4 @@
 [2026-02-24T09:53:01.000Z] - fix: resolve race condition in authentication middleware
 [2026-02-24T10:19:50.000Z] - perf: improve bundle size optimization and asset loading
 [2026-02-24T10:53:09.000Z] - chore: bump dependencies and library versions
+[2026-02-24T13:49:22.000Z] - docs: update installation guides and api endpoints documentation
