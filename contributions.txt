@@ -1630,3 +1630,4 @@
 [2026-02-24T09:32:56.000Z] - refactor: clean up deprecated helper functions
 [2026-02-24T12:56:43.000Z] - docs: update installation guides and api endpoints documentation
 [2026-02-25T04:13:48.000Z] - docs: correct typos and outdated command references in README
+[2026-02-25T05:38:09.000Z] - docs: update installation guides and api endpoints documentation
