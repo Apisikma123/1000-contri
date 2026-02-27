@@ -15561,3 +15561,4 @@
 [2026-02-24T12:09:30.000Z] - fix: handle unexpected null pointer exception in parser
 [2026-02-26T09:12:58.000Z] - docs: correct typos and outdated command references in README
 [2026-02-26T12:51:51.000Z] - style: format codebase using new prettier rules
+[2026-02-27T13:47:03.000Z] - docs: update installation guides and api endpoints documentation
