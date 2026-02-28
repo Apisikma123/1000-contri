@@ -6776,3 +6776,4 @@
 [2026-02-27T13:30:17.000Z] - docs: update installation guides and api endpoints documentation
 [2026-02-27T14:03:10.000Z] - style: format codebase using new prettier rules
 [2026-02-28T02:12:52.000Z] - fix: handle unexpected null pointer exception in parser
+[2026-02-28T03:59:00.000Z] - fix: handle unexpected null pointer exception in parser
