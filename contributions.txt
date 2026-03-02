@@ -4171,3 +4171,4 @@
 [2026-03-02T07:05:02.000Z] - perf: improve bundle size optimization and asset loading
 [2026-03-02T08:48:59.000Z] - fix: resolve race condition in authentication middleware
 [2026-03-02T09:02:53.000Z] - fix: resolve race condition in authentication middleware
+[2026-03-02T09:35:43.000Z] - docs: update installation guides and api endpoints documentation
