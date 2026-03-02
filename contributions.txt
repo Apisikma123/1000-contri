@@ -15564,3 +15564,4 @@
 [2026-02-27T13:47:03.000Z] - docs: update installation guides and api endpoints documentation
 [2026-03-02T10:21:37.000Z] - style: format codebase using new prettier rules
 [2026-03-02T10:47:37.000Z] - docs: correct typos and outdated command references in README
+[2026-03-02T12:51:24.000Z] - fix: improve responsive layout on mobile viewport
