@@ -1,1 +1,1 @@
-[2026-03-03T09:53:13.000Z] - chore: configure webpack config for code splitting
+[2026-03-03T10:01:18.000Z] - refactor: clean up deprecated helper functions
