@@ -1,1 +1,1 @@
-[2026-03-03T16:57:04.000Z] - fix: resolve race condition in authentication middleware
+[2026-03-03T17:02:57.000Z] - docs: update installation guides and api endpoints documentation
