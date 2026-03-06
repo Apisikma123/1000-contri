@@ -1,1 +1,1 @@
-[2026-03-06T07:45:30.000Z] - style: format codebase using new prettier rules
+[2026-03-06T08:10:22.000Z] - refactor: clean up deprecated helper functions
