@@ -16731,3 +16731,4 @@
 [2026-03-06T05:02:05.000Z] - docs: correct typos and outdated command references in README
 [2026-03-06T07:48:48.000Z] - refactor: clean up deprecated helper functions
 [2026-03-06T10:17:26.000Z] - docs: update installation guides and api endpoints documentation
+[2026-03-06T12:35:08.000Z] - docs: correct typos and outdated command references in README
