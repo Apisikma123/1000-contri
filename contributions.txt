@@ -12357,3 +12357,4 @@
 [2026-03-06T16:25:29.000Z] - chore: bump dependencies and library versions
 [2026-03-06T16:42:45.000Z] - fix: resolve race condition in authentication middleware
 [2026-03-07T03:58:25.000Z] - docs: update installation guides and api endpoints documentation
+[2026-03-07T07:17:11.000Z] - fix: handle unexpected null pointer exception in parser
