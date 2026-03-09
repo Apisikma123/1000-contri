@@ -4236,3 +4236,4 @@
 [2026-03-09T05:04:40.000Z] - docs: correct typos and outdated command references in README
 [2026-03-09T07:37:55.000Z] - refactor: clean up deprecated helper functions
 [2026-03-09T07:40:55.000Z] - fix: improve responsive layout on mobile viewport
+[2026-03-09T07:54:06.000Z] - fix: handle unexpected null pointer exception in parser
