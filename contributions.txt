@@ -12390,3 +12390,4 @@
 [2026-03-09T14:19:43.000Z] - fix: handle unexpected null pointer exception in parser
 [2026-03-09T16:39:03.000Z] - chore: bump dependencies and library versions
 [2026-03-10T02:15:58.000Z] - test: implement integration tests for checkout flow
+[2026-03-10T02:20:36.000Z] - docs: correct typos and outdated command references in README
