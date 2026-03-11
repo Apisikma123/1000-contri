@@ -12422,3 +12422,4 @@
 [2026-03-11T02:52:34.000Z] - fix: handle unexpected null pointer exception in parser
 [2026-03-11T03:05:24.000Z] - style: format codebase using new prettier rules
 [2026-03-11T03:27:56.000Z] - fix: improve responsive layout on mobile viewport
+[2026-03-11T04:02:22.000Z] - refactor: clean up deprecated helper functions
