@@ -16760,3 +16760,4 @@
 [2026-03-13T10:02:57.000Z] - docs: correct typos and outdated command references in README
 [2026-03-13T10:51:55.000Z] - fix: improve responsive layout on mobile viewport
 [2026-03-13T12:09:55.000Z] - docs: update installation guides and api endpoints documentation
+[2026-03-13T14:48:56.000Z] - fix: handle unexpected null pointer exception in parser
