@@ -6855,3 +6855,4 @@
 [2026-03-13T04:42:34.000Z] - test: implement integration tests for checkout flow
 [2026-03-13T07:09:51.000Z] - style: format codebase using new prettier rules
 [2026-03-13T10:56:45.000Z] - feat: add multi-language localization support
+[2026-03-13T11:31:48.000Z] - docs: update installation guides and api endpoints documentation
