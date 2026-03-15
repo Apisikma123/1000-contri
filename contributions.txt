@@ -12501,3 +12501,4 @@
 [2026-03-14T08:21:39.000Z] - docs: update installation guides and api endpoints documentation
 [2026-03-14T09:01:03.000Z] - refactor: clean up deprecated helper functions
 [2026-03-15T07:29:39.000Z] - fix: improve responsive layout on mobile viewport
+[2026-03-15T08:28:46.000Z] - refactor: clean up deprecated helper functions
