@@ -16765,3 +16765,4 @@
 [2026-03-14T10:27:46.000Z] - chore: configure webpack config for code splitting
 [2026-03-15T04:40:30.000Z] - docs: update installation guides and api endpoints documentation
 [2026-03-15T13:27:38.000Z] - fix: improve responsive layout on mobile viewport
+[2026-03-16T02:03:13.000Z] - docs: correct typos and outdated command references in README
