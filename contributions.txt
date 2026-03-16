@@ -12510,3 +12510,4 @@
 [2026-03-16T03:03:49.000Z] - feat: add multi-language localization support
 [2026-03-16T03:11:26.000Z] - perf: improve bundle size optimization and asset loading
 [2026-03-16T03:19:56.000Z] - feat: add multi-language localization support
+[2026-03-16T03:51:09.000Z] - docs: correct typos and outdated command references in README
