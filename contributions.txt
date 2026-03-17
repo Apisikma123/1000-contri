@@ -12536,3 +12536,4 @@
 [2026-03-17T04:16:18.000Z] - fix: improve responsive layout on mobile viewport
 [2026-03-17T04:23:24.000Z] - perf: improve bundle size optimization and asset loading
 [2026-03-17T04:37:00.000Z] - feat: add automatic retry mechanism for api requests
+[2026-03-17T04:39:20.000Z] - docs: update installation guides and api endpoints documentation
