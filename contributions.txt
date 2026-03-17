@@ -12527,3 +12527,4 @@
 [2026-03-16T14:27:49.000Z] - feat: add multi-language localization support
 [2026-03-16T18:51:59.000Z] - feat: add multi-language localization support
 [2026-03-17T01:59:07.000Z] - test: implement integration tests for checkout flow
+[2026-03-17T02:13:39.000Z] - docs: correct typos and outdated command references in README
