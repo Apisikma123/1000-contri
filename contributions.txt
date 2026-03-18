@@ -1682,3 +1682,4 @@
 [2026-03-16T07:01:57.000Z] - fix: resolve race condition in authentication middleware
 [2026-03-16T07:46:53.000Z] - feat: add automatic retry mechanism for api requests
 [2026-03-17T12:00:34.000Z] - docs: update installation guides and api endpoints documentation
+[2026-03-18T05:13:48.000Z] - docs: correct typos and outdated command references in README
