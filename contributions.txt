@@ -16771,3 +16771,4 @@
 [2026-03-16T11:38:22.000Z] - docs: correct typos and outdated command references in README
 [2026-03-16T13:07:44.000Z] - feat: add multi-language localization support
 [2026-03-19T02:32:28.000Z] - fix: handle unexpected null pointer exception in parser
+[2026-03-19T03:41:07.000Z] - refactor: clean up deprecated helper functions
