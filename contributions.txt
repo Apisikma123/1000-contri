@@ -1,1 +1,1 @@
-[2026-03-19T13:50:13.000Z] - refactor: clean up deprecated helper functions
+[2026-03-19T14:09:56.000Z] - docs: correct typos and outdated command references in README
