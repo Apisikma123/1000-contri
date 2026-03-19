@@ -4343,3 +4343,4 @@
 [2026-03-19T08:28:46.000Z] - style: format codebase using new prettier rules
 [2026-03-19T09:41:52.000Z] - chore: bump dependencies and library versions
 [2026-03-19T09:43:27.000Z] - chore: bump dependencies and library versions
+[2026-03-19T13:27:58.000Z] - fix: handle unexpected null pointer exception in parser
