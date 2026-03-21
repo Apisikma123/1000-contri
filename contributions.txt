@@ -4356,3 +4356,4 @@
 [2026-03-20T10:21:29.000Z] - feat: add automatic retry mechanism for api requests
 [2026-03-20T10:35:16.000Z] - docs: update installation guides and api endpoints documentation
 [2026-03-20T12:44:44.000Z] - refactor: clean up deprecated helper functions
+[2026-03-21T02:39:51.000Z] - fix: improve responsive layout on mobile viewport
