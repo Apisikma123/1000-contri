@@ -18600,3 +18600,4 @@
 [2026-03-23T04:45:34.000Z] - docs: correct typos and outdated command references in README
 [2026-03-23T05:00:29.000Z] - test: implement integration tests for checkout flow
 [2026-03-23T06:25:23.000Z] - chore: bump dependencies and library versions
+[2026-03-23T10:23:06.000Z] - refactor: clean up deprecated helper functions
