@@ -15627,3 +15627,4 @@
 [2026-03-24T02:45:35.000Z] - test: implement integration tests for checkout flow
 [2026-03-24T05:02:07.000Z] - feat: add multi-language localization support
 [2026-03-24T10:16:31.000Z] - refactor: clean up deprecated helper functions
+[2026-03-24T14:53:31.000Z] - docs: update installation guides and api endpoints documentation
