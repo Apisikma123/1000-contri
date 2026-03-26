@@ -1,1 +1,1 @@
-[2026-03-26T13:48:56.000Z] - docs: correct typos and outdated command references in README
+[2026-03-26T13:58:09.000Z] - docs: correct typos and outdated command references in README
