@@ -16797,3 +16797,4 @@
 [2026-03-27T07:40:58.000Z] - perf: improve bundle size optimization and asset loading
 [2026-03-27T09:10:03.000Z] - refactor: optimize database query performance
 [2026-03-27T09:37:20.000Z] - feat: add automatic retry mechanism for api requests
+[2026-03-27T14:50:16.000Z] - docs: update installation guides and api endpoints documentation
