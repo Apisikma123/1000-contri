@@ -18632,3 +18632,4 @@
 [2026-03-27T11:29:00.000Z] - docs: correct typos and outdated command references in README
 [2026-03-27T14:39:17.000Z] - chore: bump dependencies and library versions
 [2026-03-28T02:34:24.000Z] - chore: bump dependencies and library versions
+[2026-03-28T11:01:21.000Z] - docs: update installation guides and api endpoints documentation
