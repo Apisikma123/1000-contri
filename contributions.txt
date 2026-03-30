@@ -6952,3 +6952,4 @@
 [2026-03-30T12:15:41.000Z] - fix: improve responsive layout on mobile viewport
 [2026-03-30T12:43:39.000Z] - perf: improve bundle size optimization and asset loading
 [2026-03-30T14:05:47.000Z] - docs: update installation guides and api endpoints documentation
+[2026-03-30T18:07:56.000Z] - docs: update installation guides and api endpoints documentation
