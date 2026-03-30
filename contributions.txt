@@ -12794,3 +12794,4 @@
 [2026-03-30T07:03:32.000Z] - feat: add automatic retry mechanism for api requests
 [2026-03-30T07:31:06.000Z] - refactor: optimize database query performance
 [2026-03-30T07:55:52.000Z] - style: format codebase using new prettier rules
+[2026-03-30T08:05:35.000Z] - docs: update installation guides and api endpoints documentation
