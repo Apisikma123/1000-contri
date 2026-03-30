@@ -12802,3 +12802,4 @@
 [2026-03-30T10:14:08.000Z] - feat: add multi-language localization support
 [2026-03-30T11:00:26.000Z] - refactor: clean up deprecated helper functions
 [2026-03-30T11:05:44.000Z] - style: format codebase using new prettier rules
+[2026-03-30T11:50:25.000Z] - fix: improve responsive layout on mobile viewport
