@@ -12829,3 +12829,4 @@
 [2026-03-31T07:47:58.000Z] - perf: improve bundle size optimization and asset loading
 [2026-03-31T08:07:19.000Z] - docs: update installation guides and api endpoints documentation
 [2026-03-31T09:09:59.000Z] - refactor: optimize database query performance
+[2026-03-31T09:47:40.000Z] - refactor: clean up deprecated helper functions
