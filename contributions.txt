@@ -12850,3 +12850,4 @@
 [2026-04-01T07:54:14.000Z] - style: format codebase using new prettier rules
 [2026-04-01T08:13:58.000Z] - docs: correct typos and outdated command references in README
 [2026-04-01T08:51:49.000Z] - fix: handle unexpected null pointer exception in parser
+[2026-04-01T09:24:29.000Z] - fix: improve responsive layout on mobile viewport
