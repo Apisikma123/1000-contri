@@ -4452,3 +4452,4 @@
 [2026-03-31T10:35:35.000Z] - perf: improve bundle size optimization and asset loading
 [2026-03-31T11:14:39.000Z] - style: format codebase using new prettier rules
 [2026-03-31T11:22:55.000Z] - fix: handle unexpected null pointer exception in parser
+[2026-04-01T00:50:59.000Z] - docs: correct typos and outdated command references in README
