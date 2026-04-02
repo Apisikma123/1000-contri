@@ -1,1 +1,1 @@
-[2026-04-02T05:31:30.000Z] - fix: improve responsive layout on mobile viewport
+[2026-04-02T05:50:07.000Z] - perf: improve bundle size optimization and asset loading
