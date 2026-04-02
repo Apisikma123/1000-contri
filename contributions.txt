@@ -12872,3 +12872,4 @@
 [2026-04-02T04:12:10.000Z] - style: format codebase using new prettier rules
 [2026-04-02T05:49:43.000Z] - perf: improve bundle size optimization and asset loading
 [2026-04-02T06:04:00.000Z] - docs: update installation guides and api endpoints documentation
+[2026-04-02T07:52:32.000Z] - fix: handle unexpected null pointer exception in parser
