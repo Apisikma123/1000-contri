@@ -1,1 +1,1 @@
-[2026-04-02T02:03:35.000Z] - refactor: optimize database query performance
+[2026-04-02T02:04:01.000Z] - refactor: clean up deprecated helper functions
