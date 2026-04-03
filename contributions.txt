@@ -15652,3 +15652,4 @@
 [2026-04-02T08:05:47.000Z] - docs: update installation guides and api endpoints documentation
 [2026-04-02T14:43:44.000Z] - perf: improve bundle size optimization and asset loading
 [2026-04-03T04:33:23.000Z] - chore: bump dependencies and library versions
+[2026-04-03T07:16:59.000Z] - fix: improve responsive layout on mobile viewport
