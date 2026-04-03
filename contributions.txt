@@ -6979,3 +6979,4 @@
 [2026-04-03T08:36:31.000Z] - style: format codebase using new prettier rules
 [2026-04-03T09:00:12.000Z] - style: format codebase using new prettier rules
 [2026-04-03T11:55:46.000Z] - refactor: optimize database query performance
+[2026-04-03T11:57:04.000Z] - docs: update installation guides and api endpoints documentation
