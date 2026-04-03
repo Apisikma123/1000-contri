@@ -1,1 +1,1 @@
-[2026-04-02T19:14:19.000Z] - refactor: optimize database query performance
+[2026-04-03T00:14:44.000Z] - docs: correct typos and outdated command references in README
