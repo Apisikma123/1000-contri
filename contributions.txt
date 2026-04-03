@@ -1,1 +1,1 @@
-[2026-04-03T07:59:40.000Z] - feat: add automatic retry mechanism for api requests
+[2026-04-03T08:04:51.000Z] - fix: improve responsive layout on mobile viewport
