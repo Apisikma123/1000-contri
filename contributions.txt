@@ -12912,3 +12912,4 @@
 [2026-04-03T10:03:04.000Z] - docs: update installation guides and api endpoints documentation
 [2026-04-03T10:20:43.000Z] - perf: improve bundle size optimization and asset loading
 [2026-04-03T10:48:52.000Z] - style: format codebase using new prettier rules
+[2026-04-03T11:50:28.000Z] - fix: handle unexpected null pointer exception in parser
