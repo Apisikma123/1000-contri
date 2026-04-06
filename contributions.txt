@@ -12940,3 +12940,4 @@
 [2026-04-06T08:16:54.000Z] - fix: handle unexpected null pointer exception in parser
 [2026-04-06T08:37:13.000Z] - refactor: optimize database query performance
 [2026-04-06T08:41:55.000Z] - style: format codebase using new prettier rules
+[2026-04-06T08:55:48.000Z] - docs: update installation guides and api endpoints documentation
