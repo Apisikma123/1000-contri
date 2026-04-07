@@ -12975,3 +12975,4 @@
 [2026-04-07T14:10:28.000Z] - docs: correct typos and outdated command references in README
 [2026-04-07T16:55:20.000Z] - docs: correct typos and outdated command references in README
 [2026-04-07T17:01:16.000Z] - test: implement integration tests for checkout flow
+[2026-04-07T19:23:37.000Z] - refactor: clean up deprecated helper functions
