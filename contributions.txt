@@ -12979,3 +12979,4 @@
 [2026-04-08T01:39:22.000Z] - fix: handle unexpected null pointer exception in parser
 [2026-04-08T02:15:33.000Z] - fix: handle unexpected null pointer exception in parser
 [2026-04-08T02:18:19.000Z] - chore: configure webpack config for code splitting
+[2026-04-08T02:45:32.000Z] - docs: update installation guides and api endpoints documentation
