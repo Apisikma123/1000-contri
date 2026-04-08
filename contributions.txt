@@ -4521,3 +4521,4 @@
 [2026-04-08T00:31:29.000Z] - feat: add automatic retry mechanism for api requests
 [2026-04-08T03:31:13.000Z] - fix: resolve race condition in authentication middleware
 [2026-04-08T05:07:35.000Z] - chore: configure webpack config for code splitting
+[2026-04-08T06:00:33.000Z] - docs: update installation guides and api endpoints documentation
