@@ -13020,3 +13020,4 @@
 [2026-04-09T08:22:37.000Z] - style: format codebase using new prettier rules
 [2026-04-09T08:47:50.000Z] - docs: update installation guides and api endpoints documentation
 [2026-04-09T08:56:50.000Z] - style: format codebase using new prettier rules
+[2026-04-09T09:14:17.000Z] - docs: correct typos and outdated command references in README
