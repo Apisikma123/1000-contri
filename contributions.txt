@@ -1,1 +1,1 @@
-[2026-04-09T09:58:29.000Z] - feat: implement custom user dashboard analytics widget
+[2026-04-09T10:38:39.000Z] - docs: update installation guides and api endpoints documentation
