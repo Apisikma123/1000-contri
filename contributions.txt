@@ -1,1 +1,1 @@
-[2026-04-08T18:17:13.000Z] - style: format codebase using new prettier rules
+[2026-04-09T00:33:43.000Z] - perf: improve bundle size optimization and asset loading
