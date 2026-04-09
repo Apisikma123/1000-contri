@@ -13006,3 +13006,4 @@
 [2026-04-09T02:27:58.000Z] - feat: add multi-language localization support
 [2026-04-09T02:35:21.000Z] - feat: add automatic retry mechanism for api requests
 [2026-04-09T02:40:32.000Z] - chore: bump dependencies and library versions
+[2026-04-09T02:45:14.000Z] - docs: update installation guides and api endpoints documentation
