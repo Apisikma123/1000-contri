@@ -15666,3 +15666,4 @@
 [2026-04-08T05:45:17.000Z] - docs: correct typos and outdated command references in README
 [2026-04-08T14:43:55.000Z] - refactor: optimize database query performance
 [2026-04-09T02:13:26.000Z] - perf: improve bundle size optimization and asset loading
+[2026-04-09T03:54:59.000Z] - refactor: clean up deprecated helper functions
