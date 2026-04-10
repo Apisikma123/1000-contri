@@ -1,1 +1,1 @@
-[2026-04-10T08:29:45.000Z] - refactor: clean up deprecated helper functions
+[2026-04-10T08:52:32.000Z] - fix: handle unexpected null pointer exception in parser
