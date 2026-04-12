@@ -1,1 +1,1 @@
-[2026-04-10T16:04:40.000Z] - fix: improve responsive layout on mobile viewport
+[2026-04-12T04:09:23.000Z] - feat: add multi-language localization support
