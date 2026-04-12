@@ -4557,3 +4557,4 @@
 [2026-04-11T05:32:13.000Z] - docs: update installation guides and api endpoints documentation
 [2026-04-11T09:36:14.000Z] - feat: add multi-language localization support
 [2026-04-11T11:11:18.000Z] - feat: add multi-language localization support
+[2026-04-12T04:38:31.000Z] - docs: correct typos and outdated command references in README
