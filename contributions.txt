@@ -18729,3 +18729,4 @@
 [2026-04-14T03:37:56.000Z] - refactor: clean up deprecated helper functions
 [2026-04-14T03:48:48.000Z] - chore: bump dependencies and library versions
 [2026-04-14T04:44:12.000Z] - style: format codebase using new prettier rules
+[2026-04-14T07:01:43.000Z] - fix: handle unexpected null pointer exception in parser
