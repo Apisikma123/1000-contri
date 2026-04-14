@@ -1,1 +1,1 @@
-[2026-04-14T10:23:30.000Z] - docs: correct typos and outdated command references in README
+[2026-04-14T10:23:42.000Z] - style: format codebase using new prettier rules
