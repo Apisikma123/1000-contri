@@ -16856,3 +16856,4 @@
 [2026-04-14T06:32:23.000Z] - docs: correct typos and outdated command references in README
 [2026-04-15T02:19:25.000Z] - chore: bump dependencies and library versions
 [2026-04-15T04:03:47.000Z] - feat: add automatic retry mechanism for api requests
+[2026-04-15T07:32:47.000Z] - fix: handle unexpected null pointer exception in parser
