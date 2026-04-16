@@ -13158,3 +13158,4 @@
 [2026-04-16T09:41:31.000Z] - chore: bump dependencies and library versions
 [2026-04-16T10:18:29.000Z] - fix: improve responsive layout on mobile viewport
 [2026-04-16T10:20:17.000Z] - feat: add automatic retry mechanism for api requests
+[2026-04-16T10:42:58.000Z] - refactor: clean up deprecated helper functions
