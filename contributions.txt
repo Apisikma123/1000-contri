@@ -4604,3 +4604,4 @@
 [2026-04-16T03:40:39.000Z] - docs: update installation guides and api endpoints documentation
 [2026-04-16T04:05:12.000Z] - style: format codebase using new prettier rules
 [2026-04-16T04:18:47.000Z] - docs: update installation guides and api endpoints documentation
+[2026-04-16T05:44:15.000Z] - docs: correct typos and outdated command references in README
