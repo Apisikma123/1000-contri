@@ -13187,3 +13187,4 @@
 [2026-04-17T09:16:45.000Z] - chore: configure webpack config for code splitting
 [2026-04-17T10:17:55.000Z] - test: implement integration tests for checkout flow
 [2026-04-17T10:31:29.000Z] - style: format codebase using new prettier rules
+[2026-04-17T10:34:19.000Z] - refactor: clean up deprecated helper functions
