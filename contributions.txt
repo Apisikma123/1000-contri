@@ -13234,3 +13234,4 @@
 [2026-04-21T03:22:59.000Z] - feat: implement custom user dashboard analytics widget
 [2026-04-21T03:25:20.000Z] - chore: bump dependencies and library versions
 [2026-04-21T03:49:22.000Z] - feat: add automatic retry mechanism for api requests
+[2026-04-21T04:30:56.000Z] - docs: update installation guides and api endpoints documentation
