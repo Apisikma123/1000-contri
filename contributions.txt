@@ -1,1 +1,1 @@
-[2026-04-22T04:15:25.000Z] - docs: correct typos and outdated command references in README
+[2026-04-22T04:18:26.000Z] - fix: handle unexpected null pointer exception in parser
