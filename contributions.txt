@@ -1771,3 +1771,4 @@
 [2026-04-19T10:20:14.000Z] - test: implement integration tests for checkout flow
 [2026-04-21T07:37:39.000Z] - chore: configure webpack config for code splitting
 [2026-04-21T08:00:08.000Z] - chore: configure webpack config for code splitting
+[2026-04-22T07:25:14.000Z] - docs: update installation guides and api endpoints documentation
