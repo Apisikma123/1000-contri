@@ -13295,3 +13295,4 @@
 [2026-04-23T06:22:33.000Z] - fix: improve responsive layout on mobile viewport
 [2026-04-23T06:26:32.000Z] - fix: resolve race condition in authentication middleware
 [2026-04-23T06:33:05.000Z] - feat: add multi-language localization support
+[2026-04-23T07:25:57.000Z] - refactor: clean up deprecated helper functions
