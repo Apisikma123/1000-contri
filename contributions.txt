@@ -18784,3 +18784,4 @@
 [2026-04-23T02:21:34.000Z] - chore: bump dependencies and library versions
 [2026-04-23T02:53:52.000Z] - perf: improve bundle size optimization and asset loading
 [2026-04-23T04:58:41.000Z] - feat: add automatic retry mechanism for api requests
+[2026-04-23T11:08:51.000Z] - refactor: clean up deprecated helper functions
