@@ -13291,3 +13291,4 @@
 [2026-04-23T04:00:05.000Z] - fix: resolve race condition in authentication middleware
 [2026-04-23T04:43:16.000Z] - fix: resolve race condition in authentication middleware
 [2026-04-23T05:11:27.000Z] - chore: configure webpack config for code splitting
+[2026-04-23T06:08:47.000Z] - docs: update installation guides and api endpoints documentation
