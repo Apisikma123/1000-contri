@@ -16889,3 +16889,4 @@
 [2026-04-22T08:43:35.000Z] - docs: correct typos and outdated command references in README
 [2026-04-22T09:46:40.000Z] - docs: correct typos and outdated command references in README
 [2026-04-23T03:23:40.000Z] - style: format codebase using new prettier rules
+[2026-04-23T06:49:53.000Z] - feat: add multi-language localization support
