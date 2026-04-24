@@ -13325,3 +13325,4 @@
 [2026-04-24T04:55:13.000Z] - feat: add automatic retry mechanism for api requests
 [2026-04-24T05:32:34.000Z] - chore: configure webpack config for code splitting
 [2026-04-24T07:12:10.000Z] - docs: update installation guides and api endpoints documentation
+[2026-04-24T07:12:39.000Z] - refactor: clean up deprecated helper functions
