@@ -1,1 +1,1 @@
-[2026-04-27T02:48:44.000Z] - fix: improve responsive layout on mobile viewport
+[2026-04-27T03:13:56.000Z] - docs: correct typos and outdated command references in README
