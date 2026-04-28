@@ -16907,3 +16907,4 @@
 [2026-04-27T07:50:04.000Z] - fix: improve responsive layout on mobile viewport
 [2026-04-27T14:23:16.000Z] - test: implement integration tests for checkout flow
 [2026-04-28T02:01:29.000Z] - perf: improve bundle size optimization and asset loading
+[2026-04-28T07:06:30.000Z] - refactor: clean up deprecated helper functions
