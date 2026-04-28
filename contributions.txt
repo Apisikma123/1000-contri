@@ -13382,3 +13382,4 @@
 [2026-04-28T05:56:02.000Z] - feat: add automatic retry mechanism for api requests
 [2026-04-28T06:05:55.000Z] - chore: configure webpack config for code splitting
 [2026-04-28T06:07:18.000Z] - fix: improve responsive layout on mobile viewport
+[2026-04-28T06:35:18.000Z] - docs: update installation guides and api endpoints documentation
