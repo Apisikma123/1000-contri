@@ -18809,3 +18809,4 @@
 [2026-04-27T11:47:37.000Z] - fix: handle unexpected null pointer exception in parser
 [2026-04-27T15:09:32.000Z] - style: format codebase using new prettier rules
 [2026-04-28T02:26:23.000Z] - chore: bump dependencies and library versions
+[2026-04-28T03:39:18.000Z] - docs: correct typos and outdated command references in README
