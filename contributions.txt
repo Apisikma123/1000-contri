@@ -1,1 +1,1 @@
-[2026-04-28T07:55:32.000Z] - style: format codebase using new prettier rules
+[2026-04-28T08:04:39.000Z] - docs: update installation guides and api endpoints documentation
