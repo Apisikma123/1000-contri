@@ -18816,3 +18816,4 @@
 [2026-04-28T10:16:21.000Z] - docs: update installation guides and api endpoints documentation
 [2026-04-28T14:19:46.000Z] - chore: configure webpack config for code splitting
 [2026-04-29T03:22:21.000Z] - fix: handle unexpected null pointer exception in parser
+[2026-04-29T04:32:21.000Z] - docs: update installation guides and api endpoints documentation
