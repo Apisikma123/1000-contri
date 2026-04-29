@@ -13417,3 +13417,4 @@
 [2026-04-29T08:38:00.000Z] - refactor: optimize database query performance
 [2026-04-29T08:48:48.000Z] - docs: correct typos and outdated command references in README
 [2026-04-29T09:52:52.000Z] - style: format codebase using new prettier rules
+[2026-04-29T10:02:32.000Z] - refactor: clean up deprecated helper functions
