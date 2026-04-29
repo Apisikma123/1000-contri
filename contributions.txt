@@ -13418,3 +13418,4 @@
 [2026-04-29T08:48:48.000Z] - docs: correct typos and outdated command references in README
 [2026-04-29T09:52:52.000Z] - style: format codebase using new prettier rules
 [2026-04-29T10:02:32.000Z] - refactor: clean up deprecated helper functions
+[2026-04-29T10:10:01.000Z] - docs: update installation guides and api endpoints documentation
