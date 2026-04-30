@@ -16916,3 +16916,4 @@
 [2026-04-29T09:01:11.000Z] - chore: bump dependencies and library versions
 [2026-04-29T10:22:44.000Z] - feat: add automatic retry mechanism for api requests
 [2026-04-29T12:57:26.000Z] - perf: improve bundle size optimization and asset loading
+[2026-04-30T02:05:16.000Z] - fix: improve responsive layout on mobile viewport
