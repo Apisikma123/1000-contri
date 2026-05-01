@@ -801,3 +801,4 @@
 [2026-04-30T08:49:08.000Z] - perf: improve bundle size optimization and asset loading
 [2026-05-01T02:24:52.000Z] - style: format codebase using new prettier rules
 [2026-05-01T02:44:50.000Z] - fix: improve responsive layout on mobile viewport
+[2026-05-01T08:36:01.000Z] - docs: update installation guides and api endpoints documentation
