@@ -13513,3 +13513,4 @@
 [2026-05-05T02:34:08.000Z] - feat: add automatic retry mechanism for api requests
 [2026-05-05T02:52:45.000Z] - feat: implement custom user dashboard analytics widget
 [2026-05-05T02:57:08.000Z] - test: implement integration tests for checkout flow
+[2026-05-05T03:54:31.000Z] - docs: update installation guides and api endpoints documentation
