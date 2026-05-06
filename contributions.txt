@@ -4790,3 +4790,4 @@
 [2026-05-06T05:22:10.000Z] - fix: resolve race condition in authentication middleware
 [2026-05-06T07:48:36.000Z] - refactor: clean up deprecated helper functions
 [2026-05-06T09:48:38.000Z] - chore: configure webpack config for code splitting
+[2026-05-06T10:22:21.000Z] - docs: update installation guides and api endpoints documentation
