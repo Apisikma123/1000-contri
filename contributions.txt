@@ -7169,3 +7169,4 @@
 [2026-05-06T07:54:51.000Z] - fix: resolve race condition in authentication middleware
 [2026-05-06T09:06:03.000Z] - perf: improve bundle size optimization and asset loading
 [2026-05-06T10:08:44.000Z] - feat: add automatic retry mechanism for api requests
+[2026-05-06T10:46:47.000Z] - docs: update installation guides and api endpoints documentation
