@@ -4803,3 +4803,4 @@
 [2026-05-07T09:17:24.000Z] - docs: correct typos and outdated command references in README
 [2026-05-07T10:33:33.000Z] - docs: update installation guides and api endpoints documentation
 [2026-05-07T10:53:57.000Z] - style: format codebase using new prettier rules
+[2026-05-07T11:17:05.000Z] - docs: update installation guides and api endpoints documentation
