@@ -13608,3 +13608,4 @@
 [2026-05-08T09:29:19.000Z] - refactor: clean up deprecated helper functions
 [2026-05-08T09:36:22.000Z] - docs: update installation guides and api endpoints documentation
 [2026-05-08T09:40:36.000Z] - fix: handle unexpected null pointer exception in parser
+[2026-05-08T09:48:39.000Z] - style: format codebase using new prettier rules
