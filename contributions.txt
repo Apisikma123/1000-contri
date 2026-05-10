@@ -18880,3 +18880,4 @@
 [2026-05-09T04:16:35.000Z] - perf: improve bundle size optimization and asset loading
 [2026-05-09T08:22:07.000Z] - fix: improve responsive layout on mobile viewport
 [2026-05-09T10:01:10.000Z] - feat: add automatic retry mechanism for api requests
+[2026-05-10T02:25:01.000Z] - refactor: clean up deprecated helper functions
