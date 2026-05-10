@@ -4822,3 +4822,4 @@
 [2026-05-09T04:22:11.000Z] - docs: correct typos and outdated command references in README
 [2026-05-09T11:47:49.000Z] - perf: improve bundle size optimization and asset loading
 [2026-05-10T00:43:36.000Z] - feat: add multi-language localization support
+[2026-05-10T07:01:11.000Z] - docs: correct typos and outdated command references in README
