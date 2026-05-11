@@ -13643,3 +13643,4 @@
 [2026-05-11T06:15:11.000Z] - chore: bump dependencies and library versions
 [2026-05-11T07:06:43.000Z] - chore: configure webpack config for code splitting
 [2026-05-11T07:14:03.000Z] - docs: update installation guides and api endpoints documentation
+[2026-05-11T09:20:12.000Z] - refactor: clean up deprecated helper functions
