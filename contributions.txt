@@ -15757,3 +15757,4 @@
 [2026-05-08T14:42:14.000Z] - feat: add multi-language localization support
 [2026-05-10T08:45:03.000Z] - chore: bump dependencies and library versions
 [2026-05-11T02:14:49.000Z] - perf: improve bundle size optimization and asset loading
+[2026-05-11T05:48:35.000Z] - docs: correct typos and outdated command references in README
