@@ -13639,3 +13639,4 @@
 [2026-05-11T04:59:58.000Z] - style: format codebase using new prettier rules
 [2026-05-11T05:20:46.000Z] - fix: improve responsive layout on mobile viewport
 [2026-05-11T05:40:36.000Z] - chore: configure webpack config for code splitting
+[2026-05-11T05:42:17.000Z] - docs: update installation guides and api endpoints documentation
