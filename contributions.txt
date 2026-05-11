@@ -4826,3 +4826,4 @@
 [2026-05-10T13:42:11.000Z] - fix: resolve race condition in authentication middleware
 [2026-05-11T01:52:35.000Z] - chore: configure webpack config for code splitting
 [2026-05-11T06:50:11.000Z] - perf: improve bundle size optimization and asset loading
+[2026-05-11T08:43:01.000Z] - docs: update installation guides and api endpoints documentation
