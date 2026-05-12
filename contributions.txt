@@ -7204,3 +7204,4 @@
 [2026-05-12T10:32:19.000Z] - fix: handle unexpected null pointer exception in parser
 [2026-05-12T10:33:49.000Z] - chore: bump dependencies and library versions
 [2026-05-12T12:51:03.000Z] - fix: resolve race condition in authentication middleware
+[2026-05-12T13:23:44.000Z] - refactor: clean up deprecated helper functions
