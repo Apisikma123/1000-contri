@@ -13677,3 +13677,4 @@
 [2026-05-12T16:07:22.000Z] - docs: update installation guides and api endpoints documentation
 [2026-05-13T02:10:45.000Z] - test: implement integration tests for checkout flow
 [2026-05-13T03:02:44.000Z] - style: format codebase using new prettier rules
+[2026-05-13T03:12:53.000Z] - fix: handle unexpected null pointer exception in parser
