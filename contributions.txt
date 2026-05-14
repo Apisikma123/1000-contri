@@ -4860,3 +4860,4 @@
 [2026-05-13T08:44:55.000Z] - perf: improve bundle size optimization and asset loading
 [2026-05-13T09:31:14.000Z] - feat: add automatic retry mechanism for api requests
 [2026-05-13T10:23:10.000Z] - chore: bump dependencies and library versions
+[2026-05-14T02:06:09.000Z] - docs: update installation guides and api endpoints documentation
