@@ -18913,3 +18913,4 @@
 [2026-05-14T12:16:00.000Z] - style: format codebase using new prettier rules
 [2026-05-15T02:21:11.000Z] - docs: correct typos and outdated command references in README
 [2026-05-15T04:22:42.000Z] - docs: update installation guides and api endpoints documentation
+[2026-05-15T05:54:06.000Z] - docs: update installation guides and api endpoints documentation
