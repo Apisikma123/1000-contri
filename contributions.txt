@@ -18915,3 +18915,4 @@
 [2026-05-15T04:22:42.000Z] - docs: update installation guides and api endpoints documentation
 [2026-05-15T05:54:06.000Z] - docs: update installation guides and api endpoints documentation
 [2026-05-15T08:12:00.000Z] - chore: configure webpack config for code splitting
+[2026-05-15T09:06:23.000Z] - fix: improve responsive layout on mobile viewport
