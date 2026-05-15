@@ -13752,3 +13752,4 @@
 [2026-05-15T09:18:04.000Z] - refactor: clean up deprecated helper functions
 [2026-05-15T09:53:03.000Z] - fix: resolve race condition in authentication middleware
 [2026-05-15T10:03:12.000Z] - docs: update installation guides and api endpoints documentation
+[2026-05-15T10:13:35.000Z] - docs: correct typos and outdated command references in README
