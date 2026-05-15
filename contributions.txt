@@ -13741,3 +13741,4 @@
 [2026-05-15T04:35:44.000Z] - feat: add multi-language localization support
 [2026-05-15T04:49:27.000Z] - feat: add automatic retry mechanism for api requests
 [2026-05-15T05:10:30.000Z] - refactor: optimize database query performance
+[2026-05-15T05:11:21.000Z] - refactor: clean up deprecated helper functions
