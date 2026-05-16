@@ -7227,3 +7227,4 @@
 [2026-05-15T10:21:26.000Z] - chore: configure webpack config for code splitting
 [2026-05-15T10:56:18.000Z] - fix: improve responsive layout on mobile viewport
 [2026-05-16T03:52:59.000Z] - style: format codebase using new prettier rules
+[2026-05-16T05:59:29.000Z] - docs: update installation guides and api endpoints documentation
