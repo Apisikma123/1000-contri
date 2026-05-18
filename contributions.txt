@@ -4897,3 +4897,4 @@
 [2026-05-18T05:06:27.000Z] - docs: update installation guides and api endpoints documentation
 [2026-05-18T05:11:53.000Z] - docs: update installation guides and api endpoints documentation
 [2026-05-18T06:11:32.000Z] - feat: add automatic retry mechanism for api requests
+[2026-05-18T07:47:30.000Z] - perf: improve bundle size optimization and asset loading
