@@ -4891,3 +4891,4 @@
 [2026-05-17T10:54:15.000Z] - chore: bump dependencies and library versions
 [2026-05-17T12:41:16.000Z] - fix: handle unexpected null pointer exception in parser
 [2026-05-18T02:20:04.000Z] - chore: bump dependencies and library versions
+[2026-05-18T02:20:45.000Z] - refactor: clean up deprecated helper functions
