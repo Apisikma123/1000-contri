@@ -1849,3 +1849,4 @@
 [2026-05-15T12:03:01.000Z] - docs: correct typos and outdated command references in README
 [2026-05-15T13:20:23.000Z] - test: implement integration tests for checkout flow
 [2026-05-18T04:46:48.000Z] - feat: add multi-language localization support
+[2026-05-18T06:21:54.000Z] - refactor: clean up deprecated helper functions
