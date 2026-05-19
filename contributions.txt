@@ -13808,3 +13808,4 @@
 [2026-05-19T08:31:45.000Z] - feat: add multi-language localization support
 [2026-05-19T08:52:23.000Z] - refactor: clean up deprecated helper functions
 [2026-05-19T09:14:53.000Z] - docs: correct typos and outdated command references in README
+[2026-05-19T10:14:32.000Z] - fix: handle unexpected null pointer exception in parser
