@@ -847,3 +847,4 @@
 [2026-05-18T14:47:34.000Z] - refactor: clean up deprecated helper functions
 [2026-05-18T16:24:09.000Z] - fix: improve responsive layout on mobile viewport
 [2026-05-20T03:41:44.000Z] - docs: update installation guides and api endpoints documentation
+[2026-05-20T03:56:37.000Z] - fix: improve responsive layout on mobile viewport
