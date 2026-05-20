@@ -7247,3 +7247,4 @@
 [2026-05-19T11:43:44.000Z] - fix: handle unexpected null pointer exception in parser
 [2026-05-19T13:33:14.000Z] - perf: improve bundle size optimization and asset loading
 [2026-05-20T03:50:55.000Z] - chore: bump dependencies and library versions
+[2026-05-20T03:57:27.000Z] - docs: update installation guides and api endpoints documentation
