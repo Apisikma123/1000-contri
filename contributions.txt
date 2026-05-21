@@ -4933,3 +4933,4 @@
 [2026-05-21T07:37:40.000Z] - docs: correct typos and outdated command references in README
 [2026-05-21T07:39:27.000Z] - test: implement integration tests for checkout flow
 [2026-05-21T07:47:09.000Z] - style: format codebase using new prettier rules
+[2026-05-21T07:56:36.000Z] - docs: correct typos and outdated command references in README
