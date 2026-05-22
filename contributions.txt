@@ -13884,3 +13884,4 @@
 [2026-05-22T06:44:43.000Z] - fix: resolve race condition in authentication middleware
 [2026-05-22T07:00:58.000Z] - chore: configure webpack config for code splitting
 [2026-05-22T07:39:05.000Z] - feat: add multi-language localization support
+[2026-05-22T07:45:18.000Z] - docs: update installation guides and api endpoints documentation
