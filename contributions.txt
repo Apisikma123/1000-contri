@@ -865,3 +865,4 @@
 [2026-05-25T02:21:34.000Z] - chore: configure webpack config for code splitting
 [2026-05-25T06:21:33.000Z] - perf: improve bundle size optimization and asset loading
 [2026-05-25T07:17:47.000Z] - fix: handle unexpected null pointer exception in parser
+[2026-05-25T07:52:22.000Z] - docs: correct typos and outdated command references in README
