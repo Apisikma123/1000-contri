@@ -13920,3 +13920,4 @@
 [2026-05-25T10:58:51.000Z] - chore: configure webpack config for code splitting
 [2026-05-25T11:23:29.000Z] - style: format codebase using new prettier rules
 [2026-05-25T11:46:58.000Z] - fix: handle unexpected null pointer exception in parser
+[2026-05-25T12:04:21.000Z] - docs: update installation guides and api endpoints documentation
