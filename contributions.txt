@@ -4957,3 +4957,4 @@
 [2026-05-24T04:25:14.000Z] - docs: correct typos and outdated command references in README
 [2026-05-24T10:15:16.000Z] - refactor: optimize database query performance
 [2026-05-25T02:06:58.000Z] - feat: add multi-language localization support
+[2026-05-25T02:19:22.000Z] - docs: update installation guides and api endpoints documentation
