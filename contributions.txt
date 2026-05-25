@@ -4963,3 +4963,4 @@
 [2026-05-25T06:00:13.000Z] - docs: update installation guides and api endpoints documentation
 [2026-05-25T07:16:15.000Z] - chore: configure webpack config for code splitting
 [2026-05-25T07:35:30.000Z] - docs: correct typos and outdated command references in README
+[2026-05-25T09:41:00.000Z] - feat: add multi-language localization support
