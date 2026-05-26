@@ -18977,3 +18977,4 @@
 [2026-05-26T07:10:16.000Z] - feat: add multi-language localization support
 [2026-05-26T07:13:38.000Z] - feat: add automatic retry mechanism for api requests
 [2026-05-26T07:49:42.000Z] - fix: handle unexpected null pointer exception in parser
+[2026-05-26T08:12:59.000Z] - docs: correct typos and outdated command references in README
