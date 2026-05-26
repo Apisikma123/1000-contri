@@ -13938,3 +13938,4 @@
 [2026-05-26T03:54:40.000Z] - chore: configure webpack config for code splitting
 [2026-05-26T05:34:30.000Z] - feat: add multi-language localization support
 [2026-05-26T05:52:05.000Z] - chore: configure webpack config for code splitting
+[2026-05-26T05:56:55.000Z] - docs: correct typos and outdated command references in README
