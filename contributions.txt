@@ -18979,3 +18979,4 @@
 [2026-05-26T07:49:42.000Z] - fix: handle unexpected null pointer exception in parser
 [2026-05-26T08:12:59.000Z] - docs: correct typos and outdated command references in README
 [2026-05-26T10:38:59.000Z] - perf: improve bundle size optimization and asset loading
+[2026-05-27T04:02:23.000Z] - docs: update installation guides and api endpoints documentation
