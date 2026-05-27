@@ -1,1 +1,1 @@
-[2026-05-27T15:24:37.000Z] - test: implement integration tests for checkout flow
+[2026-05-27T15:55:02.000Z] - fix: handle unexpected null pointer exception in parser
