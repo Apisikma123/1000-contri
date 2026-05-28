@@ -1,1 +1,1 @@
-[2026-05-27T18:01:15.000Z] - test: implement integration tests for checkout flow
+[2026-05-28T02:13:35.000Z] - fix: improve responsive layout on mobile viewport
