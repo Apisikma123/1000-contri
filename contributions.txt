@@ -5015,3 +5015,4 @@
 [2026-05-29T09:19:44.000Z] - docs: correct typos and outdated command references in README
 [2026-05-29T10:40:38.000Z] - fix: handle unexpected null pointer exception in parser
 [2026-05-29T11:33:20.000Z] - feat: add multi-language localization support
+[2026-05-29T13:44:20.000Z] - docs: correct typos and outdated command references in README
