@@ -14057,3 +14057,4 @@
 [2026-06-01T09:08:21.000Z] - chore: bump dependencies and library versions
 [2026-06-01T10:22:01.000Z] - docs: correct typos and outdated command references in README
 [2026-06-01T10:28:05.000Z] - perf: improve bundle size optimization and asset loading
+[2026-06-01T10:31:44.000Z] - docs: update installation guides and api endpoints documentation
