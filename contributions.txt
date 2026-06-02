@@ -7321,3 +7321,4 @@
 [2026-06-01T07:51:20.000Z] - perf: improve bundle size optimization and asset loading
 [2026-06-01T08:13:49.000Z] - feat: implement custom user dashboard analytics widget
 [2026-06-01T10:23:34.000Z] - docs: update installation guides and api endpoints documentation
+[2026-06-02T02:03:08.000Z] - refactor: clean up deprecated helper functions
