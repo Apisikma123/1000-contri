@@ -5038,3 +5038,4 @@
 [2026-06-02T03:48:21.000Z] - style: format codebase using new prettier rules
 [2026-06-02T07:03:55.000Z] - test: implement integration tests for checkout flow
 [2026-06-02T07:06:29.000Z] - chore: bump dependencies and library versions
+[2026-06-02T07:12:36.000Z] - docs: correct typos and outdated command references in README
