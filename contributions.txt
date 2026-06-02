@@ -7323,3 +7323,4 @@
 [2026-06-01T10:23:34.000Z] - docs: update installation guides and api endpoints documentation
 [2026-06-02T02:03:08.000Z] - refactor: clean up deprecated helper functions
 [2026-06-02T02:30:21.000Z] - refactor: optimize database query performance
+[2026-06-02T03:50:10.000Z] - docs: correct typos and outdated command references in README
