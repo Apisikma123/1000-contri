@@ -14073,3 +14073,4 @@
 [2026-06-02T02:27:51.000Z] - refactor: clean up deprecated helper functions
 [2026-06-02T02:54:34.000Z] - style: format codebase using new prettier rules
 [2026-06-02T03:30:32.000Z] - feat: add multi-language localization support
+[2026-06-02T03:48:54.000Z] - docs: update installation guides and api endpoints documentation
