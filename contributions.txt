@@ -14120,3 +14120,4 @@
 [2026-06-03T14:47:56.000Z] - fix: improve responsive layout on mobile viewport
 [2026-06-03T16:04:24.000Z] - test: implement integration tests for checkout flow
 [2026-06-03T17:39:39.000Z] - refactor: optimize database query performance
+[2026-06-03T18:25:24.000Z] - docs: update installation guides and api endpoints documentation
