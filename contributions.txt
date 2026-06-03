@@ -14117,3 +14117,4 @@
 [2026-06-03T13:31:53.000Z] - feat: add automatic retry mechanism for api requests
 [2026-06-03T13:47:38.000Z] - fix: handle unexpected null pointer exception in parser
 [2026-06-03T14:24:29.000Z] - fix: handle unexpected null pointer exception in parser
+[2026-06-03T14:47:56.000Z] - fix: improve responsive layout on mobile viewport
