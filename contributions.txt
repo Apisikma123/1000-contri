@@ -14111,3 +14111,4 @@
 [2026-06-03T10:41:21.000Z] - docs: update installation guides and api endpoints documentation
 [2026-06-03T10:42:34.000Z] - feat: add automatic retry mechanism for api requests
 [2026-06-03T11:25:01.000Z] - chore: configure webpack config for code splitting
+[2026-06-03T11:48:10.000Z] - fix: handle unexpected null pointer exception in parser
