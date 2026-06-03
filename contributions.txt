@@ -15829,3 +15829,4 @@
 [2026-06-02T08:59:11.000Z] - perf: improve bundle size optimization and asset loading
 [2026-06-02T12:05:02.000Z] - docs: update installation guides and api endpoints documentation
 [2026-06-02T14:50:52.000Z] - docs: update installation guides and api endpoints documentation
+[2026-06-03T04:20:22.000Z] - docs: correct typos and outdated command references in README
