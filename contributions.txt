@@ -5060,3 +5060,4 @@
 [2026-06-03T13:41:31.000Z] - feat: add automatic retry mechanism for api requests
 [2026-06-04T02:01:45.000Z] - feat: implement custom user dashboard analytics widget
 [2026-06-04T02:18:18.000Z] - docs: update installation guides and api endpoints documentation
+[2026-06-04T02:40:56.000Z] - docs: update installation guides and api endpoints documentation
