@@ -5065,3 +5065,4 @@
 [2026-06-04T03:24:02.000Z] - feat: add multi-language localization support
 [2026-06-04T03:24:20.000Z] - style: format codebase using new prettier rules
 [2026-06-04T03:51:10.000Z] - style: format codebase using new prettier rules
+[2026-06-04T04:15:59.000Z] - docs: correct typos and outdated command references in README
