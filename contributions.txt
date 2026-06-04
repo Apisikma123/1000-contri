@@ -887,3 +887,4 @@
 [2026-06-03T03:14:31.000Z] - chore: bump dependencies and library versions
 [2026-06-03T04:25:53.000Z] - test: implement integration tests for checkout flow
 [2026-06-03T13:57:25.000Z] - feat: add multi-language localization support
+[2026-06-04T02:27:19.000Z] - docs: correct typos and outdated command references in README
