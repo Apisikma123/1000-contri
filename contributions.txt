@@ -14157,3 +14157,4 @@
 [2026-06-05T04:53:59.000Z] - style: format codebase using new prettier rules
 [2026-06-05T04:59:04.000Z] - refactor: clean up deprecated helper functions
 [2026-06-05T05:00:02.000Z] - refactor: clean up deprecated helper functions
+[2026-06-05T05:27:33.000Z] - refactor: clean up deprecated helper functions
