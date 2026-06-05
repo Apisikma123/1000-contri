@@ -14159,3 +14159,4 @@
 [2026-06-05T05:00:02.000Z] - refactor: clean up deprecated helper functions
 [2026-06-05T05:27:33.000Z] - refactor: clean up deprecated helper functions
 [2026-06-05T05:35:05.000Z] - chore: configure webpack config for code splitting
+[2026-06-05T08:34:17.000Z] - fix: handle unexpected null pointer exception in parser
