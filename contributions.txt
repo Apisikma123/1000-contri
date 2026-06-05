@@ -14168,3 +14168,4 @@
 [2026-06-05T10:22:54.000Z] - docs: correct typos and outdated command references in README
 [2026-06-05T10:31:36.000Z] - fix: resolve race condition in authentication middleware
 [2026-06-05T10:44:02.000Z] - docs: update installation guides and api endpoints documentation
+[2026-06-05T10:55:22.000Z] - docs: update installation guides and api endpoints documentation
