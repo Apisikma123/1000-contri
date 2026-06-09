@@ -14215,3 +14215,4 @@
 [2026-06-09T03:28:16.000Z] - test: implement integration tests for checkout flow
 [2026-06-09T03:28:45.000Z] - test: implement integration tests for checkout flow
 [2026-06-09T04:00:19.000Z] - fix: handle unexpected null pointer exception in parser
+[2026-06-09T04:24:54.000Z] - refactor: clean up deprecated helper functions
