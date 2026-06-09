@@ -893,3 +893,4 @@
 [2026-06-04T10:43:59.000Z] - chore: bump dependencies and library versions
 [2026-06-04T12:59:37.000Z] - style: format codebase using new prettier rules
 [2026-06-08T08:38:44.000Z] - feat: add automatic retry mechanism for api requests
+[2026-06-09T03:48:46.000Z] - fix: handle unexpected null pointer exception in parser
