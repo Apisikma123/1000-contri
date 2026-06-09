@@ -5101,3 +5101,4 @@
 [2026-06-08T16:03:20.000Z] - test: implement integration tests for checkout flow
 [2026-06-08T16:20:05.000Z] - perf: improve bundle size optimization and asset loading
 [2026-06-09T02:35:25.000Z] - style: format codebase using new prettier rules
+[2026-06-09T03:51:09.000Z] - refactor: clean up deprecated helper functions
