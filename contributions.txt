@@ -14240,3 +14240,4 @@
 [2026-06-10T02:56:11.000Z] - docs: update installation guides and api endpoints documentation
 [2026-06-10T03:13:49.000Z] - feat: add multi-language localization support
 [2026-06-10T03:14:43.000Z] - fix: resolve race condition in authentication middleware
+[2026-06-10T03:24:52.000Z] - refactor: clean up deprecated helper functions
