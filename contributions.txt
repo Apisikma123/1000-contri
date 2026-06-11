@@ -5130,3 +5130,4 @@
 [2026-06-11T06:07:26.000Z] - refactor: clean up deprecated helper functions
 [2026-06-11T07:09:06.000Z] - feat: add automatic retry mechanism for api requests
 [2026-06-11T07:33:30.000Z] - chore: bump dependencies and library versions
+[2026-06-11T08:14:56.000Z] - docs: correct typos and outdated command references in README
