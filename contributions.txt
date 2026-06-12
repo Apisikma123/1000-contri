@@ -14303,3 +14303,4 @@
 [2026-06-12T07:03:06.000Z] - fix: handle unexpected null pointer exception in parser
 [2026-06-12T07:31:01.000Z] - chore: bump dependencies and library versions
 [2026-06-12T07:52:24.000Z] - feat: add automatic retry mechanism for api requests
+[2026-06-12T08:08:52.000Z] - docs: update installation guides and api endpoints documentation
