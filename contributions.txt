@@ -911,3 +911,4 @@
 [2026-06-12T03:48:43.000Z] - perf: improve bundle size optimization and asset loading
 [2026-06-12T09:07:01.000Z] - chore: configure webpack config for code splitting
 [2026-06-12T09:48:17.000Z] - docs: update installation guides and api endpoints documentation
+[2026-06-12T10:39:56.000Z] - docs: correct typos and outdated command references in README
