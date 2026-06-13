@@ -14314,3 +14314,4 @@
 [2026-06-12T11:11:04.000Z] - fix: improve responsive layout on mobile viewport
 [2026-06-12T12:16:20.000Z] - style: format codebase using new prettier rules
 [2026-06-12T13:41:16.000Z] - fix: handle unexpected null pointer exception in parser
+[2026-06-13T02:25:55.000Z] - docs: correct typos and outdated command references in README
