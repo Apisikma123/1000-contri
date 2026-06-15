@@ -14325,3 +14325,4 @@
 [2026-06-15T02:17:41.000Z] - fix: handle unexpected null pointer exception in parser
 [2026-06-15T03:02:07.000Z] - docs: update installation guides and api endpoints documentation
 [2026-06-15T03:09:06.000Z] - feat: add automatic retry mechanism for api requests
+[2026-06-15T03:42:15.000Z] - feat: add multi-language localization support
