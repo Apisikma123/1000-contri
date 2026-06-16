@@ -14363,3 +14363,4 @@
 [2026-06-16T07:11:48.000Z] - docs: update installation guides and api endpoints documentation
 [2026-06-16T07:24:45.000Z] - chore: bump dependencies and library versions
 [2026-06-16T07:46:46.000Z] - chore: bump dependencies and library versions
+[2026-06-16T08:18:02.000Z] - feat: add multi-language localization support
