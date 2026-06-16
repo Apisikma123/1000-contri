@@ -1,1 +1,1 @@
-[2026-06-16T06:19:18.000Z] - docs: update installation guides and api endpoints documentation
+[2026-06-16T06:57:02.000Z] - style: format codebase using new prettier rules
