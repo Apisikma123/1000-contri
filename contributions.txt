@@ -19096,3 +19096,4 @@
 [2026-06-15T10:30:05.000Z] - chore: bump dependencies and library versions
 [2026-06-15T13:14:39.000Z] - feat: add multi-language localization support
 [2026-06-15T18:25:58.000Z] - feat: add multi-language localization support
+[2026-06-16T09:07:48.000Z] - fix: improve responsive layout on mobile viewport
