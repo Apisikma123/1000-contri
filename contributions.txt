@@ -5190,3 +5190,4 @@
 [2026-06-17T10:24:38.000Z] - chore: bump dependencies and library versions
 [2026-06-17T10:28:39.000Z] - feat: add automatic retry mechanism for api requests
 [2026-06-17T11:13:09.000Z] - docs: update installation guides and api endpoints documentation
+[2026-06-18T02:11:49.000Z] - docs: update installation guides and api endpoints documentation
