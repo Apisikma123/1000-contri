@@ -14427,3 +14427,4 @@
 [2026-06-18T10:52:13.000Z] - perf: improve bundle size optimization and asset loading
 [2026-06-18T10:54:48.000Z] - feat: add multi-language localization support
 [2026-06-18T12:24:25.000Z] - refactor: clean up deprecated helper functions
+[2026-06-18T13:05:57.000Z] - docs: update installation guides and api endpoints documentation
