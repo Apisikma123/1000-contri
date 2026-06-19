@@ -14448,3 +14448,4 @@
 [2026-06-19T09:08:55.000Z] - test: implement integration tests for checkout flow
 [2026-06-19T09:43:51.000Z] - docs: correct typos and outdated command references in README
 [2026-06-19T10:14:10.000Z] - style: format codebase using new prettier rules
+[2026-06-19T10:20:32.000Z] - fix: handle unexpected null pointer exception in parser
