@@ -19127,3 +19127,4 @@
 [2026-06-20T05:18:31.000Z] - test: implement integration tests for checkout flow
 [2026-06-20T08:51:26.000Z] - fix: improve responsive layout on mobile viewport
 [2026-06-20T17:23:57.000Z] - style: format codebase using new prettier rules
+[2026-06-21T02:19:34.000Z] - docs: update installation guides and api endpoints documentation
