@@ -1,1 +1,1 @@
-[2026-06-23T18:31:50.000Z] - chore: bump dependencies and library versions
+[2026-06-24T02:06:48.000Z] - docs: correct typos and outdated command references in README
