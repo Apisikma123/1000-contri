@@ -14515,3 +14515,4 @@
 [2026-06-24T02:44:40.000Z] - docs: update installation guides and api endpoints documentation
 [2026-06-24T04:37:23.000Z] - fix: resolve race condition in authentication middleware
 [2026-06-24T04:55:13.000Z] - fix: resolve race condition in authentication middleware
+[2026-06-24T05:09:37.000Z] - fix: handle unexpected null pointer exception in parser
