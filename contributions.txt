@@ -7451,3 +7451,4 @@
 [2026-06-23T05:57:55.000Z] - refactor: optimize database query performance
 [2026-06-23T08:08:22.000Z] - perf: improve bundle size optimization and asset loading
 [2026-06-23T09:30:19.000Z] - fix: improve responsive layout on mobile viewport
+[2026-06-24T06:46:47.000Z] - refactor: clean up deprecated helper functions
