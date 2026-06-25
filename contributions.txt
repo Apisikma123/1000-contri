@@ -948,3 +948,4 @@
 [2026-06-23T11:11:16.000Z] - docs: update installation guides and api endpoints documentation
 [2026-06-25T05:03:59.000Z] - refactor: clean up deprecated helper functions
 [2026-06-25T06:51:40.000Z] - feat: add automatic retry mechanism for api requests
+[2026-06-25T10:54:14.000Z] - chore: bump dependencies and library versions
