@@ -17099,3 +17099,4 @@
 [2026-06-23T09:58:11.000Z] - test: implement integration tests for checkout flow
 [2026-06-23T12:42:27.000Z] - style: format codebase using new prettier rules
 [2026-06-25T04:03:13.000Z] - refactor: optimize database query performance
+[2026-06-25T10:53:24.000Z] - docs: update installation guides and api endpoints documentation
