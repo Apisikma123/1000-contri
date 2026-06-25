@@ -5261,3 +5261,4 @@
 [2026-06-25T02:27:05.000Z] - docs: update installation guides and api endpoints documentation
 [2026-06-25T03:25:02.000Z] - fix: handle unexpected null pointer exception in parser
 [2026-06-25T03:33:37.000Z] - fix: improve responsive layout on mobile viewport
+[2026-06-25T03:56:49.000Z] - docs: update installation guides and api endpoints documentation
