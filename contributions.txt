@@ -5258,3 +5258,4 @@
 [2026-06-24T14:57:42.000Z] - perf: improve bundle size optimization and asset loading
 [2026-06-24T19:49:11.000Z] - fix: improve responsive layout on mobile viewport
 [2026-06-25T02:06:51.000Z] - feat: add multi-language localization support
+[2026-06-25T02:27:05.000Z] - docs: update installation guides and api endpoints documentation
