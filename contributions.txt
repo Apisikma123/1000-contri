@@ -7475,3 +7475,4 @@
 [2026-06-27T04:53:39.000Z] - perf: improve bundle size optimization and asset loading
 [2026-06-27T08:08:00.000Z] - feat: add automatic retry mechanism for api requests
 [2026-06-27T10:24:02.000Z] - chore: configure webpack config for code splitting
+[2026-06-28T07:23:21.000Z] - docs: update installation guides and api endpoints documentation
