@@ -5294,3 +5294,4 @@
 [2026-06-29T06:10:49.000Z] - test: implement integration tests for checkout flow
 [2026-06-29T07:44:53.000Z] - chore: bump dependencies and library versions
 [2026-06-29T09:39:02.000Z] - style: format codebase using new prettier rules
+[2026-06-29T09:51:31.000Z] - refactor: clean up deprecated helper functions
