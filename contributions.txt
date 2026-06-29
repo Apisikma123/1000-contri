@@ -5295,3 +5295,4 @@
 [2026-06-29T07:44:53.000Z] - chore: bump dependencies and library versions
 [2026-06-29T09:39:02.000Z] - style: format codebase using new prettier rules
 [2026-06-29T09:51:31.000Z] - refactor: clean up deprecated helper functions
+[2026-06-29T09:55:33.000Z] - fix: handle unexpected null pointer exception in parser
