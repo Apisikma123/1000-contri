@@ -7634,3 +7634,4 @@
 [2026-06-29T13:27:48.000Z] - style: format codebase using new prettier rules
 [2026-06-30T03:48:53.000Z] - docs: update installation guides and api endpoints documentation
 [2026-06-30T04:04:15.000Z] - fix: improve responsive layout on mobile viewport
+[2026-06-30T06:44:16.000Z] - fix: handle unexpected null pointer exception in parser
