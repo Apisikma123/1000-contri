@@ -1,1 +1,1 @@
-[2026-07-01T09:50:27.000Z] - docs: correct typos and outdated command references in README
+[2026-07-01T10:01:03.000Z] - feat: add multi-language localization support
