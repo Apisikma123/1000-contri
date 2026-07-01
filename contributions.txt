@@ -14653,3 +14653,4 @@
 [2026-07-01T02:18:59.000Z] - refactor: clean up deprecated helper functions
 [2026-07-01T03:10:52.000Z] - docs: update installation guides and api endpoints documentation
 [2026-07-01T03:26:48.000Z] - feat: add multi-language localization support
+[2026-07-01T03:34:22.000Z] - refactor: clean up deprecated helper functions
