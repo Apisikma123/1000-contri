@@ -14651,3 +14651,4 @@
 [2026-07-01T02:02:19.000Z] - chore: configure webpack config for code splitting
 [2026-07-01T02:11:15.000Z] - refactor: optimize database query performance
 [2026-07-01T02:18:59.000Z] - refactor: clean up deprecated helper functions
+[2026-07-01T03:10:52.000Z] - docs: update installation guides and api endpoints documentation
