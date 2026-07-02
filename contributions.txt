@@ -7647,3 +7647,4 @@
 [2026-07-01T11:27:31.000Z] - docs: correct typos and outdated command references in README
 [2026-07-01T14:22:55.000Z] - style: format codebase using new prettier rules
 [2026-07-02T01:50:10.000Z] - docs: correct typos and outdated command references in README
+[2026-07-02T03:35:47.000Z] - docs: update installation guides and api endpoints documentation
