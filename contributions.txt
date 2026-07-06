@@ -5352,3 +5352,4 @@
 [2026-07-04T19:00:36.000Z] - feat: add automatic retry mechanism for api requests
 [2026-07-05T09:42:44.000Z] - feat: add automatic retry mechanism for api requests
 [2026-07-05T14:42:16.000Z] - fix: resolve race condition in authentication middleware
+[2026-07-06T03:20:51.000Z] - refactor: clean up deprecated helper functions
