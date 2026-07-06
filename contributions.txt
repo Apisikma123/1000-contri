@@ -5363,3 +5363,4 @@
 [2026-07-06T10:40:48.000Z] - test: implement integration tests for checkout flow
 [2026-07-06T11:12:05.000Z] - fix: handle unexpected null pointer exception in parser
 [2026-07-06T11:50:59.000Z] - test: implement integration tests for checkout flow
+[2026-07-06T12:42:03.000Z] - docs: update installation guides and api endpoints documentation
