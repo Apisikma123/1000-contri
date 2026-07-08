@@ -7535,3 +7535,4 @@
 [2026-07-07T10:50:22.000Z] - fix: improve responsive layout on mobile viewport
 [2026-07-08T04:12:33.000Z] - chore: bump dependencies and library versions
 [2026-07-08T04:57:12.000Z] - fix: handle unexpected null pointer exception in parser
+[2026-07-08T06:30:11.000Z] - refactor: clean up deprecated helper functions
