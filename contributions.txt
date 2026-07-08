@@ -1,1 +1,1 @@
-[2026-07-08T09:50:20.000Z] - style: format codebase using new prettier rules
+[2026-07-08T09:56:47.000Z] - chore: bump dependencies and library versions
