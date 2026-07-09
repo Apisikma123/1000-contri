@@ -14828,3 +14828,4 @@
 [2026-07-09T07:44:14.000Z] - refactor: clean up deprecated helper functions
 [2026-07-09T07:45:47.000Z] - refactor: clean up deprecated helper functions
 [2026-07-09T08:04:41.000Z] - perf: improve bundle size optimization and asset loading
+[2026-07-09T09:18:56.000Z] - docs: update installation guides and api endpoints documentation
