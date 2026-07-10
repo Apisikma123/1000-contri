@@ -14844,3 +14844,4 @@
 [2026-07-10T01:33:35.000Z] - feat: add automatic retry mechanism for api requests
 [2026-07-10T02:07:47.000Z] - refactor: clean up deprecated helper functions
 [2026-07-10T02:35:36.000Z] - refactor: clean up deprecated helper functions
+[2026-07-10T02:42:40.000Z] - docs: update installation guides and api endpoints documentation
