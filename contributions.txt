@@ -7557,3 +7557,4 @@
 [2026-07-11T02:17:33.000Z] - refactor: clean up deprecated helper functions
 [2026-07-11T03:07:45.000Z] - docs: update installation guides and api endpoints documentation
 [2026-07-11T04:10:23.000Z] - fix: handle unexpected null pointer exception in parser
+[2026-07-12T05:59:47.000Z] - docs: update installation guides and api endpoints documentation
