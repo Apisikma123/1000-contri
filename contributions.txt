@@ -1,1 +1,1 @@
-[2026-07-13T10:57:13.000Z] - chore: configure webpack config for code splitting
+[2026-07-13T11:17:02.000Z] - fix: resolve race condition in authentication middleware
