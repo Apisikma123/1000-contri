@@ -17159,3 +17159,4 @@
 [2026-07-13T04:08:25.000Z] - feat: add multi-language localization support
 [2026-07-13T07:18:19.000Z] - style: format codebase using new prettier rules
 [2026-07-15T03:09:50.000Z] - style: format codebase using new prettier rules
+[2026-07-15T04:37:23.000Z] - refactor: clean up deprecated helper functions
