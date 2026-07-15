@@ -14940,3 +14940,4 @@
 [2026-07-15T07:16:56.000Z] - docs: update installation guides and api endpoints documentation
 [2026-07-15T07:38:27.000Z] - feat: add multi-language localization support
 [2026-07-15T07:41:18.000Z] - refactor: clean up deprecated helper functions
+[2026-07-15T09:34:02.000Z] - fix: improve responsive layout on mobile viewport
