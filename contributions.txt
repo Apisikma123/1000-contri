@@ -14939,3 +14939,4 @@
 [2026-07-15T07:10:30.000Z] - chore: bump dependencies and library versions
 [2026-07-15T07:16:56.000Z] - docs: update installation guides and api endpoints documentation
 [2026-07-15T07:38:27.000Z] - feat: add multi-language localization support
+[2026-07-15T07:41:18.000Z] - refactor: clean up deprecated helper functions
