@@ -14937,3 +14937,4 @@
 [2026-07-15T05:20:46.000Z] - feat: add automatic retry mechanism for api requests
 [2026-07-15T05:22:44.000Z] - perf: improve bundle size optimization and asset loading
 [2026-07-15T07:10:30.000Z] - chore: bump dependencies and library versions
+[2026-07-15T07:16:56.000Z] - docs: update installation guides and api endpoints documentation
