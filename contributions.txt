@@ -19494,3 +19494,4 @@
 [2026-07-16T19:45:38.000Z] - feat: add automatic retry mechanism for api requests
 [2026-07-16T19:46:39.000Z] - feat: add multi-language localization support
 [2026-07-16T19:47:10.000Z] - docs: update installation guides and api endpoints documentation
+[2026-07-16T19:49:33.000Z] - refactor: clean up deprecated helper functions
