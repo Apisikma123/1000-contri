@@ -19299,3 +19299,4 @@
 [2026-07-16T17:14:17.000Z] - feat: add automatic retry mechanism for api requests
 [2026-07-16T17:15:13.000Z] - refactor: clean up deprecated helper functions
 [2026-07-16T17:16:01.000Z] - refactor: clean up deprecated helper functions
+[2026-07-16T17:16:31.000Z] - fix: improve responsive layout on mobile viewport
