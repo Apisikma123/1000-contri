@@ -19448,3 +19448,4 @@
 [2026-07-16T19:03:08.000Z] - style: format codebase using new prettier rules
 [2026-07-16T19:03:13.000Z] - perf: improve bundle size optimization and asset loading
 [2026-07-16T19:03:13.000Z] - feat: add multi-language localization support
+[2026-07-16T19:03:57.000Z] - refactor: clean up deprecated helper functions
