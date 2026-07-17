@@ -19982,3 +19982,4 @@
 [2026-07-17T02:19:58.000Z] - chore: configure webpack config for code splitting
 [2026-07-17T02:19:58.000Z] - test: implement integration tests for checkout flow
 [2026-07-17T02:20:01.000Z] - docs: correct typos and outdated command references in README
+[2026-07-17T02:20:04.000Z] - docs: update installation guides and api endpoints documentation
