@@ -21064,3 +21064,4 @@
 [2026-07-17T03:12:52.000Z] - feat: add automatic retry mechanism for api requests
 [2026-07-17T03:12:56.000Z] - fix: handle unexpected null pointer exception in parser
 [2026-07-17T03:12:59.000Z] - fix: handle unexpected null pointer exception in parser
+[2026-07-17T03:13:02.000Z] - docs: update installation guides and api endpoints documentation
