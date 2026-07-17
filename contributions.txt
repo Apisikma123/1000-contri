@@ -21742,3 +21742,4 @@
 [2026-07-17T03:48:33.000Z] - test: implement integration tests for checkout flow
 [2026-07-17T03:48:36.000Z] - chore: configure webpack config for code splitting
 [2026-07-17T03:48:43.000Z] - fix: improve responsive layout on mobile viewport
+[2026-07-17T03:48:44.000Z] - refactor: clean up deprecated helper functions
