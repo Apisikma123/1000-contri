@@ -20720,3 +20720,4 @@
 [2026-07-17T02:55:35.000Z] - fix: handle unexpected null pointer exception in parser
 [2026-07-17T02:55:35.000Z] - style: format codebase using new prettier rules
 [2026-07-17T02:55:35.000Z] - refactor: clean up deprecated helper functions
+[2026-07-17T02:55:35.000Z] - docs: correct typos and outdated command references in README
