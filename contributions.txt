@@ -21560,3 +21560,4 @@
 [2026-07-17T03:38:18.000Z] - refactor: clean up deprecated helper functions
 [2026-07-17T03:38:26.000Z] - fix: handle unexpected null pointer exception in parser
 [2026-07-17T03:38:36.000Z] - perf: improve bundle size optimization and asset loading
+[2026-07-17T03:38:40.000Z] - docs: update installation guides and api endpoints documentation
