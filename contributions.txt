@@ -22231,3 +22231,4 @@
 [2026-07-17T04:12:50.000Z] - feat: add multi-language localization support
 [2026-07-17T04:12:52.000Z] - feat: add automatic retry mechanism for api requests
 [2026-07-17T04:12:56.000Z] - perf: improve bundle size optimization and asset loading
+[2026-07-17T04:12:57.000Z] - docs: correct typos and outdated command references in README
