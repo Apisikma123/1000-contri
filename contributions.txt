@@ -19796,3 +19796,4 @@
 [2026-07-17T02:08:07.000Z] - refactor: clean up deprecated helper functions
 [2026-07-17T02:08:08.000Z] - chore: bump dependencies and library versions
 [2026-07-17T02:08:11.000Z] - chore: bump dependencies and library versions
+[2026-07-17T02:08:12.000Z] - feat: add multi-language localization support
