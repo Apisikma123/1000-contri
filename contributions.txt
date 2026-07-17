@@ -22008,3 +22008,4 @@
 [2026-07-17T04:02:16.000Z] - test: implement integration tests for checkout flow
 [2026-07-17T04:02:17.000Z] - style: format codebase using new prettier rules
 [2026-07-17T04:02:20.000Z] - fix: handle unexpected null pointer exception in parser
+[2026-07-17T04:02:23.000Z] - refactor: clean up deprecated helper functions
