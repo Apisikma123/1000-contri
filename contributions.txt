@@ -19875,3 +19875,4 @@
 [2026-07-17T02:12:51.000Z] - perf: improve bundle size optimization and asset loading
 [2026-07-17T02:12:52.000Z] - refactor: optimize database query performance
 [2026-07-17T02:12:54.000Z] - chore: bump dependencies and library versions
+[2026-07-17T02:13:00.000Z] - refactor: clean up deprecated helper functions
