@@ -21162,3 +21162,4 @@
 [2026-07-17T03:17:42.000Z] - perf: improve bundle size optimization and asset loading
 [2026-07-17T03:17:43.000Z] - perf: improve bundle size optimization and asset loading
 [2026-07-17T03:17:48.000Z] - feat: add automatic retry mechanism for api requests
+[2026-07-17T03:17:56.000Z] - docs: correct typos and outdated command references in README
