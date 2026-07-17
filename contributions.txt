@@ -20920,3 +20920,4 @@
 [2026-07-17T03:04:43.000Z] - feat: add automatic retry mechanism for api requests
 [2026-07-17T03:04:44.000Z] - docs: update installation guides and api endpoints documentation
 [2026-07-17T03:04:46.000Z] - style: format codebase using new prettier rules
+[2026-07-17T03:04:52.000Z] - refactor: clean up deprecated helper functions
