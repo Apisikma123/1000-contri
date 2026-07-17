@@ -21293,3 +21293,4 @@
 [2026-07-17T03:24:40.000Z] - fix: handle unexpected null pointer exception in parser
 [2026-07-17T03:24:41.000Z] - style: format codebase using new prettier rules
 [2026-07-17T03:24:46.000Z] - style: format codebase using new prettier rules
+[2026-07-17T03:24:51.000Z] - fix: improve responsive layout on mobile viewport
