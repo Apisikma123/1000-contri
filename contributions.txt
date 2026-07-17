@@ -19826,3 +19826,4 @@
 [2026-07-17T02:10:20.000Z] - test: implement integration tests for checkout flow
 [2026-07-17T02:10:21.000Z] - style: format codebase using new prettier rules
 [2026-07-17T02:10:23.000Z] - feat: add automatic retry mechanism for api requests
+[2026-07-17T02:10:25.000Z] - docs: update installation guides and api endpoints documentation
