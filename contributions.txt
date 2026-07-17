@@ -21816,3 +21816,4 @@
 [2026-07-17T03:52:25.000Z] - feat: add multi-language localization support
 [2026-07-17T03:52:32.000Z] - fix: improve responsive layout on mobile viewport
 [2026-07-17T03:52:36.000Z] - fix: handle unexpected null pointer exception in parser
+[2026-07-17T03:52:36.000Z] - refactor: clean up deprecated helper functions
