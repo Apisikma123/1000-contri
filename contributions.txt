@@ -20840,3 +20840,4 @@
 [2026-07-17T03:01:20.000Z] - chore: bump dependencies and library versions
 [2026-07-17T03:01:24.000Z] - feat: add automatic retry mechanism for api requests
 [2026-07-17T03:01:25.000Z] - docs: update installation guides and api endpoints documentation
+[2026-07-17T03:01:26.000Z] - fix: improve responsive layout on mobile viewport
