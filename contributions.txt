@@ -21306,3 +21306,4 @@
 [2026-07-17T03:25:35.000Z] - feat: add multi-language localization support
 [2026-07-17T03:25:35.000Z] - perf: improve bundle size optimization and asset loading
 [2026-07-17T03:25:36.000Z] - style: format codebase using new prettier rules
+[2026-07-17T03:25:39.000Z] - refactor: clean up deprecated helper functions
