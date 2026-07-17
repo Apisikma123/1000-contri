@@ -22265,3 +22265,4 @@
 [2026-07-17T04:14:40.000Z] - fix: handle unexpected null pointer exception in parser
 [2026-07-17T04:14:41.000Z] - docs: correct typos and outdated command references in README
 [2026-07-17T04:14:44.000Z] - feat: add multi-language localization support
+[2026-07-17T04:14:47.000Z] - refactor: clean up deprecated helper functions
