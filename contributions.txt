@@ -19791,3 +19791,4 @@
 [2026-07-17T02:07:50.000Z] - style: format codebase using new prettier rules
 [2026-07-17T02:07:51.000Z] - test: implement integration tests for checkout flow
 [2026-07-17T02:08:01.000Z] - feat: add automatic retry mechanism for api requests
+[2026-07-17T02:08:02.000Z] - docs: correct typos and outdated command references in README
