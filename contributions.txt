@@ -21717,3 +21717,4 @@
 [2026-07-17T03:46:56.000Z] - perf: improve bundle size optimization and asset loading
 [2026-07-17T03:47:03.000Z] - perf: improve bundle size optimization and asset loading
 [2026-07-17T03:47:04.000Z] - fix: handle unexpected null pointer exception in parser
+[2026-07-17T03:47:11.000Z] - docs: correct typos and outdated command references in README
