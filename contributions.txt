@@ -19879,3 +19879,4 @@
 [2026-07-17T02:13:01.000Z] - refactor: clean up deprecated helper functions
 [2026-07-17T02:13:02.000Z] - refactor: clean up deprecated helper functions
 [2026-07-17T02:13:04.000Z] - chore: configure webpack config for code splitting
+[2026-07-17T02:13:10.000Z] - docs: update installation guides and api endpoints documentation
