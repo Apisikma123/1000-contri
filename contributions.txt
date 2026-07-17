@@ -20918,3 +20918,4 @@
 [2026-07-17T03:04:42.000Z] - feat: add automatic retry mechanism for api requests
 [2026-07-17T03:04:42.000Z] - fix: improve responsive layout on mobile viewport
 [2026-07-17T03:04:43.000Z] - feat: add automatic retry mechanism for api requests
+[2026-07-17T03:04:44.000Z] - docs: update installation guides and api endpoints documentation
