@@ -19995,3 +19995,4 @@
 [2026-07-17T02:20:21.000Z] - refactor: clean up deprecated helper functions
 [2026-07-17T02:20:24.000Z] - test: implement integration tests for checkout flow
 [2026-07-17T02:20:28.000Z] - chore: bump dependencies and library versions
+[2026-07-17T02:20:29.000Z] - docs: correct typos and outdated command references in README
