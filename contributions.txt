@@ -21650,3 +21650,4 @@
 [2026-07-17T03:43:15.000Z] - fix: handle unexpected null pointer exception in parser
 [2026-07-17T03:43:16.000Z] - chore: bump dependencies and library versions
 [2026-07-17T03:43:19.000Z] - fix: improve responsive layout on mobile viewport
+[2026-07-17T03:43:25.000Z] - docs: update installation guides and api endpoints documentation
