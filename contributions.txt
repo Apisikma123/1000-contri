@@ -19511,3 +19511,4 @@
 [2026-07-17T00:06:48.000Z] - test: implement integration tests for checkout flow
 [2026-07-17T00:07:06.000Z] - test: implement integration tests for checkout flow
 [2026-07-17T00:08:16.000Z] - test: implement integration tests for checkout flow
+[2026-07-17T00:08:35.000Z] - refactor: clean up deprecated helper functions
