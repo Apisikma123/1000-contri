@@ -20693,3 +20693,4 @@
 [2026-07-17T02:54:17.000Z] - feat: add automatic retry mechanism for api requests
 [2026-07-17T02:54:18.000Z] - refactor: clean up deprecated helper functions
 [2026-07-17T02:54:20.000Z] - docs: update installation guides and api endpoints documentation
+[2026-07-17T02:54:23.000Z] - fix: handle unexpected null pointer exception in parser
