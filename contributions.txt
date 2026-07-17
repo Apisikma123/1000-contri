@@ -22486,3 +22486,4 @@
 [2026-07-17T04:25:09.000Z] - fix: resolve race condition in authentication middleware
 [2026-07-17T04:25:10.000Z] - feat: add automatic retry mechanism for api requests
 [2026-07-17T04:25:13.000Z] - fix: improve responsive layout on mobile viewport
+[2026-07-17T04:25:14.000Z] - docs: update installation guides and api endpoints documentation
