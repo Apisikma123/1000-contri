@@ -21230,3 +21230,4 @@
 [2026-07-17T03:21:48.000Z] - perf: improve bundle size optimization and asset loading
 [2026-07-17T03:21:51.000Z] - docs: update installation guides and api endpoints documentation
 [2026-07-17T03:21:53.000Z] - perf: improve bundle size optimization and asset loading
+[2026-07-17T03:21:54.000Z] - fix: improve responsive layout on mobile viewport
