@@ -21058,3 +21058,4 @@
 [2026-07-17T03:12:38.000Z] - fix: resolve race condition in authentication middleware
 [2026-07-17T03:12:39.000Z] - refactor: clean up deprecated helper functions
 [2026-07-17T03:12:42.000Z] - fix: resolve race condition in authentication middleware
+[2026-07-17T03:12:46.000Z] - docs: update installation guides and api endpoints documentation
