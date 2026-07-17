@@ -20902,3 +20902,4 @@
 [2026-07-17T03:03:42.000Z] - docs: update installation guides and api endpoints documentation
 [2026-07-17T03:03:44.000Z] - style: format codebase using new prettier rules
 [2026-07-17T03:03:50.000Z] - feat: add automatic retry mechanism for api requests
+[2026-07-17T03:03:51.000Z] - fix: handle unexpected null pointer exception in parser
