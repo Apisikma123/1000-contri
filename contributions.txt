@@ -19793,3 +19793,4 @@
 [2026-07-17T02:08:01.000Z] - feat: add automatic retry mechanism for api requests
 [2026-07-17T02:08:02.000Z] - docs: correct typos and outdated command references in README
 [2026-07-17T02:08:05.000Z] - fix: handle unexpected null pointer exception in parser
+[2026-07-17T02:08:07.000Z] - refactor: clean up deprecated helper functions
