@@ -22324,3 +22324,4 @@
 [2026-07-17T04:17:39.000Z] - chore: bump dependencies and library versions
 [2026-07-17T04:17:44.000Z] - feat: add automatic retry mechanism for api requests
 [2026-07-17T04:17:56.000Z] - fix: handle unexpected null pointer exception in parser
+[2026-07-17T04:17:58.000Z] - refactor: clean up deprecated helper functions
