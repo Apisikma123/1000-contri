@@ -20997,3 +20997,4 @@
 [2026-07-17T03:09:20.000Z] - docs: update installation guides and api endpoints documentation
 [2026-07-17T03:09:24.000Z] - style: format codebase using new prettier rules
 [2026-07-17T03:09:25.000Z] - refactor: clean up deprecated helper functions
+[2026-07-17T03:09:28.000Z] - fix: handle unexpected null pointer exception in parser
