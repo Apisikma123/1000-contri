@@ -22097,3 +22097,4 @@
 [2026-07-17T04:06:49.000Z] - test: implement integration tests for checkout flow
 [2026-07-17T04:06:50.000Z] - feat: add automatic retry mechanism for api requests
 [2026-07-17T04:06:50.000Z] - docs: update installation guides and api endpoints documentation
+[2026-07-17T04:06:53.000Z] - docs: update installation guides and api endpoints documentation
