@@ -22413,3 +22413,4 @@
 [2026-07-17T04:22:00.000Z] - docs: update installation guides and api endpoints documentation
 [2026-07-17T04:22:02.000Z] - perf: improve bundle size optimization and asset loading
 [2026-07-17T04:22:03.000Z] - fix: improve responsive layout on mobile viewport
+[2026-07-17T04:22:04.000Z] - docs: correct typos and outdated command references in README
