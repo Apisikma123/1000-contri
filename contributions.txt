@@ -20160,3 +20160,4 @@
 [2026-07-17T02:28:15.000Z] - docs: update installation guides and api endpoints documentation
 [2026-07-17T02:28:22.000Z] - feat: add automatic retry mechanism for api requests
 [2026-07-17T02:28:22.000Z] - perf: improve bundle size optimization and asset loading
+[2026-07-17T02:28:23.000Z] - refactor: clean up deprecated helper functions
