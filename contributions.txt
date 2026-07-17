@@ -21791,3 +21791,4 @@
 [2026-07-17T03:51:19.000Z] - perf: improve bundle size optimization and asset loading
 [2026-07-17T03:51:19.000Z] - test: implement integration tests for checkout flow
 [2026-07-17T03:51:20.000Z] - perf: improve bundle size optimization and asset loading
+[2026-07-17T03:51:21.000Z] - refactor: clean up deprecated helper functions
