@@ -21023,3 +21023,4 @@
 [2026-07-17T03:10:34.000Z] - feat: add automatic retry mechanism for api requests
 [2026-07-17T03:10:48.000Z] - chore: bump dependencies and library versions
 [2026-07-17T03:10:54.000Z] - chore: bump dependencies and library versions
+[2026-07-17T03:11:01.000Z] - refactor: clean up deprecated helper functions
