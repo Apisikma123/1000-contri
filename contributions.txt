@@ -21359,3 +21359,4 @@
 [2026-07-17T03:28:39.000Z] - fix: improve responsive layout on mobile viewport
 [2026-07-17T03:28:40.000Z] - style: format codebase using new prettier rules
 [2026-07-17T03:28:40.000Z] - feat: add automatic retry mechanism for api requests
+[2026-07-17T03:28:40.000Z] - docs: update installation guides and api endpoints documentation
