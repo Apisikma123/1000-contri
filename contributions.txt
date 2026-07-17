@@ -20899,3 +20899,4 @@
 [2026-07-17T03:03:35.000Z] - feat: add automatic retry mechanism for api requests
 [2026-07-17T03:03:35.000Z] - refactor: clean up deprecated helper functions
 [2026-07-17T03:03:38.000Z] - refactor: optimize database query performance
+[2026-07-17T03:03:42.000Z] - docs: update installation guides and api endpoints documentation
