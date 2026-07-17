@@ -19556,3 +19556,4 @@
 [2026-07-17T00:45:37.000Z] - chore: bump dependencies and library versions
 [2026-07-17T00:47:17.000Z] - fix: resolve race condition in authentication middleware
 [2026-07-17T00:48:07.000Z] - fix: resolve race condition in authentication middleware
+[2026-07-17T00:48:18.000Z] - docs: update installation guides and api endpoints documentation
