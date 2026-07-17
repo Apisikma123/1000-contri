@@ -22541,3 +22541,4 @@
 [2026-07-17T04:28:15.000Z] - docs: update installation guides and api endpoints documentation
 [2026-07-17T04:28:18.000Z] - refactor: optimize database query performance
 [2026-07-17T04:28:20.000Z] - test: implement integration tests for checkout flow
+[2026-07-17T04:28:21.000Z] - refactor: clean up deprecated helper functions
