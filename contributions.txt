@@ -21809,3 +21809,4 @@
 [2026-07-17T03:51:57.000Z] - feat: add multi-language localization support
 [2026-07-17T03:51:59.000Z] - docs: correct typos and outdated command references in README
 [2026-07-17T03:52:01.000Z] - style: format codebase using new prettier rules
+[2026-07-17T03:52:01.000Z] - fix: handle unexpected null pointer exception in parser
