@@ -22349,3 +22349,4 @@
 [2026-07-17T04:19:04.000Z] - chore: configure webpack config for code splitting
 [2026-07-17T04:19:07.000Z] - style: format codebase using new prettier rules
 [2026-07-17T04:19:08.000Z] - chore: configure webpack config for code splitting
+[2026-07-17T04:19:14.000Z] - docs: update installation guides and api endpoints documentation
