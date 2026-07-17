@@ -20849,3 +20849,4 @@
 [2026-07-17T03:01:40.000Z] - style: format codebase using new prettier rules
 [2026-07-17T03:01:46.000Z] - perf: improve bundle size optimization and asset loading
 [2026-07-17T03:01:47.000Z] - fix: handle unexpected null pointer exception in parser
+[2026-07-17T03:01:48.000Z] - refactor: clean up deprecated helper functions
