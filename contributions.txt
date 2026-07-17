@@ -22151,3 +22151,4 @@
 [2026-07-17T04:09:45.000Z] - docs: correct typos and outdated command references in README
 [2026-07-17T04:09:49.000Z] - refactor: optimize database query performance
 [2026-07-17T04:09:51.000Z] - style: format codebase using new prettier rules
+[2026-07-17T04:09:54.000Z] - fix: handle unexpected null pointer exception in parser
