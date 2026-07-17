@@ -20897,3 +20897,4 @@
 [2026-07-17T03:03:33.000Z] - style: format codebase using new prettier rules
 [2026-07-17T03:03:33.000Z] - chore: configure webpack config for code splitting
 [2026-07-17T03:03:35.000Z] - feat: add automatic retry mechanism for api requests
+[2026-07-17T03:03:35.000Z] - refactor: clean up deprecated helper functions
