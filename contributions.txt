@@ -20472,3 +20472,4 @@
 [2026-07-17T02:43:41.000Z] - docs: update installation guides and api endpoints documentation
 [2026-07-17T02:43:42.000Z] - feat: add automatic retry mechanism for api requests
 [2026-07-17T02:43:48.000Z] - style: format codebase using new prettier rules
+[2026-07-17T02:43:49.000Z] - feat: add multi-language localization support
