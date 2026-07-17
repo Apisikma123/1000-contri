@@ -19541,3 +19541,4 @@
 [2026-07-17T00:32:39.000Z] - fix: improve responsive layout on mobile viewport
 [2026-07-17T00:33:45.000Z] - fix: handle unexpected null pointer exception in parser
 [2026-07-17T00:36:31.000Z] - feat: add multi-language localization support
+[2026-07-17T00:37:46.000Z] - docs: correct typos and outdated command references in README
