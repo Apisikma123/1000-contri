@@ -22294,3 +22294,4 @@
 [2026-07-17T04:15:55.000Z] - style: format codebase using new prettier rules
 [2026-07-17T04:16:04.000Z] - style: format codebase using new prettier rules
 [2026-07-17T04:16:13.000Z] - feat: add automatic retry mechanism for api requests
+[2026-07-17T04:16:14.000Z] - docs: update installation guides and api endpoints documentation
