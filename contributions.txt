@@ -20684,3 +20684,4 @@
 [2026-07-17T02:53:54.000Z] - docs: correct typos and outdated command references in README
 [2026-07-17T02:53:57.000Z] - chore: bump dependencies and library versions
 [2026-07-17T02:53:58.000Z] - refactor: clean up deprecated helper functions
+[2026-07-17T02:54:00.000Z] - fix: handle unexpected null pointer exception in parser
