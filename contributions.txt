@@ -20592,3 +20592,4 @@
 [2026-07-17T02:49:11.000Z] - docs: correct typos and outdated command references in README
 [2026-07-17T02:49:11.000Z] - perf: improve bundle size optimization and asset loading
 [2026-07-17T02:49:14.000Z] - chore: bump dependencies and library versions
+[2026-07-17T02:49:18.000Z] - refactor: clean up deprecated helper functions
