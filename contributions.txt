@@ -21850,3 +21850,4 @@
 [2026-07-17T03:54:13.000Z] - style: format codebase using new prettier rules
 [2026-07-17T03:54:21.000Z] - refactor: clean up deprecated helper functions
 [2026-07-17T03:54:27.000Z] - docs: update installation guides and api endpoints documentation
+[2026-07-17T03:54:30.000Z] - feat: add multi-language localization support
