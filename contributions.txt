@@ -22023,3 +22023,4 @@
 [2026-07-17T04:02:48.000Z] - docs: correct typos and outdated command references in README
 [2026-07-17T04:02:49.000Z] - chore: bump dependencies and library versions
 [2026-07-17T04:02:54.000Z] - feat: add automatic retry mechanism for api requests
+[2026-07-17T04:02:57.000Z] - docs: update installation guides and api endpoints documentation
