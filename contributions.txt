@@ -19806,3 +19806,4 @@
 [2026-07-17T02:08:47.000Z] - fix: improve responsive layout on mobile viewport
 [2026-07-17T02:09:07.000Z] - fix: improve responsive layout on mobile viewport
 [2026-07-17T02:09:11.000Z] - test: implement integration tests for checkout flow
+[2026-07-17T02:09:11.000Z] - docs: correct typos and outdated command references in README
