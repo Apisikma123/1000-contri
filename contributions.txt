@@ -19730,3 +19730,4 @@
 [2026-07-17T02:04:32.000Z] - chore: bump dependencies and library versions
 [2026-07-17T02:04:39.000Z] - test: implement integration tests for checkout flow
 [2026-07-17T02:04:44.000Z] - chore: bump dependencies and library versions
+[2026-07-17T02:04:45.000Z] - refactor: clean up deprecated helper functions
